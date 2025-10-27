@@ -485,7 +485,7 @@
 * [bastienwirtz/homer](https://github.com/bastienwirtz/homer): A very simple static homepage for your server.
 * [andsens/homeshick](https://github.com/andsens/homeshick): git dotfiles synchronizer written in bash
 * [Sian-Lee-SA/honeycomb-menu](https://github.com/Sian-Lee-SA/honeycomb-menu): Honeycomb menu is a Home Assistant module (not a card) that can be applied to any lovelace card. When activated by the defined action on said card, the module will display a 'rounded' list of honeycomb buttons with an optional XY pad to make interfacing with lovelace more fluent
-* [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch): Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+* [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch): Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 * [webysther/hoppscotch-docker](https://github.com/webysther/hoppscotch-docker): All-in-one hoppscotch image that works with one domain and have embed smtp
 * [howtographql/howtographql](https://github.com/howtographql/howtographql): The Fullstack Tutorial for GraphQL
 * [loiccattani/html-video-automator](https://github.com/loiccattani/html-video-automator): Encode your videos in formats required for HTML5 video playback, generate poster image and HTML document, publish all files to your web server and archive sources elsewhere. 1-Click.

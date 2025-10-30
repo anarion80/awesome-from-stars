@@ -176,7 +176,7 @@
 * [rianadon/dactyl-configurator](https://github.com/rianadon/dactyl-configurator): Generate Dactyl keyboard designs from your browser.
 * [joshreve/dactyl-keyboard](https://github.com/joshreve/dactyl-keyboard): Dactyl-ManuForm, a parameterized ergonomic keyboard translated into Python including a cadquery / Open CASCADE implementation.
 * [kissetfall/dactyl-keyboard](https://github.com/kissetfall/dactyl-keyboard): Dactyl-ManuForm, a parameterized ergonomic keyboard translated into Python including a cadquery / Open CASCADE implementation.
-* [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell): Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri & hyprland. Check out the niri community Discord below. 
+* [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell): Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, and dwl (MangoWC). Check out the niri community Discord below. 
 * [darktable-org/darktable](https://github.com/darktable-org/darktable): darktable is an open source photography workflow application and raw developer
 * [jtleek/datasharing](https://github.com/jtleek/datasharing): The Leek group guide to data sharing 
 * [linuxserver/davos](https://github.com/linuxserver/davos): Web-based FTP automation for Linux servers.
@@ -839,7 +839,7 @@
 * [tavisrudd/r_users_group_1](https://github.com/tavisrudd/r_users_group_1): first meeting of the Vancouver R Users Group
 * [andrewjrae/rae-dux](https://github.com/andrewjrae/rae-dux): Generated keyboard
 * [lukevella/rallly](https://github.com/lukevella/rallly): Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
-* [DEgITx/rats-search](https://github.com/DEgITx/rats-search): BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client.
+* [librats/rats-search](https://github.com/librats/rats-search): rats-search: BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client
 * [serpent213/reactor-ca](https://github.com/serpent213/reactor-ca): Homelab/SOHO Certificate Authority with age encryption and deployment
 * [Readarr/Readarr](https://github.com/Readarr/Readarr): Book Manager and Automation (Sonarr for Ebooks)
 * [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes): Application for managing recipes, planning meals, building shopping lists and much much more!

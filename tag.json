@@ -2387,6 +2387,9 @@
     "oauth2-proxy/oauth2-proxy": [
         "Other"
     ],
+    "octelium/octelium": [
+        "Other"
+    ],
     "oddlama/nix-config": [
         "Other"
     ],

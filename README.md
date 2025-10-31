@@ -588,7 +588,7 @@
 * [Litlyx/litlyx](https://github.com/Litlyx/litlyx): Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, Umami & Matomo.
 * [timothystewart6/littlelink-server](https://github.com/timothystewart6/littlelink-server): A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
 * [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt): A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
-* [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
+* [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
 * [localsend/localsend](https://github.com/localsend/localsend): An open-source cross-platform alternative to AirDrop
 * [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya): local handling for Tuya devices
 * [LodestoneHQ/lodestone](https://github.com/LodestoneHQ/lodestone): Personal Document Archiving (DMS, EDMS for Personal/Home Office use)
@@ -716,6 +716,7 @@
 * [jdhao/nvim-config](https://github.com/jdhao/nvim-config): A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
 * [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2): Usenet meta search
 * [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy): A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+* [octelium/octelium](https://github.com/octelium/octelium): A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastructure.
 * [jneilliii/OctoPrint-BambuPrinter](https://github.com/jneilliii/OctoPrint-BambuPrinter): None
 * [treefarmstudio/odyssey-theme](https://github.com/treefarmstudio/odyssey-theme): A modern business marketing website theme/starter built with Astro 🚀
 * [JohnOberhauser/OkPanel](https://github.com/JohnOberhauser/OkPanel): A configurable panel for Hyprland, built with Ags

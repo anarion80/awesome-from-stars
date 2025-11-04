@@ -157,7 +157,7 @@
 * [comictagger/comictagger](https://github.com/comictagger/comictagger): A multi-platform app for writing metadata to digital comics
 * [mcpierce/comixed](https://github.com/mcpierce/comixed): The ComiXed Digital Comic Management System
 * [Athou/commafeed](https://github.com/Athou/commafeed): Google Reader inspired self-hosted personal RSS reader.
-* [continuedev/continue](https://github.com/continuedev/continue): ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
+* [continuedev/continue](https://github.com/continuedev/continue): ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 * [coollabsio/coolify](https://github.com/coollabsio/coolify): An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 * [seblucas/cops](https://github.com/seblucas/cops): Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
 * [dnlbauer/corax-keyboard](https://github.com/dnlbauer/corax-keyboard): A column-staggered wireless spilt keyboard with scrollwheels, thumb- and pinky cluster.
@@ -852,6 +852,7 @@
 * [stangri/repo.openwrt.melmac.ca](https://github.com/stangri/repo.openwrt.melmac.ca): OpenWrt/LEDE Project Packages Repository
 * [darkalfx/requestrr](https://github.com/darkalfx/requestrr): Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat. Current platform is Discord only, but the bot was built around the ideology of quick adaptation for new features as well as new platforms.
 * [rero/rero-ils](https://github.com/rero/rero-ils): Integrated Library System flavour of Invenio by RERO+.
+* [unknowntrojan/resolvepatch](https://github.com/unknowntrojan/resolvepatch): license patcher for davinci resolve studio
 * [lobaro/restic-backup-docker](https://github.com/lobaro/restic-backup-docker): A docker container to automate backups with restic 
 * [calvinbui/resume](https://github.com/calvinbui/resume): 📝Resume created with LaTeX
 * [mossmann/retroreflectors](https://github.com/mossmann/retroreflectors): RF retroreflectors
@@ -1038,7 +1039,7 @@
 * [erkexzcx/valetudopng](https://github.com/erkexzcx/valetudopng): A Valetudo map renderer (ex Hypfer/ICantBelieveItsNotValetudo) for Home Assistant.
 * [Boerderij/Varken](https://github.com/Boerderij/Varken): Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana as a frontend
 * [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden): Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-* [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure): Customizable Commerce Platform Built for Scale
+* [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure): The most customizable commerce platform built with TypeScript, NestJS and GraphQL. 
 * [ventoy/Ventoy](https://github.com/ventoy/Ventoy): A new bootable USB solution.
 * [khieu-dv/vieshare](https://github.com/khieu-dv/vieshare): VieShare eCommerce
 * [JakeWharton/ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator): Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock.

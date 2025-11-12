@@ -46,7 +46,7 @@
 * [bertvv/ansible-role-samba](https://github.com/bertvv/ansible-role-samba): Ansible role for managing Samba as a file server on RedHat- and Debian-based linux distros.
 * [engonzal/ansible_role_proxmox](https://github.com/engonzal/ansible_role_proxmox): Ansible role to provision containers in Proxmox VE virtualization
 * [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy): Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
-* [appwrite/appwrite](https://github.com/appwrite/appwrite): Build like a team of hundreds_
+* [appwrite/appwrite](https://github.com/appwrite/appwrite): The developers' cloud
 * [ansible-community/ara](https://github.com/ansible-community/ara): ARA Records Ansible and makes it easier to understand and troubleshoot.
 * [vercel/arg](https://github.com/vercel/arg): Simple argument parsing
 * [lcdyk0517/arkos4clone](https://github.com/lcdyk0517/arkos4clone): arkos for clone
@@ -176,7 +176,7 @@
 * [rianadon/dactyl-configurator](https://github.com/rianadon/dactyl-configurator): Generate Dactyl keyboard designs from your browser.
 * [joshreve/dactyl-keyboard](https://github.com/joshreve/dactyl-keyboard): Dactyl-ManuForm, a parameterized ergonomic keyboard translated into Python including a cadquery / Open CASCADE implementation.
 * [kissetfall/dactyl-keyboard](https://github.com/kissetfall/dactyl-keyboard): Dactyl-ManuForm, a parameterized ergonomic keyboard translated into Python including a cadquery / Open CASCADE implementation.
-* [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell): Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, and dwl (MangoWC).
+* [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell): Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, and labwc.
 * [darktable-org/darktable](https://github.com/darktable-org/darktable): darktable is an open source photography workflow application and raw developer
 * [jtleek/datasharing](https://github.com/jtleek/datasharing): The Leek group guide to data sharing 
 * [linuxserver/davos](https://github.com/linuxserver/davos): Web-based FTP automation for Linux servers.
@@ -1022,7 +1022,7 @@
 * [al-kot/typst-preview.nvim](https://github.com/al-kot/typst-preview.nvim): Live typst preview directly in neovim
 * [seanboyce/ubiblio](https://github.com/seanboyce/ubiblio): A small web app to manage your personal library, designed for self-hosting
 * [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI): UI-Lovelace-Minimalist is a "theme" for HomeAssistant
-* [umami-software/umami](https://github.com/umami-software/umami): Umami is a modern, privacy-focused alternative to Google Analytics.
+* [umami-software/umami](https://github.com/umami-software/umami): Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
 * [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall): Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
 * [UnicornTranscoder/UnicornTranscoder](https://github.com/UnicornTranscoder/UnicornTranscoder): Remote transcoder for Plex
 * [saik0/UnifiedPreference](https://github.com/saik0/UnifiedPreference): A convinience library for working with all versions of the Android Preference package from API v4 and up

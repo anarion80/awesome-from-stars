@@ -176,7 +176,7 @@
 * [rianadon/dactyl-configurator](https://github.com/rianadon/dactyl-configurator): Generate Dactyl keyboard designs from your browser.
 * [joshreve/dactyl-keyboard](https://github.com/joshreve/dactyl-keyboard): Dactyl-ManuForm, a parameterized ergonomic keyboard translated into Python including a cadquery / Open CASCADE implementation.
 * [kissetfall/dactyl-keyboard](https://github.com/kissetfall/dactyl-keyboard): Dactyl-ManuForm, a parameterized ergonomic keyboard translated into Python including a cadquery / Open CASCADE implementation.
-* [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell): Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, and labwc.
+* [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell): Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, and MangoWC
 * [darktable-org/darktable](https://github.com/darktable-org/darktable): darktable is an open source photography workflow application and raw developer
 * [jtleek/datasharing](https://github.com/jtleek/datasharing): The Leek group guide to data sharing 
 * [linuxserver/davos](https://github.com/linuxserver/davos): Web-based FTP automation for Linux servers.

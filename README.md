@@ -280,7 +280,7 @@
 * [yurt-page/docs](https://github.com/yurt-page/docs): Design and solutions to build a popular self hosting service
 * [Doctor-One/doctor-dok](https://github.com/Doctor-One/doctor-dok): Doctor Dok is an AI based medical data framework and patient's med vault. Parse any health related PDF/Image to JSON and then use Chat GPT / LLama to discuss it! WARNING: Don't decide on your health based on AI Chat - it's just for Research purposes.
 * [amerkurev/doku](https://github.com/amerkurev/doku): 💽 Doku - Docker disk usage dashboard
-* [maelgangloff/domain-watchdog](https://github.com/maelgangloff/domain-watchdog): An app that uses RDAP to collect publicly available info about domains, track their history, and purchase them
+* [maelgangloff/domain-watchdog](https://github.com/maelgangloff/domain-watchdog): 🔍 An app that monitors domain names using RDAP, tracks their history, and helps you acquire them when they expire
 * [TophC7/dot.nix](https://github.com/TophC7/dot.nix): Nix config for Homelab and PCs
 * [anishathalye/dotbot](https://github.com/anishathalye/dotbot): A tool that bootstraps your dotfiles ⚡️
 * [TLSingh1/dotfiles](https://github.com/TLSingh1/dotfiles): None
@@ -430,6 +430,7 @@
 * [zvldz/ha_custom_filters](https://github.com/zvldz/ha_custom_filters): Custom filters for Home Assistant
 * [borpin/ha_komfovent_config](https://github.com/borpin/ha_komfovent_config): Set of files for configuring MODBUS connection to a Komfovent Unit
 * [HabitRPG/habitica](https://github.com/HabitRPG/habitica): A habit tracker app which treats your goals like a Role Playing Game.
+* [awinterstein/habitica-android](https://github.com/awinterstein/habitica-android): Fork of the Habitica Android app for self-hosted instances.
 * [dropbox/hackpad](https://github.com/dropbox/hackpad): Hackpad is a web-based realtime wiki.
 * [toboshii/hajimari](https://github.com/toboshii/hajimari): Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.
 * [ZeroQI/Hama.bundle](https://github.com/ZeroQI/Hama.bundle): Plex HTTP Anidb Metadata Agent (HAMA)

@@ -176,11 +176,11 @@
 * [rianadon/dactyl-configurator](https://github.com/rianadon/dactyl-configurator): Generate Dactyl keyboard designs from your browser.
 * [joshreve/dactyl-keyboard](https://github.com/joshreve/dactyl-keyboard): Dactyl-ManuForm, a parameterized ergonomic keyboard translated into Python including a cadquery / Open CASCADE implementation.
 * [kissetfall/dactyl-keyboard](https://github.com/kissetfall/dactyl-keyboard): Dactyl-ManuForm, a parameterized ergonomic keyboard translated into Python including a cadquery / Open CASCADE implementation.
-* [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell): Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, and MangoWC
+* [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell): Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, and labwc.
 * [darktable-org/darktable](https://github.com/darktable-org/darktable): darktable is an open source photography workflow application and raw developer
 * [jtleek/datasharing](https://github.com/jtleek/datasharing): The Leek group guide to data sharing 
 * [linuxserver/davos](https://github.com/linuxserver/davos): Web-based FTP automation for Linux servers.
-* [Freika/dawarich](https://github.com/Freika/dawarich): Self-hostable alternative to Google Timeline (Google Location History)
+* [Freika/dawarich](https://github.com/Freika/dawarich): Your favorite self-hostable alternative to Google Timeline (Google Location History)
 * [dbgate/dbgate](https://github.com/dbgate/dbgate): Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 * [hackthedev/dcts-shipping](https://github.com/hackthedev/dcts-shipping): A Chat Platform like Discord but self-hostable like TeamSpeak
 * [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10): A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps

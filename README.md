@@ -142,7 +142,7 @@
 * [t7h-dots/cli](https://github.com/t7h-dots/cli): Customized version of the caelestia cli by soramanew
 * [daenny/climate_group](https://github.com/daenny/climate_group): Home Assistant Climate Group
 * [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox): Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
-* [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared): Cloudflare Tunnel client (formerly Argo Tunnel)
+* [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared): Cloudflare Tunnel client
 * [l3uddz/cloudplow](https://github.com/l3uddz/cloudplow): Automatic rclone remote uploader, with support for multiple remote/folder pairings.  UnionFS Cleaner functionality: Deletion of UnionFS whiteout files  and their corresponding files on rclone remotes. Automatic remote syncer: Sync between different remotes via a Scaleway server instance, that is created and destroyed at every sync.
 * [yegors/co-atc](https://github.com/yegors/co-atc): Air traffic control simulator that leverages local SDRs for ADSB telemetry and VHF coms with optional "AI based capabilities"
 * [asweigart/codebreaker](https://github.com/asweigart/codebreaker): "Hacking Secret Ciphers with Python" programs
@@ -1048,6 +1048,7 @@
 * [roflcoopter/viseron](https://github.com/roflcoopter/viseron): Self-hosted, local only NVR and AI Computer Vision software.  With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, office or any other place you want to monitor.
 * [volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility): An advanced memory forensics framework
 * [jakovius/voxd](https://github.com/jakovius/voxd): VOXD is a speech-to-text, voice-typing, dictation software for linux distributions. It is an open-source, free of charge, USER-FRIENDLY software, for as many linux distros as possible.
+* [Rookwork/Voyager-keywell-adapters](https://github.com/Rookwork/Voyager-keywell-adapters): 3D-printable adapters to curve the ZSA Voyager keycaps
 * [Melkeydev/vscode_bindings](https://github.com/Melkeydev/vscode_bindings): None
 * [Antoni-Czaplicki/vulcan-for-hassio](https://github.com/Antoni-Czaplicki/vulcan-for-hassio): Vulcan inegration for home assistamt
 * [ellite/Wallos](https://github.com/ellite/Wallos): Wallos: Open-Source Personal Subscription Tracker

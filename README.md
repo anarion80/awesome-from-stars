@@ -1023,7 +1023,7 @@
 * [al-kot/typst-preview.nvim](https://github.com/al-kot/typst-preview.nvim): Live typst preview directly in neovim
 * [seanboyce/ubiblio](https://github.com/seanboyce/ubiblio): A small web app to manage your personal library, designed for self-hosting
 * [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI): UI-Lovelace-Minimalist is a "theme" for HomeAssistant
-* [umami-software/umami](https://github.com/umami-software/umami): Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
+* [umami-software/umami](https://github.com/umami-software/umami): Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
 * [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall): Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
 * [UnicornTranscoder/UnicornTranscoder](https://github.com/UnicornTranscoder/UnicornTranscoder): Remote transcoder for Plex
 * [saik0/UnifiedPreference](https://github.com/saik0/UnifiedPreference): A convinience library for working with all versions of the Android Preference package from API v4 and up

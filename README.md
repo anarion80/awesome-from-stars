@@ -72,7 +72,7 @@
 * [dan-online/autopulse](https://github.com/dan-online/autopulse): 💫 automated lightweight service that updates media servers like Plex and Jellyfin based on notifications from media organizers like Sonarr and Radarr
 * [sbmpost/AutoRaise](https://github.com/sbmpost/AutoRaise): AutoRaise (and focus) a window when hovering over it with the mouse
 * [Cloudbox/autoscan](https://github.com/Cloudbox/autoscan): Autoscan replaces the default Plex and Emby behaviour for picking up changes on the file system.
-* [denizsafak/AutoSubSync](https://github.com/denizsafak/AutoSubSync): AutoSubSync is a user-friendly Python tool that helps you easily synchronize subtitle files. It supports various subtitle formats and allows you to sync subtitles effortlessly by shifting subtitle timings automatically or manually with a millisecond offset.
+* [denizsafak/AutoSubSync](https://github.com/denizsafak/AutoSubSync): Automatic subtitle synchronization tool.
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
 * [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV): :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 * [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics): A curated list of awesome resources for Electronic Engineers and hobbyists

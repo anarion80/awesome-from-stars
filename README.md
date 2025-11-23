@@ -1053,7 +1053,7 @@
 * [Antoni-Czaplicki/vulcan-for-hassio](https://github.com/Antoni-Czaplicki/vulcan-for-hassio): Vulcan inegration for home assistamt
 * [ellite/Wallos](https://github.com/ellite/Wallos): Wallos: Open-Source Personal Subscription Tracker
 * [TheTimeWalker/wallpanel-android](https://github.com/TheTimeWalker/wallpanel-android): WallPanel is an Android application for Web Based Dashboards and Home Automation Platforms
-* [5hubham5ingh/WallRizz](https://github.com/5hubham5ingh/WallRizz): A terminal-based wallpaper manager that displays wallpapers in a grid, allowing users to select and set wallpapers while automatically customizing application color themes based on the chosen wallpaper. It also enables browsing and downloading wallpapers from various GitHub wallpaper repositories.
+* [5hubham5ingh/WallRizz](https://github.com/5hubham5ingh/WallRizz): A terminal-based wallpaper selector and system theme manager. It also enables browsing and downloading wallpapers from various wallpaper collection repositories on GitHub.
 * [Flomp/wanderer](https://github.com/Flomp/wanderer): wanderer is a self-hosted trail database. Save your adventures!
 * [nosmokingbandit/watcher](https://github.com/nosmokingbandit/watcher): None
 * [SpaceK33z/web-to-plex](https://github.com/SpaceK33z/web-to-plex): 🚠 Adds a button on various movie & TV show sites to open it in Plex.

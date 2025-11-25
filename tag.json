@@ -2177,6 +2177,9 @@
     "mcpierce/comixed": [
         "Other"
     ],
+    "md-mq/django-calendar": [
+        "Other"
+    ],
     "mdbootstrap/bootstrap-toggle-buttons": [
         "Other"
     ],
@@ -2247,9 +2250,6 @@
         "Other"
     ],
     "mmistakes/minimal-mistakes": [
-        "Other"
-    ],
-    "mmourafiq/django-calendar": [
         "Other"
     ],
     "mnfst/manifest": [

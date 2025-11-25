@@ -210,7 +210,7 @@
 * [earle/django-bootstrap](https://github.com/earle/django-bootstrap): Django Form Implementation of the Twitter-Bootstrap UI
 * [tzangms/django-bootstrap-form](https://github.com/tzangms/django-bootstrap-form): Twitter Bootstrap for Django Form
 * [dyve/django-bootstrap-toolkit](https://github.com/dyve/django-bootstrap-toolkit): Bootstrap support for Django projects
-* [mmourafiq/django-calendar](https://github.com/mmourafiq/django-calendar): A simple calendar/events app with django
+* [md-mq/django-calendar](https://github.com/md-mq/django-calendar): A simple calendar/events app with django
 * [jazzband/django-configurations](https://github.com/jazzband/django-configurations): A helper for organizing Django project settings by relying on well established programming patterns.
 * [jazzband/django-constance](https://github.com/jazzband/django-constance): Dynamic Django settings.
 * [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms): The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.

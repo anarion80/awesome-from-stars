@@ -956,7 +956,7 @@
 * [gyaneesh/standardnotes-extensions](https://github.com/gyaneesh/standardnotes-extensions): Self-host standard notes extensions repository.
 * [sentriz/standardnotes-extensions](https://github.com/sentriz/standardnotes-extensions): auto updating extensions for your standardnotes server
 * [rmcelreath/stat_rethinking_2023](https://github.com/rmcelreath/stat_rethinking_2023): Statistical Rethinking Course for Jan-Mar 2023
-* [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF): #1 Locally hosted web application that allows you to perform various operations on PDF files
+* [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF): #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 * [hph/stocks](https://github.com/hph/stocks): Get current stock quotes and other information.
 * [zzeneg/stront](https://github.com/zzeneg/stront): Split keyboards with 38 or 40 keys, LCD display and Cirque trackpad
 * [withstudiocms/studiocms](https://github.com/withstudiocms/studiocms): Headless CMS for Astro, built with Astro, that provides a user-friendly and configurable dashboard for content management

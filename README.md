@@ -686,7 +686,7 @@
 * [PrettyBoyCosmo/nix](https://github.com/PrettyBoyCosmo/nix): My NixOS config
 * [knoopx/nix](https://github.com/knoopx/nix): Niri + AGS based desktop environment on top of nixos
 * [sonntag/nix](https://github.com/sonntag/nix): My personal nix flake
-* [numtide/nix-ai-tools](https://github.com/numtide/nix-ai-tools): Exploring the integration between Nix and AI coding agents
+* [numtide/nix-ai-tools](https://github.com/numtide/nix-ai-tools): Nix packages for AI coding agents and development tools. Automatically updated daily.
 * [AlexNabokikh/nix-config](https://github.com/AlexNabokikh/nix-config): NixOS, Nix-Darwin and home-manager configurations.
 * [Tarow/nix-config](https://github.com/Tarow/nix-config): None
 * [notthebee/nix-config](https://github.com/notthebee/nix-config): Configuration files for my NixOS and nix-darwin machines
@@ -959,7 +959,7 @@
 * [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF): #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 * [hph/stocks](https://github.com/hph/stocks): Get current stock quotes and other information.
 * [zzeneg/stront](https://github.com/zzeneg/stront): Split keyboards with 38 or 40 keys, LCD display and Cirque trackpad
-* [withstudiocms/studiocms](https://github.com/withstudiocms/studiocms): Headless CMS for Astro, built with Astro, that provides a user-friendly and configurable dashboard for content management
+* [withstudiocms/studiocms](https://github.com/withstudiocms/studiocms): Dedicated SSR (Server-side-rendered) Astro native Headless CMS, build from the ground up for the Astro community and by Astro community members
 * [stumpapp/stump](https://github.com/stumpapp/stump): A free and open source comics, manga and digital book server with OPDS support (WIP)
 * [robzr/sub2rbl](https://github.com/robzr/sub2rbl): OpenWRT utility that syncs online RBLs to iptables via ipset sets.
 * [SuiteCRM/SuiteCRM](https://github.com/SuiteCRM/SuiteCRM): SuiteCRM - Open source CRM for the world
@@ -1015,7 +1015,7 @@
 * [bmrf/tron](https://github.com/bmrf/tron): Tron
 * [joshp23/ttrss-to-wallabag-v2](https://github.com/joshp23/ttrss-to-wallabag-v2): A Tiny Tiny RSS plugin to post to a Wallabg v2 instance
 * [sidharthmohannair/Tutorial-ESP32-C3-Super-Mini](https://github.com/sidharthmohannair/Tutorial-ESP32-C3-Super-Mini): This tutorial provides a comprehensive guide on using the ESP32-C3 Super Mini, including board specifications, pinouts, getting start on Arduino IDE, and so on
-* [romasku/tuya-zigbee-switch](https://github.com/romasku/tuya-zigbee-switch): Feature-rich custom firmware for Telink-based Tuya Zigbee switches and switch-modules.
+* [romasku/tuya-zigbee-switch](https://github.com/romasku/tuya-zigbee-switch): Feature-rich custom firmware for Telink/Silabs Zigbee switches, modules, sockets
 * [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend): Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C/C2, DVB-S/S2, DVB-T/T2, IPTV, SAT>IP and unix pipe input sources
 * [twentyhq/twenty](https://github.com/twentyhq/twenty): Building a modern alternative to Salesforce, powered by the community.
 * [bcomnes/twitter-component](https://github.com/bcomnes/twitter-component): A native DOM component for embedding tweets

@@ -589,6 +589,7 @@
 * [Litlyx/litlyx](https://github.com/Litlyx/litlyx): Powerful Analytics Solution. Setup in 30 seconds. Display all your data on a Simple, AI-powered dashboard. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, Umami & Matomo.
 * [timothystewart6/littlelink-server](https://github.com/timothystewart6/littlelink-server): A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
 * [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt): A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
+* [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix): Nix packages for AI coding agents and development tools. Automatically updated daily.
 * [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
 * [localsend/localsend](https://github.com/localsend/localsend): An open-source cross-platform alternative to AirDrop
 * [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya): local handling for Tuya devices
@@ -686,7 +687,6 @@
 * [PrettyBoyCosmo/nix](https://github.com/PrettyBoyCosmo/nix): My NixOS config
 * [knoopx/nix](https://github.com/knoopx/nix): Niri + AGS based desktop environment on top of nixos
 * [sonntag/nix](https://github.com/sonntag/nix): My personal nix flake
-* [numtide/nix-ai-tools](https://github.com/numtide/nix-ai-tools): Nix packages for AI coding agents and development tools. Automatically updated daily.
 * [AlexNabokikh/nix-config](https://github.com/AlexNabokikh/nix-config): NixOS, Nix-Darwin and home-manager configurations.
 * [Tarow/nix-config](https://github.com/Tarow/nix-config): None
 * [notthebee/nix-config](https://github.com/notthebee/nix-config): Configuration files for my NixOS and nix-darwin machines

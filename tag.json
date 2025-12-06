@@ -2387,7 +2387,7 @@
     "notthebee/nix-config": [
         "Other"
     ],
-    "numtide/nix-ai-tools": [
+    "numtide/llm-agents.nix": [
         "Other"
     ],
     "oauth2-proxy/oauth2-proxy": [

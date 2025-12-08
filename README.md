@@ -494,7 +494,7 @@
 * [kimono-koans/httm](https://github.com/kimono-koans/httm): Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
 * [HumairAhmed/HueVIClient](https://github.com/HumairAhmed/HueVIClient): Java ESXi GUI client that connects to VMware ESXi Server and provides management capabilities
 * [huginn/huginn](https://github.com/huginn/huginn): Create agents that monitor and act on your behalf.  Your agents are standing by!
-* [lcomplete/huntly](https://github.com/lcomplete/huntly): Huntly, information management tool, rss reader, automatic saving browsed contents include tweets, github stars management tool. 信息管理工具、RSS 阅读器、GitHub stars 管理、推文管理、自动记录浏览过的文章。
+* [lcomplete/huntly](https://github.com/lcomplete/huntly): Your Personal AI-Powered Information Hub
 * [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE): HyDE, your Development Environment 🖥️💻
 * [richen604/hydenix](https://github.com/richen604/hydenix): a nixos implementation of hyprdots, a HyDE dotfiles configuration
 * [juspay/hyperswitch](https://github.com/juspay/hyperswitch): An open source payments switch written in Rust to make payments fast, reliable and affordable
@@ -621,7 +621,7 @@
 * [google/material-design-icons](https://github.com/google/material-design-icons): Material Design icons by Google (Material Symbols)
 * [Materialious/Materialious](https://github.com/Materialious/Materialious): Materialious is a modern material design frontend for Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web, Desktop, Android, and Android TV.
 * [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy): 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
-* [getmaxun/maxun](https://github.com/getmaxun/maxun): Turn any website into clean, contextualized data pipelines for your workflows
+* [getmaxun/maxun](https://github.com/getmaxun/maxun): Turn any website to data pipelines, APIs & spreadsheets in minutes!
 * [maybe-finance/maybe](https://github.com/maybe-finance/maybe): The personal finance app for everyone
 * [cantino/mcfly](https://github.com/cantino/mcfly): Fly through your shell history. Great Scott!
 * [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard): DIY mechanical keyboard and where to find them

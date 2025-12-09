@@ -49,7 +49,7 @@
 * [appwrite/appwrite](https://github.com/appwrite/appwrite): The developers' cloud
 * [ansible-community/ara](https://github.com/ansible-community/ara): ARA Records Ansible and makes it easier to understand and troubleshoot.
 * [vercel/arg](https://github.com/vercel/arg): Simple argument parsing
-* [lcdyk0517/arkos4clone](https://github.com/lcdyk0517/arkos4clone): arkos for clone
+* [lcdyk0517/arkos4clone](https://github.com/lcdyk0517/arkos4clone): ArkOS for Unofficial Devices
 * [withastro/astro](https://github.com/withastro/astro): The web framework for content-driven websites. ⭐️ Star to support our work!
 * [koyopro/astro-cookie-session](https://github.com/koyopro/astro-cookie-session): Middleware for managing sessions using cookies on Astro.
 * [MicroWebStacks/astro-examples](https://github.com/MicroWebStacks/astro-examples): Astro design patterns examples, client-server state management, markdown, caching
@@ -399,6 +399,7 @@
 * [ixc/glamkit-eventtools](https://github.com/ixc/glamkit-eventtools): An event management app for Django. Forked from thauber's django-schedule
 * [glanceapp/glance](https://github.com/glanceapp/glance): A self-hosted dashboard that puts all your feeds in one place
 * [BluDood/GlanceThing](https://github.com/BluDood/GlanceThing): Your CarThing as a glanceable action pad!
+* [IhsenBouallegue/glasshome-addon](https://github.com/IhsenBouallegue/glasshome-addon): None
 * [glauth/glauth](https://github.com/glauth/glauth): A lightweight LDAP server for development, home use, or CI
 * [glzr-io/glazewm](https://github.com/glzr-io/glazewm): GlazeWM is a tiling window manager for Windows inspired by i3wm.
 * [gmr/glyphicons-sprite-generator](https://github.com/gmr/glyphicons-sprite-generator): The GLYPHICONS Sprite Generator allows you to change the size and colors of the Bootstap icons using the Free or Pro versions of GLYPHICONS.
@@ -621,7 +622,7 @@
 * [google/material-design-icons](https://github.com/google/material-design-icons): Material Design icons by Google (Material Symbols)
 * [Materialious/Materialious](https://github.com/Materialious/Materialious): Materialious is a modern material design frontend for Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web, Desktop, Android, and Android TV.
 * [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy): 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
-* [getmaxun/maxun](https://github.com/getmaxun/maxun): Turn any website to data pipelines, APIs & spreadsheets in minutes!
+* [getmaxun/maxun](https://github.com/getmaxun/maxun): Turn any website into clean data pipelines, APIs & spreadsheets in minutes
 * [maybe-finance/maybe](https://github.com/maybe-finance/maybe): The personal finance app for everyone
 * [cantino/mcfly](https://github.com/cantino/mcfly): Fly through your shell history. Great Scott!
 * [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard): DIY mechanical keyboard and where to find them

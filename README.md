@@ -383,7 +383,7 @@
 * [styxlab/gatsby-starter-try-ghost](https://github.com/styxlab/gatsby-starter-try-ghost): Publish flaring fast blogs with Gatsby and Ghost
 * [nehalist/gatsby-theme-nehalem](https://github.com/nehalist/gatsby-theme-nehalem): A Gatsby blog theme.
 * [styxlab/gatsby-theme-try-ghost](https://github.com/styxlab/gatsby-theme-try-ghost): A Gatsby theme to build flaring fast blogs from headless Ghost CMS
-* [TwiN/gatus](https://github.com/TwiN/gatus): ⛑ Automated developer-oriented status page
+* [TwiN/gatus](https://github.com/TwiN/gatus): The most advanced status page in the world
 * [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook): The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 * [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): 21 Lessons, Get Started Building with Generative AI 
 * [intra-sh/ghost-on-heroku](https://github.com/intra-sh/ghost-on-heroku): One-button Heroku deploy for the Ghost 4.x.y blogging platform.

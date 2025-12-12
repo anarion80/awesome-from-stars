@@ -46,7 +46,7 @@
 * [bertvv/ansible-role-samba](https://github.com/bertvv/ansible-role-samba): Ansible role for managing Samba as a file server on RedHat- and Debian-based linux distros.
 * [engonzal/ansible_role_proxmox](https://github.com/engonzal/ansible_role_proxmox): Ansible role to provision containers in Proxmox VE virtualization
 * [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy): Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
-* [appwrite/appwrite](https://github.com/appwrite/appwrite): The developers' cloud
+* [appwrite/appwrite](https://github.com/appwrite/appwrite): Appwrite® - The developers' cloud
 * [ansible-community/ara](https://github.com/ansible-community/ara): ARA Records Ansible and makes it easier to understand and troubleshoot.
 * [vercel/arg](https://github.com/vercel/arg): Simple argument parsing
 * [lcdyk0517/arkos4clone](https://github.com/lcdyk0517/arkos4clone): ArkOS for Unofficial Devices

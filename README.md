@@ -907,7 +907,7 @@
 * [franciscofranco/Simple-Reboot-app](https://github.com/franciscofranco/Simple-Reboot-app): Source code for my free app Simple Reboot.
 * [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat): SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 * [godofredoninja/simply](https://github.com/godofredoninja/simply): Theme for Ghost inspired on Medium
-* [TECH7Fox/sip-hass-card](https://github.com/TECH7Fox/sip-hass-card): A SIP client inside home assistant!
+* [TECH7Fox/sipcore-hass-integration](https://github.com/TECH7Fox/sipcore-hass-integration): A SIP client inside home assistant!
 * [EightDoor/siyuan](https://github.com/EightDoor/siyuan): siyuan 去除更新提示、去除用户相关内容，可以云端同步
 * [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 * [hqweay/siyuan-hqweay-go](https://github.com/hqweay/siyuan-hqweay-go): 思源笔记插件：恐龙工具箱

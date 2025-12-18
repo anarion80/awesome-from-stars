@@ -290,7 +290,7 @@
 * [elliottminns/dotfiles](https://github.com/elliottminns/dotfiles): None
 * [felipecrs/dotfiles](https://github.com/felipecrs/dotfiles): Bootstrap your Ubuntu in a single command!
 * [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles): None
-* [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles): The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install with the Dotfiles Installer app with setup scripts for Arch, Fedora and openSuse.
+* [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles): The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install with the Dotfiles Installer app with setup scripts for Arch Linux (Fedora and openSuse with limitations).
 * [omerxx/dotfiles](https://github.com/omerxx/dotfiles): My dotfiles synced from localhost and remote machines
 * [renemarc/dotfiles](https://github.com/renemarc/dotfiles): ~/. Cross-platform, cross-shell configuration files. ⚙️💻
 * [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles): My NixOS configuration flake that moggs yours in term of eval times
@@ -1102,7 +1102,7 @@
 * [ZlibraryKO/zlibrary.koplugin](https://github.com/ZlibraryKO/zlibrary.koplugin): Home of the KOReader Zlibrary plugin
 * [caksoylar/zmk-config](https://github.com/caksoylar/zmk-config): ZMK user config containing keymap for 26-36 key keyboards
 * [tzcl/zmk-config](https://github.com/tzcl/zmk-config): ZMK Config
-* [urob/zmk-config](https://github.com/urob/zmk-config): Personal ZMK firmware configuration for various boards (34-keys, Corneish Zen, Planck)
+* [urob/zmk-config](https://github.com/urob/zmk-config): Personal ZMK firmware configuration for various boards (34-keys, Glove80, Planck)
 * [mikeholscher/zmk-config-mikefive](https://github.com/mikeholscher/zmk-config-mikefive): ZMK Config + PG1316 Resources
 * [lilyinstarlight/zmk-nix](https://github.com/lilyinstarlight/zmk-nix): Build system and configuration files for generating and building ZMK firmware with Nix
 * [oetiker/znapzend](https://github.com/oetiker/znapzend): zfs backup with remote capabilities and mbuffer integration.

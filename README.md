@@ -1052,7 +1052,7 @@
 * [Rookwork/Voyager-keywell-adapters](https://github.com/Rookwork/Voyager-keywell-adapters): 3D-printable adapters to curve the ZSA Voyager keycaps
 * [Melkeydev/vscode_bindings](https://github.com/Melkeydev/vscode_bindings): None
 * [Antoni-Czaplicki/vulcan-for-hassio](https://github.com/Antoni-Czaplicki/vulcan-for-hassio): Vulcan inegration for home assistamt
-* [ellite/Wallos](https://github.com/ellite/Wallos): Wallos: Open-Source Personal Subscription Tracker
+* [ellite/Wallos](https://github.com/ellite/Wallos): Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 * [TheTimeWalker/wallpanel-android](https://github.com/TheTimeWalker/wallpanel-android): WallPanel is an Android application for Web Based Dashboards and Home Automation Platforms
 * [5hubham5ingh/WallRizz](https://github.com/5hubham5ingh/WallRizz): A terminal-based wallpaper selector and system theme manager. It also enables browsing and downloading wallpapers from various wallpaper collection repositories on GitHub.
 * [Flomp/wanderer](https://github.com/Flomp/wanderer): wanderer is a self-hosted trail database. Save your adventures!

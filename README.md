@@ -415,7 +415,7 @@
 * [Mbarmem/Grafana.Dashboard](https://github.com/Mbarmem/Grafana.Dashboard): Grafana dashboard for monitoring virtual machines!!
 * [graphhopper/graphhopper](https://github.com/graphhopper/graphhopper): Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.
 * [reyjrar/graphite-scripts](https://github.com/reyjrar/graphite-scripts): A Collections of Scripts for Working with Graphite
-* [lilnasy/gratelets](https://github.com/lilnasy/gratelets): A collection of purpose-built, small plugins for Vite and Astro.
+* [lilnasy/gratelets](https://github.com/lilnasy/gratelets): A collection of purpose-built, batteries-included integrations for Vite and Astro.
 * [BeryJu/gravity](https://github.com/BeryJu/gravity): Fully-replicated DNS and DHCP Server with ad-blocking powered by etcd
 * [garabik/grc](https://github.com/garabik/grc): generic colouriser
 * [goniszewski/grimoire](https://github.com/goniszewski/grimoire): Bookmark manager for the wizards 🧙

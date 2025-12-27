@@ -612,7 +612,7 @@
 * [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail): Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
 * [vimichael/make-windows-pretty](https://github.com/vimichael/make-windows-pretty): Some tools I used for making Windows 11 look nice.
 * [krateng/maloja](https://github.com/krateng/maloja): Self-hosted music scrobble database to create personal listening statistics and charts
-* [mnfst/manifest](https://github.com/mnfst/manifest): Portable backend to ship fast.
+* [mnfst/manifest](https://github.com/mnfst/manifest): Shadcn/ui components library for building ChatGPT Apps
 * [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch): Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
 * [diogovalentte/mantium](https://github.com/diogovalentte/mantium): Mantium is a self-hosted cross-site manga tracker. It can track manga from source sites like Manga Plus, Mangadex, ComicK, etc.
 * [godofredoninja/Mapache](https://github.com/godofredoninja/Mapache): You can use the theme Mapache for ghost in: Blog - Magazine - Landing page - Personal page -  Photographers. and in many other things

@@ -690,7 +690,7 @@
 * [sonntag/nix](https://github.com/sonntag/nix): My personal nix flake
 * [AlexNabokikh/nix-config](https://github.com/AlexNabokikh/nix-config): NixOS, Nix-Darwin and home-manager configurations.
 * [Tarow/nix-config](https://github.com/Tarow/nix-config): None
-* [notthebee/nix-config](https://github.com/notthebee/nix-config): Configuration files for my NixOS and nix-darwin machines
+* [notthebee/nix-config](https://github.com/notthebee/nix-config): Configuration files for my NixOS and nix-darwin machines. Mirror of https://git.notthebe.ee/notthebee/nix-config
 * [oddlama/nix-config](https://github.com/oddlama/nix-config): ❄️ My nix config and dotfiles
 * [polarmutex/nix-config](https://github.com/polarmutex/nix-config): nix dotfiles for nixos and userspace
 * [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config): Wimpy's NixOS, nix-darwin  & Home Manager Configurations ❄️

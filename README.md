@@ -622,7 +622,7 @@
 * [google/material-design-icons](https://github.com/google/material-design-icons): Material Design icons by Google (Material Symbols)
 * [Materialious/Materialious](https://github.com/Materialious/Materialious): Materialious is a modern material design frontend for Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web, Desktop, Android, and Android TV.
 * [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy): 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
-* [getmaxun/maxun](https://github.com/getmaxun/maxun): Turn any website into clean data pipelines & structured APIs in minutes!
+* [getmaxun/maxun](https://github.com/getmaxun/maxun): Turn websites into clean data pipelines & structured APIs in minutes!
 * [maybe-finance/maybe](https://github.com/maybe-finance/maybe): The personal finance app for everyone
 * [cantino/mcfly](https://github.com/cantino/mcfly): Fly through your shell history. Great Scott!
 * [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard): DIY mechanical keyboard and where to find them
@@ -690,7 +690,7 @@
 * [sonntag/nix](https://github.com/sonntag/nix): My personal nix flake
 * [AlexNabokikh/nix-config](https://github.com/AlexNabokikh/nix-config): NixOS, Nix-Darwin and home-manager configurations.
 * [Tarow/nix-config](https://github.com/Tarow/nix-config): None
-* [notthebee/nix-config](https://github.com/notthebee/nix-config): Configuration files for my NixOS and nix-darwin machines. Mirror of https://git.notthebe.ee/notthebee/nix-config
+* [notthebee/nix-config](https://github.com/notthebee/nix-config): Configuration files for my NixOS and nix-darwin machines. Moved to https://git.notthebe.ee/notthebee/nix-config
 * [oddlama/nix-config](https://github.com/oddlama/nix-config): ❄️ My nix config and dotfiles
 * [polarmutex/nix-config](https://github.com/polarmutex/nix-config): nix dotfiles for nixos and userspace
 * [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config): Wimpy's NixOS, nix-darwin  & Home Manager Configurations ❄️

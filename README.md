@@ -125,7 +125,7 @@
 * [cardigann/cardigann](https://github.com/cardigann/cardigann): A proxy server for adding new indexers to Sonarr, SickRage and other media managers
 * [casdoor/casdoor](https://github.com/casdoor/casdoor): An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos
 * [smallstep/certificates](https://github.com/smallstep/certificates): 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
-* [figsoda/cfg](https://github.com/figsoda/cfg): My NixOS configuration featuring awesome and neovim
+* [figsoda/cfg](https://github.com/figsoda/cfg): My NixOS configuration featuring niri and neovim
 * [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io): Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
 * [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt): A collection of GPT system prompts and various prompt injection/leaking knowledge.
 * [deiucanta/chatpad](https://github.com/deiucanta/chatpad): Not just another ChatGPT user-interface!
@@ -842,6 +842,7 @@
 * [tavisrudd/r_users_group_1](https://github.com/tavisrudd/r_users_group_1): first meeting of the Vancouver R Users Group
 * [andrewjrae/rae-dux](https://github.com/andrewjrae/rae-dux): Generated keyboard
 * [lukevella/rallly](https://github.com/lukevella/rallly): Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
+* [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code): Autonomous AI development loop for Claude Code with intelligent exit detection
 * [librats/rats-search](https://github.com/librats/rats-search): rats-search: BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client
 * [serpent213/reactor-ca](https://github.com/serpent213/reactor-ca): Homelab/SOHO Certificate Authority with age encryption and deployment
 * [Readarr/Readarr](https://github.com/Readarr/Readarr): Book Manager and Automation (Sonarr for Ebooks)

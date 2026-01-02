@@ -758,7 +758,7 @@
 * [PGBlitz/PGBlitz.com](https://github.com/PGBlitz/PGBlitz.com): Welcome to https://PGBlitz.com ~ Rapidly deploy multiple-hasty Docker Containers through Ansible with local or Unlimited Google HD Space! VISIT NEW SITE >>> https://github.com/PlexGuide/PlexGuide.com
 * [pgina/pgina](https://github.com/pgina/pgina): pGina: Open Source Windows Authentication
 * [d8ahazard/Phlex](https://github.com/d8ahazard/Phlex): A super-sexy voice interface for the Plex HTPC
-* [SmilyOrg/photofield](https://github.com/SmilyOrg/photofield): Experimental fast photo viewer.
+* [SmilyOrg/photofield](https://github.com/SmilyOrg/photofield):  A self-hosted non-invasive single-binary photo gallery with a focus on speed and simplicity.
 * [photoview/photoview](https://github.com/photoview/photoview): Photo gallery for self-hosted personal servers
 * [FabianBeiner/PHP-IMDB-Grabber](https://github.com/FabianBeiner/PHP-IMDB-Grabber): This PHP library enables you to scrape data from IMDB.com.
 * [mtlynch/picoshare](https://github.com/mtlynch/picoshare): A minimalist, easy-to-host service for sharing images and other files

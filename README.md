@@ -119,7 +119,7 @@
 * [crehmann/Buzzard](https://github.com/crehmann/Buzzard): Buzzard is a 40 keys ergonomic split keyboard
 * [e-tho/bzmenu](https://github.com/e-tho/bzmenu): Launcher-driven Bluetooth manager for Linux
 * [calcom/cal.com](https://github.com/calcom/cal.com): Scheduling infrastructure for absolutely everyone.
-* [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated): Calibre-Web but Automated and with Many New Features! Fully automate and simplify your eBook set up!
+* [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated): Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
 * [miroslavpejic85/call-me](https://github.com/miroslavpejic85/call-me): 🟢 Call-Me: Your Go-To for Instant Video Calls!
 * [caprover/caprover](https://github.com/caprover/caprover): Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 * [cardigann/cardigann](https://github.com/cardigann/cardigann): A proxy server for adding new indexers to Sonarr, SickRage and other media managers

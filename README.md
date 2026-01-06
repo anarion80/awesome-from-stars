@@ -185,6 +185,7 @@
 * [hackthedev/dcts-shipping](https://github.com/hackthedev/dcts-shipping): A Chat Platform like Discord but self-hostable like TeamSpeak
 * [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10): A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 * [decaporg/decap-cms](https://github.com/decaporg/decap-cms): A Git-based CMS for Static Site Generators
+* [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor): "DeepTutor: AI-Powered Personalized Learning Assistant"
 * [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated): letsencrypt/acme client implemented as a shell-script – just add water
 * [dandavison/delta](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, grep, and blame output
 * [yunfachi/denix](https://github.com/yunfachi/denix): Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices

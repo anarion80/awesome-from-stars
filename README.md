@@ -939,6 +939,7 @@
 * [hotzen/SolarStatus](https://github.com/hotzen/SolarStatus): Web-Interface for Solaris-Servers showing Status-Information
 * [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime): Modern open-source time-tracking app
 * [jpetazzo/solr-on-dotcloud](https://github.com/jpetazzo/solr-on-dotcloud): None
+* [ekwek1/soprano](https://github.com/ekwek1/soprano): Soprano: Instant, Ultra-Realistic Text-to-Speech
 * [pfassina/sopswarden](https://github.com/pfassina/sopswarden): SOPS secrets management integrated with Bitwarden for NixOS
 * [jazzband/sorl-thumbnail](https://github.com/jazzband/sorl-thumbnail): Thumbnails for Django
 * [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB): Multiplayer at the speed of light

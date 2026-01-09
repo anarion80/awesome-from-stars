@@ -138,7 +138,7 @@
 * [circonus-labs/circonus-agent](https://github.com/circonus-labs/circonus-agent): Circonus host agent for metric collection
 * [ClaperCo/Claper](https://github.com/ClaperCo/Claper): 👋 The ultimate tool to interact with your audience
 * [linuxserver/Clarkson](https://github.com/linuxserver/Clarkson): Web-based fuel logging dashboard
-* [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide): Full guide on claude tips and tricks and how you can optimise your claude code the best & strive to find every command possible even hidden ones!
+* [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide): Master Claude Code with this Guide! Includes: Setup, SKILL.md files, Agents, Commands, workflows and tricks making Claude's potential skyrocket!
 * [t7h-dots/cli](https://github.com/t7h-dots/cli): Customized version of the caelestia cli by soramanew
 * [daenny/climate_group](https://github.com/daenny/climate_group): Home Assistant Climate Group
 * [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox): Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
@@ -307,7 +307,7 @@
 * [muesli/duf](https://github.com/muesli/duf): Disk Usage/Free Utility - a better 'df' alternative
 * [sigoden/dufs](https://github.com/sigoden/dufs): A file server that supports static serving, uploading, searching, accessing control, webdav...
 * [dwainscheeren/dwains-lovelace-dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard): An fully auto generating Home Assistant UI dashboard for desktop, tablet and mobile by Dwains for desktop, tablet, mobile
-* [dyad-sh/dyad](https://github.com/dyad-sh/dyad): Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+* [dyad-sh/dyad](https://github.com/dyad-sh/dyad): Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 * [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui): A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 * [TryGhost/Editorial](https://github.com/TryGhost/Editorial): A free, open source theme for Ghost
 * [mayneyao/eidos](https://github.com/mayneyao/eidos): An extensible framework for Personal Data Management.
@@ -613,7 +613,7 @@
 * [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail): Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
 * [vimichael/make-windows-pretty](https://github.com/vimichael/make-windows-pretty): Some tools I used for making Windows 11 look nice.
 * [krateng/maloja](https://github.com/krateng/maloja): Self-hosted music scrobble database to create personal listening statistics and charts
-* [mnfst/manifest](https://github.com/mnfst/manifest): Shadcn/ui components library for building ChatGPT Apps
+* [mnfst/manifest](https://github.com/mnfst/manifest): A shadcn/ui library for building ChatGPT Apps
 * [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch): Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
 * [diogovalentte/mantium](https://github.com/diogovalentte/mantium): Mantium is a self-hosted cross-site manga tracker. It can track manga from source sites like Manga Plus, Mangadex, ComicK, etc.
 * [godofredoninja/Mapache](https://github.com/godofredoninja/Mapache): You can use the theme Mapache for ghost in: Blog - Magazine - Landing page - Personal page -  Photographers. and in many other things

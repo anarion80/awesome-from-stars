@@ -139,6 +139,7 @@
 * [ClaperCo/Claper](https://github.com/ClaperCo/Claper): 👋 The ultimate tool to interact with your audience
 * [linuxserver/Clarkson](https://github.com/linuxserver/Clarkson): Web-based fuel logging dashboard
 * [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide): Master Claude Code with this Guide! Includes: Setup, SKILL.md files, Agents, Commands, workflows and tricks making Claude's potential skyrocket!
+* [ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase): Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
 * [t7h-dots/cli](https://github.com/t7h-dots/cli): Customized version of the caelestia cli by soramanew
 * [daenny/climate_group](https://github.com/daenny/climate_group): Home Assistant Climate Group
 * [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox): Ansible-based solution for rapidly deploying a Docker containerized cloud media server.

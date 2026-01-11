@@ -1059,7 +1059,7 @@
 * [ellite/Wallos](https://github.com/ellite/Wallos): Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 * [TheTimeWalker/wallpanel-android](https://github.com/TheTimeWalker/wallpanel-android): WallPanel is an Android application for Web Based Dashboards and Home Automation Platforms
 * [5hubham5ingh/WallRizz](https://github.com/5hubham5ingh/WallRizz): A terminal-based wallpaper selector and system theme manager. It also enables browsing and downloading wallpapers from various wallpaper collection repositories on GitHub.
-* [Flomp/wanderer](https://github.com/Flomp/wanderer): wanderer is a self-hosted trail database. Save your adventures!
+* [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer): wanderer is a self-hosted trail database. Save your adventures!
 * [nosmokingbandit/watcher](https://github.com/nosmokingbandit/watcher): None
 * [SpaceK33z/web-to-plex](https://github.com/SpaceK33z/web-to-plex): 🚠 Adds a button on various movie & TV show sites to open it in Plex.
 * [hacdias/webdav](https://github.com/hacdias/webdav): A simple and standalone WebDAV server.

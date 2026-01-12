@@ -1937,9 +1937,6 @@
     "keylase/nvidia-patch": [
         "Other"
     ],
-    "khieu-dv/vieshare": [
-        "Other"
-    ],
     "kieraneglin/pinchflat": [
         "Other"
     ],
@@ -3156,6 +3153,9 @@
         "Other"
     ],
     "vercel/arg": [
+        "Other"
+    ],
+    "vielang/vieshare": [
         "Other"
     ],
     "vimichael/make-windows-pretty": [

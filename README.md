@@ -46,7 +46,7 @@
 * [bertvv/ansible-role-samba](https://github.com/bertvv/ansible-role-samba): Ansible role for managing Samba as a file server on RedHat- and Debian-based linux distros.
 * [engonzal/ansible_role_proxmox](https://github.com/engonzal/ansible_role_proxmox): Ansible role to provision containers in Proxmox VE virtualization
 * [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy): Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
-* [appwrite/appwrite](https://github.com/appwrite/appwrite): Appwrite® - The developers' cloud
+* [appwrite/appwrite](https://github.com/appwrite/appwrite): Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 * [ansible-community/ara](https://github.com/ansible-community/ara): ARA Records Ansible and makes it easier to understand and troubleshoot.
 * [vercel/arg](https://github.com/vercel/arg): Simple argument parsing
 * [lcdyk0517/arkos4clone](https://github.com/lcdyk0517/arkos4clone): ArkOS for Unofficial Devices
@@ -1047,7 +1047,7 @@
 * [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden): Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 * [vendurehq/vendure](https://github.com/vendurehq/vendure): The most customizable commerce platform built with TypeScript, NestJS and GraphQL. 
 * [ventoy/Ventoy](https://github.com/ventoy/Ventoy): A new bootable USB solution.
-* [khieu-dv/vieshare](https://github.com/khieu-dv/vieshare): VieShare eCommerce
+* [vielang/vieshare](https://github.com/vielang/vieshare): VieShare eCommerce
 * [JakeWharton/ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator): Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock.
 * [Beast-Viper/ViperDots-Hyprland](https://github.com/Beast-Viper/ViperDots-Hyprland): A repository for my Hyprland dotfiles.
 * [roflcoopter/viseron](https://github.com/roflcoopter/viseron): Self-hosted, local only NVR and AI Computer Vision software.  With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, office or any other place you want to monitor.

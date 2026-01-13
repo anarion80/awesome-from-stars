@@ -198,6 +198,7 @@
 * [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library): A collection of community-sourced DeviceType definitions for import to NetBox
 * [nari-labs/dia](https://github.com/nari-labs/dia): A TTS model capable of generating ultra-realistic dialogue in one pass.
 * [directus/directus](https://github.com/directus/directus): The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
+* [tokeidlom/disc-coveries](https://github.com/tokeidlom/disc-coveries): Fan made adventures for "Discworld: Adventures in Anhk-Morpork" for FoundryVTT
 * [areski/django-admin-tools-stats](https://github.com/areski/django-admin-tools-stats): Django-admin-tools-stats is a Django admin module that allow you to create easily charts on your dashboard based on specific models and criterias
 * [joestump/django-ajax](https://github.com/joestump/django-ajax): A simple framework for creating AJAX endpoints in Django.
 * [crucialfelix/django-ajax-selects](https://github.com/crucialfelix/django-ajax-selects): jQuery UI-powered auto-complete fields for ForeignKey, ManyToMany and text fields

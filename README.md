@@ -748,6 +748,7 @@
 * [causefx/Organizr](https://github.com/causefx/Organizr): HTPC/Homelab Services Organizer - Written in PHP
 * [j256/ormlite-android](https://github.com/j256/ormlite-android): ORMLite Android functionality used in conjunction with ormlite-core
 * [frysztak/orpington-news](https://github.com/frysztak/orpington-news): Self-hosted RSS reader with PWA support
+* [JameZUK/os-kea-unbound](https://github.com/JameZUK/os-kea-unbound): Kea DHCP to Unbound DNS dynamic registration
 * [smores56/osprette](https://github.com/smores56/osprette): 34-key unibody keyboard with pinky clusters
 * [outline/outline](https://github.com/outline/outline): The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 * [Yelp/paasta](https://github.com/Yelp/paasta): An open, distributed platform as a service

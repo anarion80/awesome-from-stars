@@ -1016,7 +1016,7 @@
 * [crehmann/TPS42](https://github.com/crehmann/TPS42): An ergonomic split keyboard with TrackPoint support
 * [traefik/traefik](https://github.com/traefik/traefik): The Cloud Native Application Proxy
 * [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth): Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
-* [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase): A blazingly fast, open-source application server with type-safe APIs, built-in WebAssembly runtime, realtime, auth, and admin UI built on Rust, SQLite & Wasmtime.
+* [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase): An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
 * [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl): A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 * [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium): Build your personal knowledge base with Trilium Notes
 * [bmrf/tron](https://github.com/bmrf/tron): Tron

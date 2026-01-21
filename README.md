@@ -158,7 +158,7 @@
 * [comictagger/comictagger](https://github.com/comictagger/comictagger): A multi-platform app for writing metadata to digital comics
 * [mcpierce/comixed](https://github.com/mcpierce/comixed): The ComiXed Digital Comic Management System
 * [Athou/commafeed](https://github.com/Athou/commafeed): Google Reader inspired self-hosted personal RSS reader.
-* [continuedev/continue](https://github.com/continuedev/continue): ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
+* [continuedev/continue](https://github.com/continuedev/continue): ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
 * [coollabsio/coolify](https://github.com/coollabsio/coolify): An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 * [seblucas/cops](https://github.com/seblucas/cops): Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
 * [dnlbauer/corax-keyboard](https://github.com/dnlbauer/corax-keyboard): A column-staggered wireless spilt keyboard with scrollwheels, thumb- and pinky cluster.

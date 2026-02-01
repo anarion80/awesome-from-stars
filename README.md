@@ -189,6 +189,7 @@
 * [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor): "DeepTutor: AI-Powered Personalized Learning Assistant"
 * [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated): letsencrypt/acme client implemented as a shell-script – just add water
 * [dandavison/delta](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, grep, and blame output
+* [Doc-Steve/dendritic-design-with-flake-parts](https://github.com/Doc-Steve/dendritic-design-with-flake-parts): A guide on how to structure your Nix code with Flake Parts using the Dendritic Pattern
 * [yunfachi/denix](https://github.com/yunfachi/denix): Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
 * [hrvach/deskhop](https://github.com/hrvach/deskhop): Fast Desktop Switching Device
 * [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing): Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore

@@ -294,7 +294,7 @@
 * [elliottminns/dotfiles](https://github.com/elliottminns/dotfiles): None
 * [felipecrs/dotfiles](https://github.com/felipecrs/dotfiles): Bootstrap your Ubuntu in a single command!
 * [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles): None
-* [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles): The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install with the Dotfiles Installer app with setup scripts for Arch Linux (Fedora and openSuse with limitations).
+* [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles): The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install from a Live ISO or with the Dotfiles Installer app with setup scripts for Arch Linux, Fedora and openSuse with limitations
 * [omerxx/dotfiles](https://github.com/omerxx/dotfiles): My dotfiles synced from localhost and remote machines
 * [renemarc/dotfiles](https://github.com/renemarc/dotfiles): ~/. Cross-platform, cross-shell configuration files. ⚙️💻
 * [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles): My NixOS configuration flake that moggs yours in term of eval times
@@ -804,7 +804,7 @@
 * [typeofweb/polish-plurals](https://github.com/typeofweb/polish-plurals): Package for generating correct plurals in Polish.
 * [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates): 🚢 500+ 1-click Portainer app templates
 * [safing/portmaster](https://github.com/safing/portmaster): 🏔 Love Freedom - ❌ Block Mass Surveillance
-* [microsoft/PowerToys](https://github.com/microsoft/PowerToys): Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+* [microsoft/PowerToys](https://github.com/microsoft/PowerToys): Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 * [geek-cookbook/premix](https://github.com/geek-cookbook/premix): The "premix" for Funky Penguin's Geek Cookbook
 * [slashback100/presence_simulation](https://github.com/slashback100/presence_simulation): Home Assistant Presence Simulation
 * [isaacrlevin/presencelight](https://github.com/isaacrlevin/presencelight): PresenceLight is a solution to broadcast your various statuses to light bulbs. 

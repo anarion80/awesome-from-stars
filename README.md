@@ -138,7 +138,7 @@
 * [circonus-labs/circonus-agent](https://github.com/circonus-labs/circonus-agent): Circonus host agent for metric collection
 * [ClaperCo/Claper](https://github.com/ClaperCo/Claper): 👋 The ultimate tool to interact with your audience
 * [linuxserver/Clarkson](https://github.com/linuxserver/Clarkson): Web-based fuel logging dashboard
-* [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide): Master Claude Code with this Guide! Includes: Setup, SKILL.md files, Agents, Commands, workflows and tricks making Claude's potential skyrocket!
+* [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide): Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks 
 * [ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase): Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
 * [t7h-dots/cli](https://github.com/t7h-dots/cli): Customized version of the caelestia cli by soramanew
 * [daenny/climate_group](https://github.com/daenny/climate_group): Home Assistant Climate Group
@@ -616,7 +616,7 @@
 * [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail): Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
 * [vimichael/make-windows-pretty](https://github.com/vimichael/make-windows-pretty): Some tools I used for making Windows 11 look nice.
 * [krateng/maloja](https://github.com/krateng/maloja): Self-hosted music scrobble database to create personal listening statistics and charts
-* [mnfst/manifest](https://github.com/mnfst/manifest): A shadcn/ui library for building ChatGPT Apps
+* [mnfst/manifest](https://github.com/mnfst/manifest): A shadcn/ui library for building ChatGPT Apps and MCP Apps
 * [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch): Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
 * [diogovalentte/mantium](https://github.com/diogovalentte/mantium): Mantium is a self-hosted cross-site manga tracker. It can track manga from source sites like Manga Plus, Mangadex, ComicK, etc.
 * [godofredoninja/Mapache](https://github.com/godofredoninja/Mapache): You can use the theme Mapache for ghost in: Blog - Magazine - Landing page - Personal page -  Photographers. and in many other things

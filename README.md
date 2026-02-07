@@ -407,7 +407,7 @@
 * [glauth/glauth](https://github.com/glauth/glauth): A lightweight LDAP server for development, home use, or CI
 * [glzr-io/glazewm](https://github.com/glzr-io/glazewm): GlazeWM is a tiling window manager for Windows inspired by i3wm.
 * [gmr/glyphicons-sprite-generator](https://github.com/gmr/glyphicons-sprite-generator): The GLYPHICONS Sprite Generator allows you to change the size and colors of the Bootstap icons using the Free or Pro versions of GLYPHICONS.
-* [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc): Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+* [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc): Ultimate camera streaming application
 * [kahing/goofys](https://github.com/kahing/goofys): a high-performance, POSIX-ish Amazon S3 file system written in Go
 * [time4tea/gopro-dashboard-overlay](https://github.com/time4tea/gopro-dashboard-overlay): Programs to process GoPro MP4 & Generic GPX/FIT files and create video dashboards & maps
 * [madelynnblue/goread](https://github.com/madelynnblue/goread): RSS reader in go on app engine; formerly goread.io
@@ -626,7 +626,7 @@
 * [google/material-design-icons](https://github.com/google/material-design-icons): Material Design icons by Google (Material Symbols)
 * [Materialious/Materialious](https://github.com/Materialious/Materialious): Materialious is a modern material design frontend for Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web, Desktop, Android, and Android TV.
 * [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy): 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
-* [getmaxun/maxun](https://github.com/getmaxun/maxun): Turn websites into clean data pipelines & structured APIs in minutes!
+* [getmaxun/maxun](https://github.com/getmaxun/maxun): ✨ Turn websites into structured APIs & clean data pipelines in minutes ✨ 
 * [maybe-finance/maybe](https://github.com/maybe-finance/maybe): The personal finance app for everyone
 * [cantino/mcfly](https://github.com/cantino/mcfly): Fly through your shell history. Great Scott!
 * [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard): DIY mechanical keyboard and where to find them
@@ -739,7 +739,7 @@
 * [TheAxelander/OpenBudgeteer](https://github.com/TheAxelander/OpenBudgeteer): OpenBudgeteer is a budgeting app based on the Bucket Budgeting Principle
 * [OpenELEC/OpenELEC.tv](https://github.com/OpenELEC/OpenELEC.tv): OpenELEC - The living room PC for everyone
 * [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap): Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
-* [openrundev/openrun](https://github.com/openrundev/openrun): Open source alternative to Google Cloud Run and AWS App Runner. Easily deploy web apps declaratively.
+* [openrundev/openrun](https://github.com/openrundev/openrun): Internal tools deployment made easy.  Deploy web apps declaratively, on a single-node or on Kubernetes.
 * [openscope/openscope](https://github.com/openscope/openscope): openScope Air Traffic Control Simulator
 * [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign): 🔥 The free & Open Source DocuSign alternative
 * [openpubkey/opkssh](https://github.com/openpubkey/opkssh): opkssh (OpenPubkey SSH)

@@ -234,7 +234,7 @@
 * [fcurella/django-google-maps](https://github.com/fcurella/django-google-maps): Template tags for creating Google Maps from GeoDjango fields.
 * [django-haystack/django-haystack](https://github.com/django-haystack/django-haystack): Modular search for Django
 * [pielgrzym/django-imaging](https://github.com/pielgrzym/django-imaging): Ajax driven gallery field for django (mostly admin)
-* [vasyabigi/django-imperavi](https://github.com/vasyabigi/django-imperavi): A django application that contains a class for admin interface to render a text field as beautiful Imperavi WYSIWYG editor http://redactorjs.com/
+* [vasyl-stanislavchuk/django-imperavi](https://github.com/vasyl-stanislavchuk/django-imperavi): A django application that contains a class for admin interface to render a text field as beautiful Imperavi WYSIWYG editor http://redactorjs.com/
 * [fragaria/django-informant](https://github.com/fragaria/django-informant): Simple newsletter application for Django with big flexibility.
 * [makinacorpus/django-leaflet](https://github.com/makinacorpus/django-leaflet): Use Leaflet in your Django projects
 * [umap-project/django-leaflet-storage](https://github.com/umap-project/django-leaflet-storage): ARCHIVED! Now merged into umap itself. Create collaborative maps on top of Geodjango and Leaflet
@@ -626,7 +626,7 @@
 * [google/material-design-icons](https://github.com/google/material-design-icons): Material Design icons by Google (Material Symbols)
 * [Materialious/Materialious](https://github.com/Materialious/Materialious): Materialious is a modern material design frontend for Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web, Desktop, Android, and Android TV.
 * [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy): 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
-* [getmaxun/maxun](https://github.com/getmaxun/maxun): ✨ Turn websites into structured APIs & clean data pipelines in minutes ✨ 
+* [getmaxun/maxun](https://github.com/getmaxun/maxun): ✨ The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes ✨ 
 * [maybe-finance/maybe](https://github.com/maybe-finance/maybe): The personal finance app for everyone
 * [cantino/mcfly](https://github.com/cantino/mcfly): Fly through your shell history. Great Scott!
 * [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard): DIY mechanical keyboard and where to find them
@@ -946,7 +946,7 @@
 * [ekwek1/soprano](https://github.com/ekwek1/soprano): Soprano: Instant, Ultra-Realistic Text-to-Speech
 * [pfassina/sopswarden](https://github.com/pfassina/sopswarden): SOPS secrets management integrated with Bitwarden for NixOS
 * [jazzband/sorl-thumbnail](https://github.com/jazzband/sorl-thumbnail): Thumbnails for Django
-* [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB): Multiplayer at the speed of light
+* [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB): Development at the speed of light
 * [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness): SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
 * [ulid/spec](https://github.com/ulid/spec): The canonical spec for ulid
 * [librespeed/speedtest](https://github.com/librespeed/speedtest): Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more

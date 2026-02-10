@@ -294,7 +294,7 @@
 * [elliottminns/dotfiles](https://github.com/elliottminns/dotfiles): None
 * [felipecrs/dotfiles](https://github.com/felipecrs/dotfiles): Bootstrap your Ubuntu in a single command!
 * [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles): None
-* [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles): The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install from a Live ISO or with the Dotfiles Installer app with setup scripts for Arch Linux, Fedora and openSuse with limitations
+* [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles): The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install from a Live ISO or with the Dotfiles Installer app with setup scripts for Arch Linux, Fedora and openSuse.
 * [omerxx/dotfiles](https://github.com/omerxx/dotfiles): My dotfiles synced from localhost and remote machines
 * [renemarc/dotfiles](https://github.com/renemarc/dotfiles): ~/. Cross-platform, cross-shell configuration files. ⚙️💻
 * [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles): My NixOS configuration flake that moggs yours in term of eval times
@@ -775,7 +775,7 @@
 * [matomo-org/piwik-python-api](https://github.com/matomo-org/piwik-python-api): Piwik API for Python
 * [kyujin-cho/pixel-volte-patch](https://github.com/kyujin-cho/pixel-volte-patch): Pixel IMS: Rootless replacement for Tensor Pixel VoLTE patch
 * [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed): Photo Sharing. For Everyone.
-* [plankanban/planka](https://github.com/plankanban/planka): PLANKA is the kanban-style project mastering tool for everyone.
+* [plankanban/planka](https://github.com/plankanban/planka): PLANKA is the Kanban-style project mastering tool for everyone
 * [nix-community/plasma-manager](https://github.com/nix-community/plasma-manager): Manage KDE Plasma with Home Manager [maintainer=@HeitorAugustoLN] 
 * [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic): Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 * [hcengineering/platform](https://github.com/hcengineering/platform): Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)

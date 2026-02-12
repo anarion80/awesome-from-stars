@@ -412,7 +412,7 @@
 * [time4tea/gopro-dashboard-overlay](https://github.com/time4tea/gopro-dashboard-overlay): Programs to process GoPro MP4 & Generic GPX/FIT files and create video dashboards & maps
 * [madelynnblue/goread](https://github.com/madelynnblue/goread): RSS reader in go on app engine; formerly goread.io
 * [pldubouilh/gossa](https://github.com/pldubouilh/gossa): 🎶 a fast and simple multimedia fileserver
-* [xtekky/gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
+* [xtekky/gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
 * [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit): A git prepare-commit-msg hook for authoring commit messages with LLMs.
 * [grafana/grafana](https://github.com/grafana/grafana): The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 * [douginoz/grafana-plex](https://github.com/douginoz/grafana-plex): grafana service monitoring for Plex and underlying services
@@ -624,7 +624,7 @@
 * [ebastler/marbastlib](https://github.com/ebastler/marbastlib): A library collecting MX and Choc style footprints, as well as various other parts used to design custom keyboards
 * [eu07/maszyna](https://github.com/eu07/maszyna): MaSzyna Train Simulator
 * [google/material-design-icons](https://github.com/google/material-design-icons): Material Design icons by Google (Material Symbols)
-* [Materialious/Materialious](https://github.com/Materialious/Materialious): Materialious is a modern material design frontend for Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web, Desktop, Android, and Android TV.
+* [Materialious/Materialious](https://github.com/Materialious/Materialious): Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web, Desktop, Android, and Android TV.
 * [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy): 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 * [getmaxun/maxun](https://github.com/getmaxun/maxun): ✨ The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes ✨ 
 * [maybe-finance/maybe](https://github.com/maybe-finance/maybe): The personal finance app for everyone

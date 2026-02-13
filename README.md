@@ -662,7 +662,7 @@
 * [mumble-voip/mumble](https://github.com/mumble-voip/mumble): Mumble is an open-source, low-latency, high quality voice chat software.
 * [dlip/mushi](https://github.com/dlip/mushi): 36 key keyboard
 * [LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard): A system for automatically configuring mutt and isync with a simple interface and safe passwords
-* [mescon/Muximux](https://github.com/mescon/Muximux): A lightweight way to manage your HTPC
+* [mescon/Muximux](https://github.com/mescon/Muximux): A self-hosted homelab dashboard with an optional built-in reverse proxy that makes stubborn apps work in iframes
 * [ai03-2725/MX_V2](https://github.com/ai03-2725/MX_V2): Second generation KiCad Libraries of keyboard switch footprints
 * [mrlacey/my-config](https://github.com/mrlacey/my-config): None
 * [Wh1t3Rose/My-Home-Assistant](https://github.com/Wh1t3Rose/My-Home-Assistant): Where I store my Home Asistant configs. Many from my blog site: https://automateit.lol
@@ -987,7 +987,7 @@
 * [TanStack/table](https://github.com/TanStack/table): 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 * [amidaware/tacticalrmm](https://github.com/amidaware/tacticalrmm): A remote monitoring & management tool, built with Django, Vue and Go.
 * [Kittyfisto/Tailviewer](https://github.com/Kittyfisto/Tailviewer): Open source log file viewer
-* [ravendevteam/talon](https://github.com/ravendevteam/talon): Simple utility to debloat Windows in 2 clicks.
+* [ravendevteam/talon](https://github.com/ravendevteam/talon): Debloat Windows in 2 clicks.
 * [arendst/Tasmota](https://github.com/arendst/Tasmota): Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
 * [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr): Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 * [teableio/teable](https://github.com/teableio/teable): ✨ The Next Gen Airtable Alternative: No-Code Postgres

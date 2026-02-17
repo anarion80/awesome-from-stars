@@ -158,7 +158,7 @@
 * [comictagger/comictagger](https://github.com/comictagger/comictagger): A multi-platform app for writing metadata to digital comics
 * [mcpierce/comixed](https://github.com/mcpierce/comixed): The ComiXed Digital Comic Management System
 * [Athou/commafeed](https://github.com/Athou/commafeed): Google Reader inspired self-hosted personal RSS reader.
-* [continuedev/continue](https://github.com/continuedev/continue): ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent
+* [continuedev/continue](https://github.com/continuedev/continue): ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 * [coollabsio/coolify](https://github.com/coollabsio/coolify): An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 * [seblucas/cops](https://github.com/seblucas/cops): Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
 * [dnlbauer/corax-keyboard](https://github.com/dnlbauer/corax-keyboard): A column-staggered wireless spilt keyboard with scrollwheels, thumb- and pinky cluster.
@@ -508,6 +508,7 @@
 * [omniosorg/illumos-omnios](https://github.com/omniosorg/illumos-omnios): Community developed and maintained version of the OS/Net consolidation
 * [immich-app/immich](https://github.com/immich-app/immich): High performance self-hosted photo and video management solution.
 * [alvistar/immich-albums](https://github.com/alvistar/immich-albums): Create immich albums from folder structure
+* [ArnaudCrl/immich-automated-selfie-timelapse](https://github.com/ArnaudCrl/immich-automated-selfie-timelapse): Automated face extraction, resizing and alignment suitable to make a selfie timelapse video.
 * [varun-raj/immich-power-tools](https://github.com/varun-raj/immich-power-tools): Power tools for organizing your immich library 
 * [impress/impress.js](https://github.com/impress/impress.js): It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 * [paulstuart/influxsnmp](https://github.com/paulstuart/influxsnmp): Poll snmp devices and save data in InfluxDB
@@ -1022,7 +1023,7 @@
 * [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium): Build your personal knowledge base with Trilium Notes
 * [bmrf/tron](https://github.com/bmrf/tron): Tron
 * [joshp23/ttrss-to-wallabag-v2](https://github.com/joshp23/ttrss-to-wallabag-v2): A Tiny Tiny RSS plugin to post to a Wallabg v2 instance
-* [oyvhov/Tunet](https://github.com/oyvhov/Tunet): Home Assistant dashboard with real-time cards, drag-and-drop layout, and an integrated Hass.io add-on.
+* [oyvhov/Tunet](https://github.com/oyvhov/Tunet): Tunet Dashboard for Home Assistant with real-time cards, drag-and-drop layout, and an integrated Hass.io add-on.
 * [sidharthmohannair/Tutorial-ESP32-C3-Super-Mini](https://github.com/sidharthmohannair/Tutorial-ESP32-C3-Super-Mini): This tutorial provides a comprehensive guide on using the ESP32-C3 Super Mini, including board specifications, pinouts, getting start on Arduino IDE, and so on
 * [romasku/tuya-zigbee-switch](https://github.com/romasku/tuya-zigbee-switch): Feature-rich custom firmware for Telink/Silabs Zigbee switches, modules, sockets
 * [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend): Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C/C2, DVB-S/S2, DVB-T/T2, IPTV, SAT>IP and unix pipe input sources

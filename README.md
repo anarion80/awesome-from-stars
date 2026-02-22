@@ -790,7 +790,7 @@
 * [Mike7154/plex_family_management](https://github.com/Mike7154/plex_family_management): None
 * [hjone72/PlexAuth](https://github.com/hjone72/PlexAuth): Plex based authentication using PHP
 * [plexdrive/plexdrive](https://github.com/plexdrive/plexdrive): Plexdrive mounts your Google Drive FUSE filesystem (optimized for media playback)
-* [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com): PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Traefik as a reverse proxy and offers CloudFlare tunnel integration to access to your containerized services.
+* [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com): Self-hosted server management platform, originally launched in 2016 and rebuilt for 2026. One-line Docker install on Ubuntu & Debian. Built-in app store, Cloudflare Tunnel & Traefik reverse proxy support, MergerFS drive pooling, backups, and much more!
 * [croneter/PlexKodiConnect](https://github.com/croneter/PlexKodiConnect): Plex integration in Kodi done right
 * [lokenx/plexrequests-meteor](https://github.com/lokenx/plexrequests-meteor): Meteor version of the original Plex Requests
 * [mrworf/plexupdate](https://github.com/mrworf/plexupdate): Plex Update script to simplify the life of Linux Plex Media Server users.
@@ -1023,6 +1023,7 @@
 * [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium): Build your personal knowledge base with Trilium Notes
 * [bmrf/tron](https://github.com/bmrf/tron): Tron
 * [joshp23/ttrss-to-wallabag-v2](https://github.com/joshp23/ttrss-to-wallabag-v2): A Tiny Tiny RSS plugin to post to a Wallabg v2 instance
+* [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial): Create beautiful terminal-based code tutorials with syntax highlighting and interactive navigation.
 * [oyvhov/Tunet](https://github.com/oyvhov/Tunet): Tunet Dashboard for Home Assistant with real-time cards, drag-and-drop layout, and an integrated Hass.io add-on.
 * [sidharthmohannair/Tutorial-ESP32-C3-Super-Mini](https://github.com/sidharthmohannair/Tutorial-ESP32-C3-Super-Mini): This tutorial provides a comprehensive guide on using the ESP32-C3 Super Mini, including board specifications, pinouts, getting start on Arduino IDE, and so on
 * [romasku/tuya-zigbee-switch](https://github.com/romasku/tuya-zigbee-switch): Feature-rich custom firmware for Telink/Silabs Zigbee switches, modules, sockets

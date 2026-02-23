@@ -499,6 +499,7 @@
 * [kimono-koans/httm](https://github.com/kimono-koans/httm): Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
 * [HumairAhmed/HueVIClient](https://github.com/HumairAhmed/HueVIClient): Java ESXi GUI client that connects to VMware ESXi Server and provides management capabilities
 * [huginn/huginn](https://github.com/huginn/huginn): Create agents that monitor and act on your behalf.  Your agents are standing by!
+* [plexguide/HuntarrOS.com](https://github.com/plexguide/HuntarrOS.com): Self-hosted server management platform, originally launched in 2016 and rebuilt for 2026. One-line Docker install on Ubuntu & Debian. Built-in app store, Cloudflare Tunnel & Traefik reverse proxy support, MergerFS drive pooling, backups, and much more! (Former PlexGuide.com)
 * [lcomplete/huntly](https://github.com/lcomplete/huntly): Your Personal AI-Powered Information Hub
 * [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE): HyDE, your Development Environment 🖥️💻
 * [richen604/hydenix](https://github.com/richen604/hydenix): a nixos implementation of hyprdots, a HyDE dotfiles configuration
@@ -790,7 +791,6 @@
 * [Mike7154/plex_family_management](https://github.com/Mike7154/plex_family_management): None
 * [hjone72/PlexAuth](https://github.com/hjone72/PlexAuth): Plex based authentication using PHP
 * [plexdrive/plexdrive](https://github.com/plexdrive/plexdrive): Plexdrive mounts your Google Drive FUSE filesystem (optimized for media playback)
-* [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com): Self-hosted server management platform, originally launched in 2016 and rebuilt for 2026. One-line Docker install on Ubuntu & Debian. Built-in app store, Cloudflare Tunnel & Traefik reverse proxy support, MergerFS drive pooling, backups, and much more!
 * [croneter/PlexKodiConnect](https://github.com/croneter/PlexKodiConnect): Plex integration in Kodi done right
 * [lokenx/plexrequests-meteor](https://github.com/lokenx/plexrequests-meteor): Meteor version of the original Plex Requests
 * [mrworf/plexupdate](https://github.com/mrworf/plexupdate): Plex Update script to simplify the life of Linux Plex Media Server users.
@@ -1057,6 +1057,7 @@
 * [JakeWharton/ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator): Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock.
 * [Beast-Viper/ViperDots-Hyprland](https://github.com/Beast-Viper/ViperDots-Hyprland): A repository for my Hyprland dotfiles.
 * [roflcoopter/viseron](https://github.com/roflcoopter/viseron): Self-hosted, local only NVR and AI Computer Vision software.  With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, office or any other place you want to monitor.
+* [jamiepine/voicebox](https://github.com/jamiepine/voicebox): The open-source voice synthesis studio powered by Qwen3-TTS.
 * [volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility): An advanced memory forensics framework
 * [jakovius/voxd](https://github.com/jakovius/voxd): VOXD is a speech-to-text, voice-typing, dictation software for linux distributions. It is an open-source, free of charge, USER-FRIENDLY software, for as many linux distros as possible.
 * [Rookwork/Voyager-keywell-adapters](https://github.com/Rookwork/Voyager-keywell-adapters): 3D-printable adapters to curve the ZSA Voyager keycaps

@@ -499,7 +499,6 @@
 * [kimono-koans/httm](https://github.com/kimono-koans/httm): Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
 * [HumairAhmed/HueVIClient](https://github.com/HumairAhmed/HueVIClient): Java ESXi GUI client that connects to VMware ESXi Server and provides management capabilities
 * [huginn/huginn](https://github.com/huginn/huginn): Create agents that monitor and act on your behalf.  Your agents are standing by!
-* [plexguide/HuntarrOS.com](https://github.com/plexguide/HuntarrOS.com): Self-hosted server management platform, originally launched in 2016 and rebuilt for 2026. One-line Docker install on Ubuntu & Debian. Built-in app store, Cloudflare Tunnel & Traefik reverse proxy support, MergerFS drive pooling, backups, and much more! (Former PlexGuide.com)
 * [lcomplete/huntly](https://github.com/lcomplete/huntly): Your Personal AI-Powered Information Hub
 * [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE): HyDE, your Development Environment 🖥️💻
 * [richen604/hydenix](https://github.com/richen604/hydenix): a nixos implementation of hyprdots, a HyDE dotfiles configuration
@@ -618,7 +617,7 @@
 * [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail): Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
 * [vimichael/make-windows-pretty](https://github.com/vimichael/make-windows-pretty): Some tools I used for making Windows 11 look nice.
 * [krateng/maloja](https://github.com/krateng/maloja): Self-hosted music scrobble database to create personal listening statistics and charts
-* [mnfst/manifest](https://github.com/mnfst/manifest): Real-time cost observability for your OpenClaw agents.
+* [mnfst/manifest](https://github.com/mnfst/manifest): OpenClaw Real-time Cost Observability
 * [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch): Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
 * [diogovalentte/mantium](https://github.com/diogovalentte/mantium): Mantium is a self-hosted cross-site manga tracker. It can track manga from source sites like Manga Plus, Mangadex, ComicK, etc.
 * [godofredoninja/Mapache](https://github.com/godofredoninja/Mapache): You can use the theme Mapache for ghost in: Blog - Magazine - Landing page - Personal page -  Photographers. and in many other things
@@ -762,7 +761,6 @@
 * [yaqwsx/PcbDraw](https://github.com/yaqwsx/PcbDraw): Convert your KiCAD board into a nicely looking 2D drawing suitable for pinout diagrams
 * [getpelican/pelican](https://github.com/getpelican/pelican): Static site generator that supports Markdown and reST syntax. Powered by Python.
 * [siyuan-note/petal](https://github.com/siyuan-note/petal): SiYuan Plugin API
-* [PGBlitz/PGBlitz.com](https://github.com/PGBlitz/PGBlitz.com): Welcome to https://PGBlitz.com ~ Rapidly deploy multiple-hasty Docker Containers through Ansible with local or Unlimited Google HD Space! VISIT NEW SITE >>> https://github.com/PlexGuide/PlexGuide.com
 * [pgina/pgina](https://github.com/pgina/pgina): pGina: Open Source Windows Authentication
 * [d8ahazard/Phlex](https://github.com/d8ahazard/Phlex): A super-sexy voice interface for the Plex HTPC
 * [SmilyOrg/photofield](https://github.com/SmilyOrg/photofield):  A self-hosted non-invasive single-binary photo gallery with a focus on speed and simplicity.

@@ -617,7 +617,7 @@
 * [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail): Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
 * [vimichael/make-windows-pretty](https://github.com/vimichael/make-windows-pretty): Some tools I used for making Windows 11 look nice.
 * [krateng/maloja](https://github.com/krateng/maloja): Self-hosted music scrobble database to create personal listening statistics and charts
-* [mnfst/manifest](https://github.com/mnfst/manifest): OpenClaw Real-time Cost Observability
+* [mnfst/manifest](https://github.com/mnfst/manifest): Cut OpenClaw Costs up to 90% Keeping Your Data Safe.
 * [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch): Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
 * [diogovalentte/mantium](https://github.com/diogovalentte/mantium): Mantium is a self-hosted cross-site manga tracker. It can track manga from source sites like Manga Plus, Mangadex, ComicK, etc.
 * [godofredoninja/Mapache](https://github.com/godofredoninja/Mapache): You can use the theme Mapache for ghost in: Blog - Magazine - Landing page - Personal page -  Photographers. and in many other things
@@ -1005,7 +1005,6 @@
 * [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park): A collection of themes/skins for 50 selfhosted apps!
 * [Taro-Hayashi/THQWGD001](https://github.com/Taro-Hayashi/THQWGD001): None
 * [f0nzie/tikz_favorites](https://github.com/f0nzie/tikz_favorites): collection of favorite TikZ graphics
-* [tillywork/tillywork](https://github.com/tillywork/tillywork): Opensource work management solution. Manage your sprints, projects, and sales pipelines in one place
 * [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth): The simplest way to protect your apps with a login screen.
 * [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet): ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 * [richardelling/tools](https://github.com/richardelling/tools): tools for storage servers

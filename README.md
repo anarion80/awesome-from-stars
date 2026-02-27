@@ -627,7 +627,7 @@
 * [google/material-design-icons](https://github.com/google/material-design-icons): Material Design icons by Google (Material Symbols)
 * [Materialious/Materialious](https://github.com/Materialious/Materialious): Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web, Desktop, Android, and Android TV.
 * [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy): 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
-* [getmaxun/maxun](https://github.com/getmaxun/maxun): ✨ The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes ✨ 
+* [getmaxun/maxun](https://github.com/getmaxun/maxun): 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥 
 * [maybe-finance/maybe](https://github.com/maybe-finance/maybe): The personal finance app for everyone
 * [cantino/mcfly](https://github.com/cantino/mcfly): Fly through your shell history. Great Scott!
 * [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard): DIY mechanical keyboard and where to find them
@@ -1048,7 +1048,7 @@
 * [erkexzcx/valetudopng](https://github.com/erkexzcx/valetudopng): A Valetudo map renderer (ex Hypfer/ICantBelieveItsNotValetudo) for Home Assistant.
 * [Boerderij/Varken](https://github.com/Boerderij/Varken): Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana as a frontend
 * [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden): Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-* [vendurehq/vendure](https://github.com/vendurehq/vendure): The most customizable commerce platform built with TypeScript, NestJS and GraphQL. 
+* [vendurehq/vendure](https://github.com/vendurehq/vendure): Open source headless commerce framework built with TypeScript, NestJS, React and GraphQL
 * [ventoy/Ventoy](https://github.com/ventoy/Ventoy): A new bootable USB solution.
 * [vielang/vieshare](https://github.com/vielang/vieshare): VieShare eCommerce
 * [JakeWharton/ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator): Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock.

@@ -1733,6 +1733,9 @@
     "immich-app/immich": [
         "Other"
     ],
+    "immich-power-tools/immich-power-tools": [
+        "Other"
+    ],
     "importantimport/hatsu": [
         "Other"
     ],
@@ -3150,9 +3153,6 @@
         "Other"
     ],
     "varbhat/exatorrent": [
-        "Other"
-    ],
-    "varun-raj/immich-power-tools": [
         "Other"
     ],
     "vasyl-stanislavchuk/django-imperavi": [

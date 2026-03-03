@@ -509,7 +509,7 @@
 * [immich-app/immich](https://github.com/immich-app/immich): High performance self-hosted photo and video management solution.
 * [alvistar/immich-albums](https://github.com/alvistar/immich-albums): Create immich albums from folder structure
 * [ArnaudCrl/immich-automated-selfie-timelapse](https://github.com/ArnaudCrl/immich-automated-selfie-timelapse): Automated face extraction, resizing and alignment suitable to make a selfie timelapse video.
-* [varun-raj/immich-power-tools](https://github.com/varun-raj/immich-power-tools): Power tools for organizing your immich library 
+* [immich-power-tools/immich-power-tools](https://github.com/immich-power-tools/immich-power-tools): Power tools for organizing your immich library 
 * [impress/impress.js](https://github.com/impress/impress.js): It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 * [paulstuart/influxsnmp](https://github.com/paulstuart/influxsnmp): Poll snmp devices and save data in InfluxDB
 * [ironicbadger/infra](https://github.com/ironicbadger/infra): 99.7% less leaked credentials
@@ -617,7 +617,7 @@
 * [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail): Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
 * [vimichael/make-windows-pretty](https://github.com/vimichael/make-windows-pretty): Some tools I used for making Windows 11 look nice.
 * [krateng/maloja](https://github.com/krateng/maloja): Self-hosted music scrobble database to create personal listening statistics and charts
-* [mnfst/manifest](https://github.com/mnfst/manifest): Smart LLM routing for OpenClaw. Cut Costs up to 70%
+* [mnfst/manifest](https://github.com/mnfst/manifest): Smart LLM Routing for OpenClaw. Cut Costs up to 70%
 * [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch): Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
 * [diogovalentte/mantium](https://github.com/diogovalentte/mantium): Mantium is a self-hosted cross-site manga tracker. It can track manga from source sites like Manga Plus, Mangadex, ComicK, etc.
 * [godofredoninja/Mapache](https://github.com/godofredoninja/Mapache): You can use the theme Mapache for ghost in: Blog - Magazine - Landing page - Personal page -  Photographers. and in many other things
@@ -1005,7 +1005,7 @@
 * [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park): A collection of themes/skins for 50 selfhosted apps!
 * [Taro-Hayashi/THQWGD001](https://github.com/Taro-Hayashi/THQWGD001): None
 * [f0nzie/tikz_favorites](https://github.com/f0nzie/tikz_favorites): collection of favorite TikZ graphics
-* [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth): The simplest way to protect your apps with a login screen.
+* [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth): The tiniest authentication and authorization server you have ever seen.
 * [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet): ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 * [richardelling/tools](https://github.com/richardelling/tools): tools for storage servers
 * [PeWu/topola-viewer](https://github.com/PeWu/topola-viewer): Topola Genealogy Viewer – interactive genealogy visualization

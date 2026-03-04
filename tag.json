@@ -1556,9 +1556,6 @@
     "getwud/wud": [
         "Other"
     ],
-    "ghostboard/ghost-purge-images": [
-        "Other"
-    ],
     "github/gitignore": [
         "Other"
     ],
@@ -1626,6 +1623,9 @@
         "Other"
     ],
     "grokability/snipe-it": [
+        "Other"
+    ],
+    "growblog/ghost-purge-images": [
         "Other"
     ],
     "gwern/gwern.net": [

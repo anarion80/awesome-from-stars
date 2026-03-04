@@ -391,7 +391,7 @@
 * [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook): The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 * [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): 21 Lessons, Get Started Building with Generative AI 
 * [intra-sh/ghost-on-heroku](https://github.com/intra-sh/ghost-on-heroku): One-button Heroku deploy for the Ghost 4.x.y blogging platform.
-* [ghostboard/ghost-purge-images](https://github.com/ghostboard/ghost-purge-images): CLI tool to display & purge the uploaded images, video and audio files that currently are not used in any post, page or meta data
+* [growblog/ghost-purge-images](https://github.com/growblog/ghost-purge-images): CLI tool to display & purge the uploaded images, video and audio files that currently are not used in any post, page or meta data
 * [eexit/ghost-storage-cloudinary](https://github.com/eexit/ghost-storage-cloudinary): :rocket: A fully-featured and deeply tested Cloudinary Ghost storage adapter
 * [thelovekesh/ghost-v4-on-heroku](https://github.com/thelovekesh/ghost-v4-on-heroku): Deploy the latest ghost v4 on Heroku
 * [toddbirchard/ghosttheme-stockholm](https://github.com/toddbirchard/ghosttheme-stockholm): :ghost: :pencil: :sparkles: Clean Ghost theme with advanced features & customization.

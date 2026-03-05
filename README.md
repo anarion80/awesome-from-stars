@@ -705,6 +705,7 @@
 * [redxtech/nixfiles](https://github.com/redxtech/nixfiles): Personal nixos and home-manager configurations. 
 * [JManch/nixos](https://github.com/JManch/nixos): My NixOS configurations
 * [averagebit/nixos](https://github.com/averagebit/nixos): NixOS system configuration
+* [nicolkrit999/nixOS](https://github.com/nicolkrit999/nixOS): Personal nixOS config
 * [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config): ❄️ NixOs / Hyprland rice with Home-Manager ❄️
 * [KFearsoff/NixOS-config](https://github.com/KFearsoff/NixOS-config): None
 * [dc-tec/nixos-config](https://github.com/dc-tec/nixos-config): NixOS Configuration Repository
@@ -966,7 +967,7 @@
 * [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF): #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 * [hph/stocks](https://github.com/hph/stocks): Get current stock quotes and other information.
 * [zzeneg/stront](https://github.com/zzeneg/stront): Split keyboards with 38 or 40 keys, LCD display and Cirque trackpad
-* [withstudiocms/studiocms](https://github.com/withstudiocms/studiocms): Dedicated SSR (Server-side-rendered) Astro native Headless CMS, build from the ground up for the Astro community and by Astro community members
+* [withstudiocms/studiocms](https://github.com/withstudiocms/studiocms): Dedicated SSR (Server-side-rendered) Astro native Headless CMS, built from the ground up for the Astro community and by Astro community members
 * [stumpapp/stump](https://github.com/stumpapp/stump): A free and open source comics, manga and digital book server with OPDS support (WIP)
 * [robzr/sub2rbl](https://github.com/robzr/sub2rbl): OpenWRT utility that syncs online RBLs to iptables via ipset sets.
 * [SuiteCRM/SuiteCRM](https://github.com/SuiteCRM/SuiteCRM): SuiteCRM - Open source CRM for the world

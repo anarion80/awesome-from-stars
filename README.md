@@ -138,7 +138,7 @@
 * [circonus-labs/circonus-agent](https://github.com/circonus-labs/circonus-agent): Circonus host agent for metric collection
 * [ClaperCo/Claper](https://github.com/ClaperCo/Claper): 👋 The ultimate tool to interact with your audience
 * [linuxserver/Clarkson](https://github.com/linuxserver/Clarkson): Web-based fuel logging dashboard
-* [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide): Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks 
+* [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide): Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks go from beginner to power user!
 * [ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase): Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
 * [t7h-dots/cli](https://github.com/t7h-dots/cli): Customized version of the caelestia cli by soramanew
 * [daenny/climate_group](https://github.com/daenny/climate_group): Home Assistant Climate Group
@@ -638,7 +638,7 @@
 * [aaronpk/Meetable](https://github.com/aaronpk/Meetable): an event listing website
 * [trapexit/mergerfs](https://github.com/trapexit/mergerfs): a featureful union filesystem
 * [metabase/metabase](https://github.com/metabase/metabase): The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
-* [alexta69/metube](https://github.com/alexta69/metube): Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
+* [alexta69/metube](https://github.com/alexta69/metube): Self-hosted video downloader for YouTube and other sites (web UI for youtube-dl / yt-dlp)
 * [szabodanika/microbin](https://github.com/szabodanika/microbin): A secure, configurable file-sharing and URL shortening web app written in Rust.
 * [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference): A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 * [EasyG0ing1/Migration](https://github.com/EasyG0ing1/Migration): Migration is a tool to assist with migrating your OPNsense DHCP static mappings over to the new Kea DHCP server that comes with version 24 of OPNsense.

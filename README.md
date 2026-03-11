@@ -841,6 +841,7 @@
 * [Maproom/qmapshack](https://github.com/Maproom/qmapshack): Consumer grade GIS software
 * [filterpaper/qmk_userspace](https://github.com/filterpaper/qmk_userspace): Personal QMK firmware user space
 * [Quanta-Switch/qnos-ansible-collection](https://github.com/Quanta-Switch/qnos-ansible-collection): Ansible collection for ansible related modules which can be used in qnos switches.
+* [jackyzha0/quartz](https://github.com/jackyzha0/quartz): 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 * [dlford/quokka](https://github.com/dlford/quokka): A split ortholinear keyboard designed for the small handed
 * [dwyl/quotes](https://github.com/dwyl/quotes): 💬  a curated list of quotes that inspire action + code that returns quotes by tag/author/etc. 💡 
 * [nmaggioni/r710-fan-controller](https://github.com/nmaggioni/r710-fan-controller): A Python script and SystemD service to control Dell PowerEdges' fans depending on CPU(s) temperatures.

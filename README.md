@@ -605,7 +605,7 @@
 * [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom): Build a beautiful Home Assistant dashboard easily
 * [lowcoder-org/lowcoder](https://github.com/lowcoder-org/lowcoder): 🔥 🔥 🔥 The Open Source Retool, Tooljet and Appsmith Alternative
 * [levpopov/LPX](https://github.com/levpopov/LPX): None
-* [bmachek/lrc-immich-plugin](https://github.com/bmachek/lrc-immich-plugin): Upload/import images from Lightroom Classic to Immich.
+* [bmachek/lrc-immich-plugin](https://github.com/bmachek/lrc-immich-plugin): Lightroom Classic Plugin for Immich
 * [louwrentius/lsidrivemap](https://github.com/louwrentius/lsidrivemap): Graphical mapping of disk drives in an enclosure based on output of megacli
 * [hargata/lubelog](https://github.com/hargata/lubelog): LubeLogger is a web-based vehicle maintenance and fuel mileage tracker
 * [JimmyCamus/luna-landing](https://github.com/JimmyCamus/luna-landing): Template of a business landing page to be configured by json file

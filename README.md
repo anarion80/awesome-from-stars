@@ -658,7 +658,7 @@
 * [moonlight-stream/moonlight-pc](https://github.com/moonlight-stream/moonlight-pc): Java GameStream client for PC (Discontinued in favor of Moonlight Qt)
 * [LukeChannings/moviematch](https://github.com/LukeChannings/moviematch): MovieMatch for Plex
 * [mjl-/mox](https://github.com/mjl-/mox): modern full-featured open source secure mail server for low-maintenance self-hosted email
-* [sca075/mqtt_vacuum_camera](https://github.com/sca075/mqtt_vacuum_camera): Camera Integration for Home Assistant to export and render all Vacuums connected via MQTT( including Valetudo Hypfer and RE(rand256)) Maps.
+* [sca075/mqtt_vacuum_camera](https://github.com/sca075/mqtt_vacuum_camera): Camera Integration for Home Assistant to export and render all Vacuums connected via MQTT( including Valetudo Hypfer, Congaduto and RE(rand256)) Maps.
 * [derekhe/msfs2020-google-map](https://github.com/derekhe/msfs2020-google-map): Replace MSFS2020's bing map to google map
 * [mumble-voip/mumble](https://github.com/mumble-voip/mumble): Mumble is an open-source, low-latency, high quality voice chat software.
 * [dlip/mushi](https://github.com/dlip/mushi): 36 key keyboard
@@ -1024,6 +1024,7 @@
 * [joshp23/ttrss-to-wallabag-v2](https://github.com/joshp23/ttrss-to-wallabag-v2): A Tiny Tiny RSS plugin to post to a Wallabg v2 instance
 * [basnijholt/tuitorial](https://github.com/basnijholt/tuitorial): Create beautiful terminal-based code tutorials with syntax highlighting and interactive navigation.
 * [oyvhov/Tunet](https://github.com/oyvhov/Tunet): Tunet Dashboard for Home Assistant with real-time cards, drag-and-drop layout, and an integrated Hass.io add-on.
+* [alexander-turner/TurnTrout.com](https://github.com/alexander-turner/TurnTrout.com): A blog on AI, personal development, and living a good life.
 * [sidharthmohannair/Tutorial-ESP32-C3-Super-Mini](https://github.com/sidharthmohannair/Tutorial-ESP32-C3-Super-Mini): This tutorial provides a comprehensive guide on using the ESP32-C3 Super Mini, including board specifications, pinouts, getting start on Arduino IDE, and so on
 * [romasku/tuya-zigbee-switch](https://github.com/romasku/tuya-zigbee-switch): Feature-rich custom firmware for Telink/Silabs Zigbee switches, modules, sockets
 * [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend): Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C/C2, DVB-S/S2, DVB-T/T2, IPTV, SAT>IP and unix pipe input sources
@@ -1056,7 +1057,7 @@
 * [JakeWharton/ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator): Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock.
 * [Beast-Viper/ViperDots-Hyprland](https://github.com/Beast-Viper/ViperDots-Hyprland): A repository for my Hyprland dotfiles.
 * [roflcoopter/viseron](https://github.com/roflcoopter/viseron): Self-hosted, local only NVR and AI Computer Vision software.  With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, office or any other place you want to monitor.
-* [jamiepine/voicebox](https://github.com/jamiepine/voicebox): The open-source voice synthesis studio powered by Qwen3-TTS.
+* [jamiepine/voicebox](https://github.com/jamiepine/voicebox): The open-source voice synthesis studio
 * [volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility): An advanced memory forensics framework
 * [jakovius/voxd](https://github.com/jakovius/voxd): VOXD is a speech-to-text, voice-typing, dictation software for linux distributions. It is an open-source, free of charge, USER-FRIENDLY software, for as many linux distros as possible.
 * [Rookwork/Voyager-keywell-adapters](https://github.com/Rookwork/Voyager-keywell-adapters): 3D-printable adapters to curve the ZSA Voyager keycaps

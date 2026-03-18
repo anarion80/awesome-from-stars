@@ -49,7 +49,7 @@
 * [appwrite/appwrite](https://github.com/appwrite/appwrite): Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 * [ansible-community/ara](https://github.com/ansible-community/ara): ARA Records Ansible and makes it easier to understand and troubleshoot.
 * [vercel/arg](https://github.com/vercel/arg): Simple argument parsing
-* [lcdyk0517/arkos4clone](https://github.com/lcdyk0517/arkos4clone): ArkOS for Unofficial Devices
+* [lcdyk0517/arkos4clone](https://github.com/lcdyk0517/arkos4clone): ArkOS for Unofficial Devices Stop updating.  
 * [withastro/astro](https://github.com/withastro/astro): The web framework for content-driven websites. ⭐️ Star to support our work!
 * [koyopro/astro-cookie-session](https://github.com/koyopro/astro-cookie-session): Middleware for managing sessions using cookies on Astro.
 * [MicroWebStacks/astro-examples](https://github.com/MicroWebStacks/astro-examples): Astro design patterns examples, client-server state management, markdown, caching
@@ -675,7 +675,7 @@
 * [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM): Affordable, Multifunctional, Nano RISC-V IP-KVM
 * [cbh123/narrator](https://github.com/cbh123/narrator): David Attenborough narrates your life
 * [wolfwood/navcaps](https://github.com/wolfwood/navcaps): 3D printable keycaps and MX-compatible mounts for directional navigation switches, along with trackpoint extension stems
-* [navidrome/navidrome](https://github.com/navidrome/navidrome): 🎧☁️ Your Personal Streaming Service
+* [navidrome/navidrome](https://github.com/navidrome/navidrome): 🎧 Your Personal Streaming Service 
 * [nbs-system/naxsi](https://github.com/nbs-system/naxsi): NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX
 * [m1k1o/neko](https://github.com/m1k1o/neko): A self hosted virtual browser that runs in docker and uses WebRTC.
 * [nemanjam/nemanjam.github.io](https://github.com/nemanjam/nemanjam.github.io): Developer blog website built with Astro and Tailwind.

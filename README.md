@@ -692,6 +692,7 @@
 * [M165437/nice-view-gem](https://github.com/M165437/nice-view-gem): A sleek customization for the nice!view shield
 * [PrettyBoyCosmo/nix](https://github.com/PrettyBoyCosmo/nix): My NixOS config
 * [knoopx/nix](https://github.com/knoopx/nix): Niri + AGS based desktop environment on top of nixos
+* [nicolkrit999/nix](https://github.com/nicolkrit999/nix): Nix config. Support for x86 and arm pc, as well as macOS (nix-darwin), uses denix for simple enabling/disabling of modules, as well as many other features
 * [sonntag/nix](https://github.com/sonntag/nix): My personal nix flake
 * [AlexNabokikh/nix-config](https://github.com/AlexNabokikh/nix-config): NixOS, Nix-Darwin and home-manager configurations.
 * [Tarow/nix-config](https://github.com/Tarow/nix-config): None
@@ -705,7 +706,6 @@
 * [redxtech/nixfiles](https://github.com/redxtech/nixfiles): Personal nixos and home-manager configurations. 
 * [JManch/nixos](https://github.com/JManch/nixos): My NixOS configurations
 * [averagebit/nixos](https://github.com/averagebit/nixos): NixOS system configuration
-* [nicolkrit999/nixOS](https://github.com/nicolkrit999/nixOS): Personal nixOS config
 * [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config): ❄️ NixOs / Hyprland rice with Home-Manager ❄️
 * [KFearsoff/NixOS-config](https://github.com/KFearsoff/NixOS-config): None
 * [dc-tec/nixos-config](https://github.com/dc-tec/nixos-config): NixOS Configuration Repository

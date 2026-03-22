@@ -403,7 +403,7 @@
 * [ixc/glamkit-eventtools](https://github.com/ixc/glamkit-eventtools): An event management app for Django. Forked from thauber's django-schedule
 * [glanceapp/glance](https://github.com/glanceapp/glance): A self-hosted dashboard that puts all your feeds in one place
 * [BluDood/GlanceThing](https://github.com/BluDood/GlanceThing): Your CarThing as a glanceable action pad!
-* [IhsenBouallegue/glasshome-addon](https://github.com/IhsenBouallegue/glasshome-addon): None
+* [glasshome-labs/glasshome-addon](https://github.com/glasshome-labs/glasshome-addon): None
 * [glauth/glauth](https://github.com/glauth/glauth): A lightweight LDAP server for development, home use, or CI
 * [glzr-io/glazewm](https://github.com/glzr-io/glazewm): GlazeWM is a tiling window manager for Windows inspired by i3wm.
 * [gmr/glyphicons-sprite-generator](https://github.com/gmr/glyphicons-sprite-generator): The GLYPHICONS Sprite Generator allows you to change the size and colors of the Bootstap icons using the Free or Pro versions of GLYPHICONS.

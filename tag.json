@@ -428,6 +428,9 @@
     "MvEerd/ergogen-gui": [
         "Other"
     ],
+    "NASK-NLP/BAN-PL": [
+        "Other"
+    ],
     "NemesisRE/kiosk-mode": [
         "Other"
     ],
@@ -708,9 +711,6 @@
         "Other"
     ],
     "Yelp/paasta": [
-        "Other"
-    ],
-    "ZILiAT-NASK/BAN-PL": [
         "Other"
     ],
     "ZeroQI/Hama.bundle": [

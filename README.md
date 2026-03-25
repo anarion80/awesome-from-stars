@@ -90,7 +90,7 @@
 * [jbesw/aws-serverless-form-handler](https://github.com/jbesw/aws-serverless-form-handler): Serverless Form Handler - accepts a form submission from a webpage, saving the data to a DynamoDB table and sending an email via SES.
 * [ansible/awx](https://github.com/ansible/awx): AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 * [Axenide/Ax-Shell](https://github.com/Axenide/Ax-Shell): A hackable shell for Hyprland, powered by Fabric.
-* [ZILiAT-NASK/BAN-PL](https://github.com/ZILiAT-NASK/BAN-PL): Polish Dataset of Banned Harmful and Offensive Content from Wykop.pl web service
+* [NASK-NLP/BAN-PL](https://github.com/NASK-NLP/BAN-PL): Polish Dataset of Banned Harmful and Offensive Content from Wykop.pl web service
 * [Forceu/barcodebuddy](https://github.com/Forceu/barcodebuddy): Barcode system for Grocy
 * [hyperonym/basaran](https://github.com/hyperonym/basaran): Basaran is an open-source alternative to the OpenAI text completion API. It provides a compatible streaming API for your Hugging Face Transformers-based text generation models.
 * [sharkdp/bat](https://github.com/sharkdp/bat): A cat(1) clone with wings.

@@ -123,7 +123,7 @@
 * [miroslavpejic85/call-me](https://github.com/miroslavpejic85/call-me): 🟢 Call-Me: Your Go-To for Instant Video Calls!
 * [caprover/caprover](https://github.com/caprover/caprover): Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 * [cardigann/cardigann](https://github.com/cardigann/cardigann): A proxy server for adding new indexers to Sonarr, SickRage and other media managers
-* [casdoor/casdoor](https://github.com/casdoor/casdoor): An open-source AI-first Identity and Access Management (IAM) /AI MCP gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
+* [casdoor/casdoor](https://github.com/casdoor/casdoor): An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD
 * [smallstep/certificates](https://github.com/smallstep/certificates): 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 * [figsoda/cfg](https://github.com/figsoda/cfg): My NixOS configuration featuring niri and neovim
 * [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io): Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!

@@ -186,7 +186,7 @@
 * [hackthedev/dcts-shipping](https://github.com/hackthedev/dcts-shipping): A Chat Platform like Discord but self-hostable like TeamSpeak
 * [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10): A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 * [decaporg/decap-cms](https://github.com/decaporg/decap-cms): A Git-based CMS for Static Site Generators
-* [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor): "DeepTutor: AI-Powered Personalized Learning Assistant"
+* [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor): "DeepTutor: Agent-Native Personalized Learning Assistant"
 * [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated): letsencrypt/acme client implemented as a shell-script – just add water
 * [dandavison/delta](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, grep, and blame output
 * [Doc-Steve/dendritic-design-with-flake-parts](https://github.com/Doc-Steve/dendritic-design-with-flake-parts): A guide on how to structure your Nix code with Flake Parts using the Dendritic Pattern
@@ -404,7 +404,7 @@
 * [glanceapp/glance](https://github.com/glanceapp/glance): A self-hosted dashboard that puts all your feeds in one place
 * [BluDood/GlanceThing](https://github.com/BluDood/GlanceThing): Your CarThing as a glanceable action pad!
 * [glauth/glauth](https://github.com/glauth/glauth): A lightweight LDAP server for development, home use, or CI
-* [glzr-io/glazewm](https://github.com/glzr-io/glazewm): GlazeWM is a tiling window manager for Windows inspired by i3wm.
+* [glzr-io/glazewm](https://github.com/glzr-io/glazewm): GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm.
 * [gmr/glyphicons-sprite-generator](https://github.com/gmr/glyphicons-sprite-generator): The GLYPHICONS Sprite Generator allows you to change the size and colors of the Bootstap icons using the Free or Pro versions of GLYPHICONS.
 * [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc): Ultimate camera streaming application
 * [kahing/goofys](https://github.com/kahing/goofys): a high-performance, POSIX-ish Amazon S3 file system written in Go

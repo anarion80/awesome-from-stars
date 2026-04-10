@@ -34,7 +34,7 @@
 * [jcooper-korg/AlarmPanel](https://github.com/jcooper-korg/AlarmPanel): A custom alarm panel card for home assistant
 * [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one): 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 * [Dingmatt/AMSA](https://github.com/Dingmatt/AMSA): A Plex anime agent using TVDB and AniDB data
-* [plausible/analytics](https://github.com/plausible/analytics): Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.
+* [plausible/analytics](https://github.com/plausible/analytics): Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 * [daemonza/Android---Navigation-Drawer-example](https://github.com/daemonza/Android---Navigation-Drawer-example): Android - Navigation Drawer example
 * [chrisbanes/Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh): DEPRECATED
 * [CyanogenMod/android_device_lge_mako](https://github.com/CyanogenMod/android_device_lge_mako): Google Nexus 4
@@ -120,7 +120,7 @@
 * [e-tho/bzmenu](https://github.com/e-tho/bzmenu): Launcher-driven Bluetooth manager for Linux
 * [calcom/cal.com](https://github.com/calcom/cal.com): Scheduling infrastructure for absolutely everyone.
 * [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated): Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
-* [miroslavpejic85/call-me](https://github.com/miroslavpejic85/call-me): 🟢 Call-Me: Your Go-To for Instant Video Calls!
+* [miroslavpejic85/call-me](https://github.com/miroslavpejic85/call-me): 🟢 Call-Me is a WebRTC app for instant video calls with no setup or signup required
 * [caprover/caprover](https://github.com/caprover/caprover): Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 * [cardigann/cardigann](https://github.com/cardigann/cardigann): A proxy server for adding new indexers to Sonarr, SickRage and other media managers
 * [casdoor/casdoor](https://github.com/casdoor/casdoor): An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD

@@ -188,7 +188,7 @@
 * [decaporg/decap-cms](https://github.com/decaporg/decap-cms): A Git-based CMS for Static Site Generators
 * [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor): "DeepTutor: Agent-Native Personalized Learning Assistant"
 * [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated): letsencrypt/acme client implemented as a shell-script – just add water
-* [dandavison/delta](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, grep, and blame output
+* [dandavison/delta](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 * [Doc-Steve/dendritic-design-with-flake-parts](https://github.com/Doc-Steve/dendritic-design-with-flake-parts): A guide on how to structure your Nix code with Flake Parts using the Dendritic Pattern
 * [yunfachi/denix](https://github.com/yunfachi/denix): Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
 * [hrvach/deskhop](https://github.com/hrvach/deskhop): Fast Desktop Switching Device
@@ -617,7 +617,7 @@
 * [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail): Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
 * [vimichael/make-windows-pretty](https://github.com/vimichael/make-windows-pretty): Some tools I used for making Windows 11 look nice.
 * [krateng/maloja](https://github.com/krateng/maloja): Self-hosted music scrobble database to create personal listening statistics and charts
-* [mnfst/manifest](https://github.com/mnfst/manifest): Smart LLM Routing for OpenClaw. Cut Costs up to 70% 🦞🦚
+* [mnfst/manifest](https://github.com/mnfst/manifest): Smart Model Routing for Personal AI Agents. Cut Costs up to 70% 🦞👧🦚
 * [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch): Easy to use open source fast database for search | Good alternative to Elasticsearch | Drop-in replacement for E in the ELK stack
 * [diogovalentte/mantium](https://github.com/diogovalentte/mantium): Mantium is a self-hosted cross-site manga tracker. It can track manga from source sites like Manga Plus, Mangadex, ComicK, etc.
 * [godofredoninja/Mapache](https://github.com/godofredoninja/Mapache): You can use the theme Mapache for ghost in: Blog - Magazine - Landing page - Personal page -  Photographers. and in many other things

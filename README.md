@@ -120,7 +120,7 @@
 * [e-tho/bzmenu](https://github.com/e-tho/bzmenu): Launcher-driven Bluetooth manager for Linux
 * [calcom/cal.com](https://github.com/calcom/cal.com): Scheduling infrastructure for absolutely everyone.
 * [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated): Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
-* [miroslavpejic85/call-me](https://github.com/miroslavpejic85/call-me): 🟢 Call-Me is a WebRTC app for instant video calls with no setup or signup required
+* [miroslavpejic85/call-me](https://github.com/miroslavpejic85/call-me): 🟢 WebRTC click-to-call platform for instant real-time communication in a persistent shared room with unlimited participants where users can join and call each other instantly. No signup or setup required.
 * [caprover/caprover](https://github.com/caprover/caprover): Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 * [cardigann/cardigann](https://github.com/cardigann/cardigann): A proxy server for adding new indexers to Sonarr, SickRage and other media managers
 * [casdoor/casdoor](https://github.com/casdoor/casdoor): An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD

@@ -1028,7 +1028,7 @@
 * [sidharthmohannair/Tutorial-ESP32-C3-Super-Mini](https://github.com/sidharthmohannair/Tutorial-ESP32-C3-Super-Mini): This tutorial provides a comprehensive guide on using the ESP32-C3 Super Mini, including board specifications, pinouts, getting start on Arduino IDE, and so on
 * [romasku/tuya-zigbee-switch](https://github.com/romasku/tuya-zigbee-switch): Feature-rich custom firmware for Telink/Silabs Zigbee switches, modules, sockets
 * [tvheadend/tvheadend](https://github.com/tvheadend/tvheadend): Tvheadend is the leading TV streaming server for Linux with ATSC, DVB-C/C2, DVB-S/S2, DVB-T/T2, IPTV, SAT>IP and unix pipe input sources
-* [twentyhq/twenty](https://github.com/twentyhq/twenty): Building a modern alternative to Salesforce, powered by the community.
+* [twentyhq/twenty](https://github.com/twentyhq/twenty): The open alternative to Salesforce, designed for AI.
 * [bcomnes/twitter-component](https://github.com/bcomnes/twitter-component): A native DOM component for embedding tweets
 * [typesense/typesense](https://github.com/typesense/typesense): Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 * [al-kot/typst-preview.nvim](https://github.com/al-kot/typst-preview.nvim): Live typst preview directly in neovim

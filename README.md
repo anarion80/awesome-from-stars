@@ -1057,7 +1057,7 @@
 * [JakeWharton/ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator): Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock.
 * [Beast-Viper/ViperDots-Hyprland](https://github.com/Beast-Viper/ViperDots-Hyprland): A repository for my Hyprland dotfiles.
 * [roflcoopter/viseron](https://github.com/roflcoopter/viseron): Self-hosted, local only NVR and AI Computer Vision software.  With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, office or any other place you want to monitor.
-* [jamiepine/voicebox](https://github.com/jamiepine/voicebox): The open-source voice synthesis studio
+* [jamiepine/voicebox](https://github.com/jamiepine/voicebox): The open-source AI voice studio. Clone, dictate, create.
 * [volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility): An advanced memory forensics framework
 * [jakovius/voxd](https://github.com/jakovius/voxd): VOXD is a speech-to-text, voice-typing, dictation software for linux distributions. It is an open-source, free of charge, USER-FRIENDLY software, for as many linux distros as possible.
 * [Rookwork/Voyager-keywell-adapters](https://github.com/Rookwork/Voyager-keywell-adapters): 3D-printable adapters to curve the ZSA Voyager keycaps

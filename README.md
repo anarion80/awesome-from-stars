@@ -207,7 +207,7 @@
 * [jazzband/django-analytical](https://github.com/jazzband/django-analytical): Analytics services for Django projects
 * [brosner/django-announcements](https://github.com/brosner/django-announcements): A site-wide announcement reusable app for Django.
 * [yeago/django-announcements](https://github.com/yeago/django-announcements): An announcement app for flashing messages on your site (@ specific url, time, acknowledgments, etc)
-* [yourlabs/django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light): A fresh approach to autocomplete implementations, specially for Django. Status: v4 alpha, v3 stable, v2 & v1 deprecated.
+* [yourlabs/django-autocomplete-light](https://github.com/yourlabs/django-autocomplete-light): A fresh approach to autocomplete implementations, specially for Django.
 * [gregmuellegger/django-autofixture](https://github.com/gregmuellegger/django-autofixture): Can create auto-generated test data.
 * [martinogden/django-banner-rotator](https://github.com/martinogden/django-banner-rotator): Simple Banner Rotation App for Django
 * [Fantomas42/django-blog-zinnia](https://github.com/Fantomas42/django-blog-zinnia): Simple yet powerful and really extendable application for managing a blog within your Django Web site.
@@ -579,7 +579,7 @@
 * [i365dev/LetterDrop](https://github.com/i365dev/LetterDrop): LetterDrop is a secure and efficient newsletter management service powered by Cloudflare Workers, enabling easy creation, distribution, and subscription management of newsletters.
 * [CyanogenMod/lge-kernel-mako](https://github.com/CyanogenMod/lge-kernel-mako): Google Nexus 4's kernel
 * [krruzic/libgen-opds](https://github.com/krruzic/libgen-opds):  A Library Genesis and OPDS "bridge". You can search and download books on LibGen via KOReaders OPDS Search. Most read lists from GoodReads are also parsed, and allow you to directly jump to a relevant LibGen search.  Forked from: https://gitea.va.reichard.io/evan/libgen-opds
-* [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos): A self-hosted open source photo management service. This is the repository of the backend.
+* [LibrePhotos/librephotos](https://github.com/LibrePhotos/librephotos): A self-hosted open source photo management service. 
 * [libretiny-eu/libretiny](https://github.com/libretiny-eu/libretiny): PlatformIO development platform for IoT modules
 * [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate): Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 * [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum): The Librum client application

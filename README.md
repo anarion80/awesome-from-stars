@@ -193,7 +193,7 @@
 * [yunfachi/denix](https://github.com/yunfachi/denix): Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
 * [hrvach/deskhop](https://github.com/hrvach/deskhop): Fast Desktop Switching Device
 * [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing): Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore
-* [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+* [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap): Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 * [developertools-tech/developertools.tech](https://github.com/developertools-tech/developertools.tech): A collection of tools for developers served as a PWA
 * [netbox-community/Device-Type-Library-Import](https://github.com/netbox-community/Device-Type-Library-Import): This library is intended to assist with importing device and module types into NetBox from the NetBox Community DeviceType-Library
 * [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library): A collection of community-sourced DeviceType definitions for import to NetBox

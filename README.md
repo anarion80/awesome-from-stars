@@ -1007,7 +1007,7 @@
 * [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park): A collection of themes/skins for 50 selfhosted apps!
 * [Taro-Hayashi/THQWGD001](https://github.com/Taro-Hayashi/THQWGD001): None
 * [f0nzie/tikz_favorites](https://github.com/f0nzie/tikz_favorites): collection of favorite TikZ graphics
-* [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth): The tiniest authentication and authorization server you have ever seen.
+* [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth): The tiniest authentication and authorization server you have ever seen.
 * [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet): ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 * [richardelling/tools](https://github.com/richardelling/tools): tools for storage servers
 * [PeWu/topola-viewer](https://github.com/PeWu/topola-viewer): Topola Genealogy Viewer – interactive genealogy visualization

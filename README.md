@@ -187,7 +187,7 @@
 * [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10): A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 * [decaporg/decap-cms](https://github.com/decaporg/decap-cms): A Git-based CMS for Static Site Generators
 * [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor): "DeepTutor: Agent-Native Personalized Learning Assistant"
-* [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated): letsencrypt/acme client implemented as a shell-script – just add water
+* [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated): ACME client implemented as a simple shell-script – just add water
 * [dandavison/delta](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 * [Doc-Steve/dendritic-design-with-flake-parts](https://github.com/Doc-Steve/dendritic-design-with-flake-parts): A guide on how to structure your Nix code with Flake Parts using the Dendritic Pattern
 * [yunfachi/denix](https://github.com/yunfachi/denix): Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
@@ -648,6 +648,7 @@
 * [svenstaro/miniserve](https://github.com/svenstaro/miniserve): 🌟 For when you really just want to serve some files over HTTP right now!
 * [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku): Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
 * [luk1337/MiuiCamera](https://github.com/luk1337/MiuiCamera): None
+* [Random90/mobiDictToStarDictConverter](https://github.com/Random90/mobiDictToStarDictConverter): One click offline web converter for .mobi kindle dictionaries to StarDict format. Just grab html file, select you dict and covert. Main focus of the project it conversion of the "Wielki Słownik angielsko-polski" dictionary.
 * [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix): A collection of modern/faster/saner alternatives to common unix commands.
 * [S4NKALP/Modus](https://github.com/S4NKALP/Modus): A modular and extensible shell for Hyprland, written on Fabric. 
 * [ubccr/mokey](https://github.com/ubccr/mokey): FreeIPA self-service account management portal
@@ -853,6 +854,7 @@
 * [serpent213/reactor-ca](https://github.com/serpent213/reactor-ca): Homelab/SOHO Certificate Authority with age encryption and deployment
 * [Readarr/Readarr](https://github.com/Readarr/Readarr): Book Manager and Automation (Sonarr for Ebooks)
 * [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes): Application for managing recipes, planning meals, building shopping lists and much much more!
+* [refluxdb/refluxdb](https://github.com/refluxdb/refluxdb): Scalable datastore for metrics, events, and real-time analytics - InfluxDB3-Core fork Unlocked w/ Enterprise Features
 * [cloudron-io/releasebell](https://github.com/cloudron-io/releasebell): None
 * [svchord/Rem-Craft](https://github.com/svchord/Rem-Craft): 一款现代化、扁平化设计的思源笔记主题
 * [YIO-Remote/remote-software](https://github.com/YIO-Remote/remote-software): 💎 YIO Remote Software repository

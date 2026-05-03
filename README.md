@@ -326,7 +326,7 @@
 * [MvEerd/ergogen-gui](https://github.com/MvEerd/ergogen-gui): None
 * [yanshay/ergogen-stuff](https://github.com/yanshay/ergogen-stuff): ErgoGen related stuff - ErgoGen routing solution for now 
 * [tsteffek/Ergogen-V4-Migration-Guide](https://github.com/tsteffek/Ergogen-V4-Migration-Guide): Migration guide from Ergogen v3 to v4
-* [tarampampam/error-pages](https://github.com/tarampampam/error-pages): 🚧 Pretty server's error pages in the docker image & git repository (for traefik, k8s, nginx and so on)
+* [tarampampam/error-pages](https://github.com/tarampampam/error-pages): 🪂 Tiny, zero-dep HTTP server & Docker image serving pretty, themeable, localized HTTP error pages — drop-in for Traefik, Nginx, Kubernetes, and more
 * [jonschoning/espial](https://github.com/jonschoning/espial):  Espial is an open-source, web-based bookmarking server.
 * [espocrm/espocrm-docker](https://github.com/espocrm/espocrm-docker): Official Docker Image for EspoCRM
 * [greenrobot/EventBus](https://github.com/greenrobot/EventBus): Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
@@ -481,7 +481,7 @@
 * [lolouk44/homeassistant](https://github.com/lolouk44/homeassistant): My home-assistant.io config
 * [glasshome/homeassistant-addon](https://github.com/glasshome/homeassistant-addon): None
 * [CiquattroFPV/Homeassistant-Example-Config](https://github.com/CiquattroFPV/Homeassistant-Example-Config): Home Assistant - Example - Config
-* [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc): Custom component to calculate estimated power consumption of lights and other appliances
+* [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc): Home Assistant Custom component to calculate estimated power consumption of lights and other appliances
 * [epoplavskis/homeassistant_salus](https://github.com/epoplavskis/homeassistant_salus): Home Assistant integration with Salus devices
 * [konradb3/homeassistant_salus](https://github.com/konradb3/homeassistant_salus): Home Assistant integration with Salus thermostates
 * [hay-kot/homebox](https://github.com/hay-kot/homebox): Homebox is the inventory and organization system built for the Home User

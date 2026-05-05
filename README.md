@@ -352,7 +352,7 @@
 * [axboe/fio](https://github.com/axboe/fio): Flexible I/O Tester
 * [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii): Firefly III: a personal finances manager
 * [cioraneanu/firefly-pico](https://github.com/cioraneanu/firefly-pico): A delightful Firefly III companion web app for effortless transaction tracking
-* [SamR1/FitTrackee](https://github.com/SamR1/FitTrackee): Self-hosted outdoor activity tracker :bicyclist:
+* [SamR1/FitTrackee](https://github.com/SamR1/FitTrackee): Self-hosted outdoor activity tracker :bicyclist: [mirror of codeberg repository: https://codeberg.org/FitTrackee/FitTrackee]
 * [huangyuzhang/Fizzy-Theme](https://github.com/huangyuzhang/Fizzy-Theme): 🥤A tasty blogging theme for Ghost.
 * [fdarveau/flame](https://github.com/fdarveau/flame): Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 * [pawelmalak/flame](https://github.com/pawelmalak/flame): Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
@@ -665,6 +665,7 @@
 * [dlip/mushi](https://github.com/dlip/mushi): 36 key keyboard
 * [LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard): A system for automatically configuring mutt and isync with a simple interface and safe passwords
 * [mescon/Muximux](https://github.com/mescon/Muximux): A self-hosted homelab dashboard with an optional built-in reverse proxy that makes stubborn apps work in iframes
+* [muxy-app/muxy](https://github.com/muxy-app/muxy): Lightweight and Memory efficient terminal for Mac built with SwiftUI and libghostty
 * [ai03-2725/MX_V2](https://github.com/ai03-2725/MX_V2): Second generation KiCad Libraries of keyboard switch footprints
 * [mrlacey/my-config](https://github.com/mrlacey/my-config): None
 * [Wh1t3Rose/My-Home-Assistant](https://github.com/Wh1t3Rose/My-Home-Assistant): Where I store my Home Asistant configs. Many from my blog site: https://automateit.lol

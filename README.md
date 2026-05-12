@@ -61,7 +61,7 @@
 * [Tailus-UI/astro-theme](https://github.com/Tailus-UI/astro-theme): Home page template built with astro and tailwindcss using tailus blocks
 * [martrapp/astro-vtbot](https://github.com/martrapp/astro-vtbot): The 👜 Bag of Tricks ✨ for Astro's View Transitions. ⭐️ Please star to support this work!
 * [surjithctly/astroship](https://github.com/surjithctly/astroship): Astroship is a starter template for startups, marketing websites, landing pages & blog. Built with Astro & TailwindCSS
-* [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind): ⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.
+* [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind): ⭕️ AstroWind: A free template using Astro v6 and Tailwind CSS v4. Astro starter theme.
 * [totaldebug/atomic-calendar-revive](https://github.com/totaldebug/atomic-calendar-revive): An advanced calendar card for Home Assistant Lovelace.
 * [SimpleHomelab/AtoMiC-ToolKit](https://github.com/SimpleHomelab/AtoMiC-ToolKit): AtoMiC Toolkit simplifies HTPC / Home Server setup and management on Ubuntu and Debian variants including Raspbian. It currently supports: Couchpotato, Deluged, Emby, FFmpeg, Headphones, Htpcmanager, Jackett, Kodi, Lazylibrarian, Madsonic, Mono, Mylar, Nzbget, Nzbhydra, NzbToMedia, Ombi, Plex, Plexpy, Pyload, qBittorrent, Radarr, Sabnzbd+, Sickgear, Sickrage, Sonarr, Subsonic, Transmission, Unrar, Watcher, and Webmin.
 * [macr0dev/Audiobooks.bundle](https://github.com/macr0dev/Audiobooks.bundle): Plex metadata scraper for Audiobooks
@@ -681,6 +681,7 @@
 * [nbs-system/naxsi](https://github.com/nbs-system/naxsi): NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX
 * [m1k1o/neko](https://github.com/m1k1o/neko): A self hosted virtual browser that runs in docker and uses WebRTC.
 * [nemanjam/nemanjam.github.io](https://github.com/nemanjam/nemanjam.github.io): Developer blog website built with Astro and Tailwind.
+* [QYLexpired/Neo](https://github.com/QYLexpired/Neo): Neo
 * [AlexSciFier/neonlink](https://github.com/AlexSciFier/neonlink): Simple self-hosted bookmark service.
 * [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts): Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 * [netdata/netdata](https://github.com/netdata/netdata): The fastest path to AI-powered full stack observability, even for lean teams.

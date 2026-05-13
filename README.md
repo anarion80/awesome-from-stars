@@ -74,6 +74,7 @@
 * [Cloudbox/autoscan](https://github.com/Cloudbox/autoscan): Autoscan replaces the default Plex and Emby behaviour for picking up changes on the file system.
 * [denizsafak/AutoSubSync](https://github.com/denizsafak/AutoSubSync): Automatic subtitle synchronization tool.
 * [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
+* [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro): Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 * [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV): :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 * [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics): A curated list of awesome resources for Electronic Engineers and hobbyists
 * [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero): 🐬 A collection of awesome resources for the Flipper Zero device.

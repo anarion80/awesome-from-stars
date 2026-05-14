@@ -347,9 +347,6 @@
     "Librum-Reader/Librum-Server": [
         "Other"
     ],
-    "Lissy93/portainer-templates": [
-        "Other"
-    ],
     "Litlyx/litlyx": [
         "Other"
     ],
@@ -2058,6 +2055,9 @@
         "Other"
     ],
     "linuxserver/docker-obsidian": [
+        "Other"
+    ],
+    "lissy93/portainer-templates": [
         "Other"
     ],
     "litinoveweedle/SmartIR": [

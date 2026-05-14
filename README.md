@@ -806,7 +806,7 @@
 * [aunefyren/poenskelisten](https://github.com/aunefyren/poenskelisten): A self-hosted application for sharing wishlists and collaborating on gifts and presents.
 * [MajkiIT/polish-ads-filter](https://github.com/MajkiIT/polish-ads-filter): CertyficateIT - Oficjalne polskie filtry do Adblock, uBlock Origin, Adguard
 * [typeofweb/polish-plurals](https://github.com/typeofweb/polish-plurals): Package for generating correct plurals in Polish.
-* [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates): 🚢 500+ 1-click Portainer app templates
+* [lissy93/portainer-templates](https://github.com/lissy93/portainer-templates): 🚢 500+ 1-click Portainer app templates
 * [safing/portmaster](https://github.com/safing/portmaster): 🏔 Love Freedom - ❌ Block Mass Surveillance
 * [microsoft/PowerToys](https://github.com/microsoft/PowerToys): Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 * [geek-cookbook/premix](https://github.com/geek-cookbook/premix): The "premix" for Funky Penguin's Geek Cookbook

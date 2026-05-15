@@ -737,6 +737,7 @@
 * [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi): Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 * [four-o-four/omniverse](https://github.com/four-o-four/omniverse): Omniverse - Automatic downloader for comic books (cbr, cbz, etc) in the tradition of Sickbeard. 
 * [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime): Complete open-source monitoring and observability platform.
+* [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil): AI-native design editor. Open-source Figma alternative.
 * [xitanggg/open-resume](https://github.com/xitanggg/open-resume): OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 * [jaypyles/open-spots](https://github.com/jaypyles/open-spots): Open Spots is a fork of Spots that is designed to help organizations deliver real-time building availability data to staff, employees, customers, or students.
 * [open-webui/open-webui](https://github.com/open-webui/open-webui): User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -745,6 +746,7 @@
 * [TheAxelander/OpenBudgeteer](https://github.com/TheAxelander/OpenBudgeteer): OpenBudgeteer is a budgeting app based on the Bucket Budgeting Principle
 * [OpenELEC/OpenELEC.tv](https://github.com/OpenELEC/OpenELEC.tv): OpenELEC - The living room PC for everyone
 * [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap): Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
+* [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil): The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
 * [openrundev/openrun](https://github.com/openrundev/openrun): Internal tools deployment made easy.  Deploy web apps declaratively, on a single-node or on Kubernetes.
 * [openscope/openscope](https://github.com/openscope/openscope): openScope Air Traffic Control Simulator
 * [OpenSignLabs/OpenSign](https://github.com/OpenSignLabs/OpenSign): 🔥 The free & Open Source DocuSign alternative

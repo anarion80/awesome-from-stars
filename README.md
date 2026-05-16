@@ -691,6 +691,7 @@
 * [sthierolf/network-automation-scripts](https://github.com/sthierolf/network-automation-scripts): Examples for "Custom Links" in Netbox to other applications by API calls
 * [sergiomarotco/Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet): Best practices for segmentation of the corporate network of any company
 * [samuelclay/NewsBlur](https://github.com/samuelclay/NewsBlur): NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
+* [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard): Modern Admin Dashboard Template built with Shadcn UI and Next.js 16
 * [iDebugAll/nextbox-ui-plugin](https://github.com/iDebugAll/nextbox-ui-plugin): Next-Gen Topology Visualization Plugin for NetBox Powered by topoSphere SDK
 * [bnchdan/ngx_stats](https://github.com/bnchdan/ngx_stats): Nginx real-time monitoring 
 * [M165437/nice-view-gem](https://github.com/M165437/nice-view-gem): A sleek customization for the nice!view shield

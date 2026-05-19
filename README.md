@@ -503,7 +503,7 @@
 * [lcomplete/huntly](https://github.com/lcomplete/huntly): Your Personal AI-Powered Information Hub
 * [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE): HyDE, your Development Environment 🖥️💻
 * [richen604/hydenix](https://github.com/richen604/hydenix): a nixos implementation of hyprdots, a HyDE dotfiles configuration
-* [juspay/hyperswitch](https://github.com/juspay/hyperswitch): An open source payments switch written in Rust to make payments fast, reliable and affordable
+* [juspay/hyperswitch](https://github.com/juspay/hyperswitch): Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation
 * [JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots): Hyprland configuration files or dotfiles - This repo is used as main repo for all my Distro-Hyprland Install Scripts. See the readme
 * [xeji01/hyprstellar](https://github.com/xeji01/hyprstellar): ✨ Cozy setup for my Hyprland. Running on Arch.
 * [omniosorg/illumos-omnios](https://github.com/omniosorg/illumos-omnios): Community developed and maintained version of the OS/Net consolidation
@@ -597,7 +597,7 @@
 * [timothystewart6/littlelink-server](https://github.com/timothystewart6/littlelink-server): A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
 * [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt): A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 * [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix): Nix packages for AI coding agents and development tools. Automatically updated daily.
-* [lobehub/lobehub](https://github.com/lobehub/lobehub): The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
+* [lobehub/lobehub](https://github.com/lobehub/lobehub): 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 * [localsend/localsend](https://github.com/localsend/localsend): An open-source cross-platform alternative to AirDrop
 * [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya): local handling for Tuya devices
 * [LodestoneHQ/lodestone](https://github.com/LodestoneHQ/lodestone): Personal Document Archiving (DMS, EDMS for Personal/Home Office use)

@@ -528,6 +528,7 @@
 * [kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme): 💎 🐳 A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
 * [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin): The Free Software Media System - Server Backend & API
 * [hrfee/jfa-go](https://github.com/hrfee/jfa-go): a bit-of-everything user management app for Jellyfin
+* [wallentx/jobscout](https://github.com/wallentx/jobscout): A TUI job finder and tracker
 * [atkinson/jquery-django-messages](https://github.com/atkinson/jquery-django-messages): Sliding messages improved - now supports Django contrib.messages
 * [jgerigmeyer/jquery-django-messages-ui](https://github.com/jgerigmeyer/jquery-django-messages-ui): JS client-side messages plugin, with support for Django contrib.messages app
 * [kamens/jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim): jQuery plugin to fire events when user's cursor aims at particular dropdown menu items. For making responsive mega dropdowns like Amazon's.

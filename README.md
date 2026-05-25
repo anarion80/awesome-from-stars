@@ -1045,6 +1045,7 @@
 * [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI): UI-Lovelace-Minimalist is a "theme" for HomeAssistant
 * [umami-software/umami](https://github.com/umami-software/umami): Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
 * [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall): Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
+* [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything): Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 * [UnicornTranscoder/UnicornTranscoder](https://github.com/UnicornTranscoder/UnicornTranscoder): Remote transcoder for Plex
 * [saik0/UnifiedPreference](https://github.com/saik0/UnifiedPreference): A convinience library for working with all versions of the Android Preference package from API v4 and up
 * [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater): Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.

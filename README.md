@@ -1099,7 +1099,7 @@
 * [workadventure/workadventure](https://github.com/workadventure/workadventure): A collaborative web application (virtual office) presented as a 16-bit RPG video game
 * [workspacer/workspacer](https://github.com/workspacer/workspacer): a tiling window manager for Windows
 * [aunefyren/wrapperr](https://github.com/aunefyren/wrapperr): Website based application that summarizes Plex statistics from a given period and displays it in a nice format. Similar to the Spotify Wrapped concept.
-* [alvaro17f/wrestic](https://github.com/alvaro17f/wrestic): 👽 A wrapper around restic built in rust
+* [badwatt/wrestic](https://github.com/badwatt/wrestic): 👽 A wrapper around restic built in rust
 * [cacheworks/Wubbo](https://github.com/cacheworks/Wubbo): 34-key split keyboard with pinky cluster
 * [getwud/wud](https://github.com/getwud/wud): Keep your containers up-to-date!
 * [Jalle19/xbmc-video-server](https://github.com/Jalle19/xbmc-video-server): Web interface for streaming or downloading media from a Kodi/XBMC library

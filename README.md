@@ -374,6 +374,7 @@
 * [ChurchApps/FreeShow](https://github.com/ChurchApps/FreeShow): FreeShow is a free and open-source, user-friendly presenter software.
 * [eric-pierce/freshapi](https://github.com/eric-pierce/freshapi): A FreshRSS / Google Reader API Plugin for Tiny-Tiny RSS
 * [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate): NVR with realtime local object detection for IP cameras
+* [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template): Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 * [0x2E/fusion](https://github.com/0x2E/fusion): A lightweight, self-hosted friendly RSS reader
 * [frangoteam/FUXA](https://github.com/frangoteam/FUXA): Web-based Process Visualization (SCADA/HMI/Dashboard) software
 * [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed): Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others

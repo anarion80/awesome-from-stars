@@ -979,7 +979,7 @@
 * [hph/stocks](https://github.com/hph/stocks): Get current stock quotes and other information.
 * [zzeneg/stront](https://github.com/zzeneg/stront): Split keyboards with 38 or 40 keys, LCD display and Cirque trackpad
 * [withstudiocms/studiocms](https://github.com/withstudiocms/studiocms): Dedicated SSR (Server-side-rendered) Astro native Headless CMS, built from the ground up for the Astro community and by Astro community members
-* [stumpapp/stump](https://github.com/stumpapp/stump): A free and open source comics, manga and digital book server with OPDS support (WIP)
+* [stumpapp/stump](https://github.com/stumpapp/stump): A free and open source comics, manga and digital book server with OPDS support
 * [robzr/sub2rbl](https://github.com/robzr/sub2rbl): OpenWRT utility that syncs online RBLs to iptables via ipset sets.
 * [SuiteCRM/SuiteCRM](https://github.com/SuiteCRM/SuiteCRM): SuiteCRM - Open source CRM for the world
 * [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine): Self-hosted game stream host for Moonlight.

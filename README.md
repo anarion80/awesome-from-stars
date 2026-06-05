@@ -733,6 +733,7 @@
 * [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy): A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 * [octelium/octelium](https://github.com/octelium/octelium): A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastructure.
 * [jneilliii/OctoPrint-BambuPrinter](https://github.com/jneilliii/OctoPrint-BambuPrinter): None
+* [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus): Self-hosted AI workspace. 
 * [treefarmstudio/odyssey-theme](https://github.com/treefarmstudio/odyssey-theme): A modern business marketing website theme/starter built with Astro 🚀
 * [JohnOberhauser/OkPanel](https://github.com/JohnOberhauser/OkPanel): A configurable panel for Hyprland, built with Ags
 * [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin): OliveTin gives safe and simple access to predefined shell commands from a web interface. 

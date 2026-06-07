@@ -948,7 +948,7 @@
 * [SirRamEsq/SmartShape2D](https://github.com/SirRamEsq/SmartShape2D): A 2D Terrain Tool for Godot
 * [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube): Browse media content with your own rules on Android TV
 * [Smashing/smashing](https://github.com/Smashing/smashing): The exceptionally handsome dashboard framework in Ruby and Coffeescript.
-* [1N3/Sn1per](https://github.com/1N3/Sn1per): Attack Surface Management Platform
+* [1N3/Sn1per](https://github.com/1N3/Sn1per): Automated penetration testing & attack surface management platform. Recon, scan, exploit, report — 600+ exploits, 90+ integrations, 10K+ detections.
 * [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop): A Progressive Web App for local file sharing 
 * [amadvance/snapraid](https://github.com/amadvance/snapraid): A backup program for disk arrays. It stores parity information of your data and it recovers from up to six disk failures
 * [grokability/snipe-it](https://github.com/grokability/snipe-it): A free open source IT asset/license management system

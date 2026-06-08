@@ -911,7 +911,7 @@
 * [sexibytes/sexigraf](https://github.com/sexibytes/sexigraf): SexiGraf is a vSphere centric Graphite appliance with a Grafana frontend.
 * [drakkan/sftpgo](https://github.com/drakkan/sftpgo): Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 * [shaarli/Shaarli](https://github.com/shaarli/Shaarli): The personal, minimalist, super-fast, database free, bookmarking service - community repo
-* [caelestia-dots/shell](https://github.com/caelestia-dots/shell): ‼️ No waybar here ‼️
+* [caelestia-dots/shell](https://github.com/caelestia-dots/shell): A fluid, morphing shell for your Linux desktop
 * [thehookup/Shelly-RGBW2](https://github.com/thehookup/Shelly-RGBW2): A repository for Shelly RGBW2 control in Home Assistant via MQTT
 * [StyraHem/ShellyForHASS](https://github.com/StyraHem/ShellyForHASS): Shelly smart home platform for Home Assistant
 * [go-shiori/shiori](https://github.com/go-shiori/shiori): Simple bookmark manager built with Go

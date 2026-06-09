@@ -620,7 +620,7 @@
 * [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail): Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
 * [vimichael/make-windows-pretty](https://github.com/vimichael/make-windows-pretty): Some tools I used for making Windows 11 look nice.
 * [krateng/maloja](https://github.com/krateng/maloja): Self-hosted music scrobble database to create personal listening statistics and charts
-* [mnfst/manifest](https://github.com/mnfst/manifest): Smart Model Routing for Agents. Cut Costs up to 70% 🦚
+* [mnfst/manifest](https://github.com/mnfst/manifest): Connect Your Agents And Harnesses With Any Provider 🦚
 * [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch): Easy to use open source fast database for search | Good alternative to Elasticsearch | Drop-in replacement for E in the ELK stack
 * [diogovalentte/mantium](https://github.com/diogovalentte/mantium): Mantium is a self-hosted cross-site manga tracker. It can track manga from source sites like Manga Plus, Mangadex, ComicK, etc.
 * [godofredoninja/Mapache](https://github.com/godofredoninja/Mapache): You can use the theme Mapache for ghost in: Blog - Magazine - Landing page - Personal page -  Photographers. and in many other things
@@ -718,7 +718,7 @@
 * [dc-tec/nixos-config](https://github.com/dc-tec/nixos-config): NixOS Configuration Repository
 * [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config): General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
 * [JaKooLit/NixOS-Hyprland](https://github.com/JaKooLit/NixOS-Hyprland): To Automate Installation of Hyprland on NixOS using flakes. NOTE: Dot configs are not written in Nix.
-* [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell): A sleek and minimal desktop shell thoughtfully crafted for Wayland.
+* [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia): A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 * [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices): :white_check_mark:  The Node.js best practices list (July 2024)
 * [SylvanFranklin/nonsense](https://github.com/SylvanFranklin/nonsense): Nonsensical Math Paper Generator
 * [TriliumNext/Notes](https://github.com/TriliumNext/Notes): Build your personal knowledge base with TriliumNext Notes
@@ -740,6 +740,7 @@
 * [yourcelf/olwidget](https://github.com/yourcelf/olwidget): Javascript library to replace textareas that contain WKT data with editable OpenLayers maps, and a django app using it for django forms and admin.
 * [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi): Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 * [four-o-four/omniverse](https://github.com/four-o-four/omniverse): Omniverse - Automatic downloader for comic books (cbr, cbz, etc) in the tradition of Sickbeard. 
+* [uixmat/onborda](https://github.com/uixmat/onborda): An onboarding wizard flow / product tour for Next.js animated by framer motion
 * [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime): Complete open-source monitoring and observability platform.
 * [open-pencil/open-pencil](https://github.com/open-pencil/open-pencil): AI-native design editor. Open-source Figma alternative.
 * [xitanggg/open-resume](https://github.com/xitanggg/open-resume): OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
@@ -1047,7 +1048,7 @@
 * [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI): UI-Lovelace-Minimalist is a "theme" for HomeAssistant
 * [umami-software/umami](https://github.com/umami-software/umami): Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
 * [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall): Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
-* [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything): Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+* [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything): Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 * [UnicornTranscoder/UnicornTranscoder](https://github.com/UnicornTranscoder/UnicornTranscoder): Remote transcoder for Plex
 * [saik0/UnifiedPreference](https://github.com/saik0/UnifiedPreference): A convinience library for working with all versions of the Android Preference package from API v4 and up
 * [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater): Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.

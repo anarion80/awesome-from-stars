@@ -680,6 +680,7 @@
 * [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM): Affordable, Multifunctional, Nano RISC-V IP-KVM
 * [cbh123/narrator](https://github.com/cbh123/narrator): David Attenborough narrates your life
 * [wolfwood/navcaps](https://github.com/wolfwood/navcaps): 3D printable keycaps and MX-compatible mounts for directional navigation switches, along with trackpoint extension stems
+* [awesomestvi/navet](https://github.com/awesomestvi/navet): Navet is a provider-neutral smart home dashboard with intuitive editing, a polished touch-first UI, and support for Home Assistant, Homey, and openHAB.
 * [navidrome/navidrome](https://github.com/navidrome/navidrome): 🎧 Your Personal Streaming Service 
 * [nbs-system/naxsi](https://github.com/nbs-system/naxsi): NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX
 * [m1k1o/neko](https://github.com/m1k1o/neko): A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -1053,7 +1054,7 @@
 * [saik0/UnifiedPreference](https://github.com/saik0/UnifiedPreference): A convinience library for working with all versions of the Android Preference package from API v4 and up
 * [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater): Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 * [BinsonBuzz/unraid_rclone_mount](https://github.com/BinsonBuzz/unraid_rclone_mount): scripts to create rclone mounts on gdrive
-* [mynttt/UpdateTool](https://github.com/mynttt/UpdateTool): A tool to update the IMDB ratings for Plex libraries that contain movies/series and use the IMDB agent to receive ratings
+* [marcherschel/UpdateTool](https://github.com/marcherschel/UpdateTool): A tool to update the IMDB ratings for Plex libraries that contain movies/series and use the IMDB agent to receive ratings
 * [upptime/upptime](https://github.com/upptime/upptime): ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 * [transloadit/uppy](https://github.com/transloadit/uppy): The next open source file uploader for web browsers :dog: 
 * [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma): A fancy self-hosted monitoring tool

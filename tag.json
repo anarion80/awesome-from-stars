@@ -2321,6 +2321,9 @@
     "moonlight-stream/moonlight-pc": [
         "Other"
     ],
+    "mossdef-org/ipk.mossdef.org": [
+        "Other"
+    ],
     "mossmann/retroreflectors": [
         "Other"
     ],
@@ -2928,9 +2931,6 @@
         "Other"
     ],
     "stalwartlabs/stalwart": [
-        "Other"
-    ],
-    "stangri/repo.openwrt.melmac.ca": [
         "Other"
     ],
     "stef/epc2203": [

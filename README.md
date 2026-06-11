@@ -520,6 +520,7 @@
 * [ludeeus/integration_blueprint](https://github.com/ludeeus/integration_blueprint): Blueprint for custom_component developers.
 * [inventree/InvenTree](https://github.com/inventree/InvenTree): Open Source Inventory Management System
 * [google/iosched](https://github.com/google/iosched): The Google I/O Android App
+* [mossdef-org/ipk.mossdef.org](https://github.com/mossdef-org/ipk.mossdef.org): OpenWrt/LEDE Project Packages Repository
 * [devicenull/ipmi_firmware_tools](https://github.com/devicenull/ipmi_firmware_tools): IPMI analysis tools
 * [ParticleCore/Iridium](https://github.com/ParticleCore/Iridium): Iridium is an extension built to improve your YouTube experience
 * [crankyoldgit/IRremoteESP8266](https://github.com/crankyoldgit/IRremoteESP8266): Infrared remote library for ESP8266/ESP32: send and receive infrared signals with multiple protocols. Based on: https://github.com/shirriff/Arduino-IRremote/
@@ -871,7 +872,6 @@
 * [YIO-Remote/remote-software](https://github.com/YIO-Remote/remote-software): 💎 YIO Remote Software repository
 * [TheByteStuff/RemoteSyslog_Service](https://github.com/TheByteStuff/RemoteSyslog_Service): Home Assistant Custom Component - send Syslog message to remote server.
 * [hn/reolink-camera](https://github.com/hn/reolink-camera): Reolink RLC-410-5MP IP camera reverse engineered technical details
-* [stangri/repo.openwrt.melmac.ca](https://github.com/stangri/repo.openwrt.melmac.ca): OpenWrt/LEDE Project Packages Repository
 * [darkalfx/requestrr](https://github.com/darkalfx/requestrr): Requestrr is a chatbot used to simplify using services like Sonarr/Radarr/Ombi via the use of chat. Current platform is Discord only, but the bot was built around the ideology of quick adaptation for new features as well as new platforms.
 * [rero/rero-ils](https://github.com/rero/rero-ils): Integrated Library System flavour of Invenio by RERO+.
 * [unknowntrojan/resolvepatch](https://github.com/unknowntrojan/resolvepatch): license patcher for davinci resolve studio

@@ -187,7 +187,7 @@
 * [hackthedev/dcts-shipping](https://github.com/hackthedev/dcts-shipping): A Chat Platform like Discord but self-hostable like TeamSpeak
 * [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10): A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 * [decaporg/decap-cms](https://github.com/decaporg/decap-cms): A Git-based CMS for Static Site Generators
-* [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor): DeepTutor: Agent-native, Open-sourced Personalized Tutoring. https://deeptutor.info/.
+* [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor): DeepTutor: Agent-native Personalized Tutoring. https://deeptutor.info/.
 * [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated): ACME client implemented as a simple shell-script – just add water
 * [dandavison/delta](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 * [Doc-Steve/dendritic-design-with-flake-parts](https://github.com/Doc-Steve/dendritic-design-with-flake-parts): A guide on how to structure your Nix code with Flake Parts using the Dendritic Pattern

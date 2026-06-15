@@ -49,7 +49,7 @@
 * [appwrite/appwrite](https://github.com/appwrite/appwrite): Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 * [ansible-community/ara](https://github.com/ansible-community/ara): ARA Records Ansible and makes it easier to understand and troubleshoot.
 * [vercel/arg](https://github.com/vercel/arg): Simple argument parsing
-* [lcdyk0517/arkos4clone](https://github.com/lcdyk0517/arkos4clone): ArkOS for Unofficial Devices Stop updating.  
+* [lcdyk0517/arkos4clone](https://github.com/lcdyk0517/arkos4clone): ArkOS for Unofficial
 * [withastro/astro](https://github.com/withastro/astro): The web framework for content-driven websites. ⭐️ Star to support our work!
 * [koyopro/astro-cookie-session](https://github.com/koyopro/astro-cookie-session): Middleware for managing sessions using cookies on Astro.
 * [MicroWebStacks/astro-examples](https://github.com/MicroWebStacks/astro-examples): Astro design patterns examples, client-server state management, markdown, caching

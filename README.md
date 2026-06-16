@@ -159,7 +159,7 @@
 * [comictagger/comictagger](https://github.com/comictagger/comictagger): A multi-platform app for writing metadata to digital comics
 * [mcpierce/comixed](https://github.com/mcpierce/comixed): The ComiXed Digital Comic Management System
 * [Athou/commafeed](https://github.com/Athou/commafeed): Google Reader inspired self-hosted personal RSS reader.
-* [continuedev/continue](https://github.com/continuedev/continue): ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
+* [continuedev/continue](https://github.com/continuedev/continue): open-source coding agent
 * [coollabsio/coolify](https://github.com/coollabsio/coolify): An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 * [seblucas/cops](https://github.com/seblucas/cops): Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, ...)
 * [dnlbauer/corax-keyboard](https://github.com/dnlbauer/corax-keyboard): A column-staggered wireless spilt keyboard with scrollwheels, thumb- and pinky cluster.
@@ -721,7 +721,7 @@
 * [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config): General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
 * [JaKooLit/NixOS-Hyprland](https://github.com/JaKooLit/NixOS-Hyprland): To Automate Installation of Hyprland on NixOS using flakes. NOTE: Dot configs are not written in Nix.
 * [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia): A sleek and minimal desktop shell thoughtfully crafted for Wayland.
-* [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices): :white_check_mark:  The Node.js best practices list (July 2024)
+* [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices): ✅ The Node.js best practices list (July 2026)
 * [SylvanFranklin/nonsense](https://github.com/SylvanFranklin/nonsense): Nonsensical Math Paper Generator
 * [TriliumNext/Notes](https://github.com/TriliumNext/Notes): Build your personal knowledge base with TriliumNext Notes
 * [notifo-io/notifo](https://github.com/notifo-io/notifo): Multi channel notification service for collaboration tools, e-commerce, news service and more.
@@ -764,6 +764,7 @@
 * [causefx/Organizr](https://github.com/causefx/Organizr): HTPC/Homelab Services Organizer - Written in PHP
 * [j256/ormlite-android](https://github.com/j256/ormlite-android): ORMLite Android functionality used in conjunction with ormlite-core
 * [frysztak/orpington-news](https://github.com/frysztak/orpington-news): Self-hosted RSS reader with PWA support
+* [tkreagan/os-kea-ubnd-ddns](https://github.com/tkreagan/os-kea-ubnd-ddns): OPNsense plugin: bridges Kea DHCP leases and reservations to Unbound DNS via RFC 2136
 * [JameZUK/os-kea-unbound](https://github.com/JameZUK/os-kea-unbound): Kea DHCP to Unbound DNS dynamic registration
 * [smores56/osprette](https://github.com/smores56/osprette): 34-key unibody keyboard with pinky clusters
 * [outline/outline](https://github.com/outline/outline): The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.

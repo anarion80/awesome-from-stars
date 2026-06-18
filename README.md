@@ -1066,7 +1066,7 @@
 * [erkexzcx/valetudopng](https://github.com/erkexzcx/valetudopng): A Valetudo map renderer (ex Hypfer/ICantBelieveItsNotValetudo) for Home Assistant.
 * [Boerderij/Varken](https://github.com/Boerderij/Varken): Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana as a frontend
 * [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden): Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-* [vendurehq/vendure](https://github.com/vendurehq/vendure): Open source headless commerce framework built with TypeScript, NestJS, React and GraphQL
+* [vendurehq/vendure](https://github.com/vendurehq/vendure): Open-source headless commerce platform built with TypeScript, NestJS, React, and GraphQL
 * [ventoy/Ventoy](https://github.com/ventoy/Ventoy): A new bootable USB solution.
 * [vielang/vieshare](https://github.com/vielang/vieshare): VieShare eCommerce
 * [JakeWharton/ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator): Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock.

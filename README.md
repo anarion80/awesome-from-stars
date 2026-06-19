@@ -608,7 +608,6 @@
 * [akmolina28/lovelace-gulp-watch](https://github.com/akmolina28/lovelace-gulp-watch): Automatically update the modified date on ui-lovelace.yaml when another lovelace file changes.
 * [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom): Build a beautiful Home Assistant dashboard easily
 * [lowcoder-org/lowcoder](https://github.com/lowcoder-org/lowcoder): 🔥 🔥 🔥 The Open Source Retool, Tooljet and Appsmith Alternative
-* [levpopov/LPX](https://github.com/levpopov/LPX): None
 * [bmachek/lrc-immich-plugin](https://github.com/bmachek/lrc-immich-plugin): Lightroom Classic Plugin for Immich
 * [louwrentius/lsidrivemap](https://github.com/louwrentius/lsidrivemap): Graphical mapping of disk drives in an enclosure based on output of megacli
 * [hargata/lubelog](https://github.com/hargata/lubelog): LubeLogger is a web-based vehicle maintenance and fuel mileage tracker
@@ -634,6 +633,7 @@
 * [getmaxun/maxun](https://github.com/getmaxun/maxun): 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥 
 * [maybe-finance/maybe](https://github.com/maybe-finance/maybe): The personal finance app for everyone
 * [cantino/mcfly](https://github.com/cantino/mcfly): Fly through your shell history. Great Scott!
+* [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos): MCP-NixOS - Model Context Protocol Server for NixOS resources
 * [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard): DIY mechanical keyboard and where to find them
 * [jjack-zz/media-landing-page](https://github.com/jjack-zz/media-landing-page): A little landing page for SABnzbd+, Sick Beard, CouchPotato, and Headphones
 * [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms): MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
@@ -642,7 +642,7 @@
 * [aaronpk/Meetable](https://github.com/aaronpk/Meetable): an event listing website
 * [trapexit/mergerfs](https://github.com/trapexit/mergerfs): a featureful union filesystem
 * [metabase/metabase](https://github.com/metabase/metabase): The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
-* [alexta69/metube](https://github.com/alexta69/metube): Self-hosted video downloader for YouTube and other sites (web UI for youtube-dl / yt-dlp)
+* [alexta69/metube](https://github.com/alexta69/metube): Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
 * [szabodanika/microbin](https://github.com/szabodanika/microbin): A secure, configurable file-sharing and URL shortening web app written in Rust.
 * [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference): A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 * [EasyG0ing1/Migration](https://github.com/EasyG0ing1/Migration): Migration is a tool to assist with migrating your OPNsense DHCP static mappings over to the new Kea DHCP server that comes with version 24 of OPNsense.

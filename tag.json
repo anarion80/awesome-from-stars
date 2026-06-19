@@ -2039,9 +2039,6 @@
     "lcomplete/huntly": [
         "Other"
     ],
-    "levpopov/LPX": [
-        "Other"
-    ],
     "librats/rats-search": [
         "Other"
     ],
@@ -3201,6 +3198,9 @@
         "Other"
     ],
     "utahta/pythonbrew": [
+        "Other"
+    ],
+    "utensils/mcp-nixos": [
         "Other"
     ],
     "varbhat/exatorrent": [

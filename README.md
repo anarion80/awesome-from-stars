@@ -187,6 +187,7 @@
 * [hackthedev/dcts-shipping](https://github.com/hackthedev/dcts-shipping): A Chat Platform like Discord but self-hostable like TeamSpeak
 * [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10): A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 * [decaporg/decap-cms](https://github.com/decaporg/decap-cms): A Git-based CMS for Static Site Generators
+* [sums001/Deepseek-API](https://github.com/sums001/Deepseek-API): Reverse engineered Deepseek chat into an OpenAI compatible API. Access V4 and R1 models through a simple REST interface without API keys or billing.
 * [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor): DeepTutor: Agent-native Personalized Tutoring. https://deeptutor.info/.
 * [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated): ACME client implemented as a simple shell-script – just add water
 * [dandavison/delta](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
@@ -621,7 +622,7 @@
 * [vimichael/make-windows-pretty](https://github.com/vimichael/make-windows-pretty): Some tools I used for making Windows 11 look nice.
 * [krateng/maloja](https://github.com/krateng/maloja): Self-hosted music scrobble database to create personal listening statistics and charts
 * [mnfst/manifest](https://github.com/mnfst/manifest): Connect Your Agents And Harnesses With Any Provider 🦚
-* [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch): Easy to use open source fast database for search | Good alternative to Elasticsearch | Drop-in replacement for E in the ELK stack
+* [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch): Open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL.
 * [diogovalentte/mantium](https://github.com/diogovalentte/mantium): Mantium is a self-hosted cross-site manga tracker. It can track manga from source sites like Manga Plus, Mangadex, ComicK, etc.
 * [godofredoninja/Mapache](https://github.com/godofredoninja/Mapache): You can use the theme Mapache for ghost in: Blog - Magazine - Landing page - Personal page -  Photographers. and in many other things
 * [RPTools/maptool](https://github.com/RPTools/maptool): Virtual Tabletop for playing roleplaying games with remote players or face to face.
@@ -811,7 +812,7 @@
 * [damian-krychowski/plikshare](https://github.com/damian-krychowski/plikshare): PlikShare - Self-hosted file sharing platform with unlimited users, flexible storage options (local disk or S3), and secure external collaboration features. Own your data, control your infrastructure.
 * [opnsense/plugins](https://github.com/opnsense/plugins): OPNsense plugin collection
 * [mstojek/pms5003-logger](https://github.com/mstojek/pms5003-logger): Simple python script to control a PMS5003 sensor
-* [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id): An easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
+* [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id): An easy-to-use OAuth 2.0 and OpenID Connect provider that lets users sign in to your services with their passkeys.
 * [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase): Open Source realtime backend in 1 file
 * [akhilrex/podgrab](https://github.com/akhilrex/podgrab): A self-hosted podcast manager/downloader/archiver tool to download podcast episodes as soon as they become live with an integrated player.
 * [aunefyren/poenskelisten](https://github.com/aunefyren/poenskelisten): A self-hosted application for sharing wishlists and collaborating on gifts and presents.

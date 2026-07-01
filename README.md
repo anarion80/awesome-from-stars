@@ -1092,7 +1092,7 @@
 * [schachmat/wego](https://github.com/schachmat/wego): weather app for the terminal
 * [wger-project/wger](https://github.com/wger-project/wger): Self hosted FLOSS fitness/workout, nutrition and weight tracker
 * [WhiteHouse/wh-app-android](https://github.com/WhiteHouse/wh-app-android): None
-* [clidey/whodb](https://github.com/clidey/whodb): A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
+* [clidey/whodb](https://github.com/clidey/whodb): Where data access meets operational intelligence
 * [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search): A self-hosted, ad-free, privacy-respecting metasearch engine
 * [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE): Win10XPE is a Complete Project Based on Win10, Win11 Recovery Environment With Many Windows Features Added...
 * [winapps-org/winapps](https://github.com/winapps-org/winapps):  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/

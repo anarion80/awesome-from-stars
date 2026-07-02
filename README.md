@@ -335,6 +335,7 @@
 * [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop): 🛍️ Typescript E-commerce Platform
 * [varbhat/exatorrent](https://github.com/varbhat/exatorrent): 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 * [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw): Virtual whiteboard for sketching hand-drawn like diagrams
+* [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset): A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.
 * [ukdtom/ExportTools.bundle](https://github.com/ukdtom/ExportTools.bundle): Export tools for Plex
 * [eza-community/eza](https://github.com/eza-community/eza): A modern alternative to ls
 * [playerkk/face-py-faster-rcnn](https://github.com/playerkk/face-py-faster-rcnn): Face Detection with the Faster R-CNN

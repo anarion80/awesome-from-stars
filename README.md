@@ -984,6 +984,7 @@
 * [rmcelreath/stat_rethinking_2023](https://github.com/rmcelreath/stat_rethinking_2023): Statistical Rethinking Course for Jan-Mar 2023
 * [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF): #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 * [hph/stocks](https://github.com/hph/stocks): Get current stock quotes and other information.
+* [usestrix/strix](https://github.com/usestrix/strix): Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 * [zzeneg/stront](https://github.com/zzeneg/stront): Split keyboards with 38 or 40 keys, LCD display and Cirque trackpad
 * [withstudiocms/studiocms](https://github.com/withstudiocms/studiocms): Dedicated SSR (Server-side-rendered) Astro native Headless CMS, built from the ground up for the Astro community and by Astro community members
 * [stumpapp/stump](https://github.com/stumpapp/stump): A free and open source comics, manga and digital book server with OPDS support

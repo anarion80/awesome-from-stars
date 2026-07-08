@@ -704,7 +704,7 @@
 * [M165437/nice-view-gem](https://github.com/M165437/nice-view-gem): A sleek customization for the nice!view shield
 * [PrettyBoyCosmo/nix](https://github.com/PrettyBoyCosmo/nix): My NixOS config
 * [knoopx/nix](https://github.com/knoopx/nix): Niri + AGS based desktop environment on top of nixos
-* [nicolkrit999/nix](https://github.com/nicolkrit999/nix): Nix config. Support for x86 and arm pc, as well as macOS (nix-darwin), uses denix for simple enabling/disabling of modules, as well as many other features
+* [nicolkrit999/nix](https://github.com/nicolkrit999/nix): Nix config. Support for x86 and arm pc, as well as macOS (nix-darwin) and servers/NAS, uses denix for simple enabling/disabling of modules, as well as many other features
 * [sonntag/nix](https://github.com/sonntag/nix): My personal nix flake
 * [AlexNabokikh/nix-config](https://github.com/AlexNabokikh/nix-config): NixOS, Nix-Darwin and home-manager configurations.
 * [Tarow/nix-config](https://github.com/Tarow/nix-config): None

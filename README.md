@@ -188,7 +188,7 @@
 * [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10): A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 * [decaporg/decap-cms](https://github.com/decaporg/decap-cms): A Git-based CMS for Static Site Generators
 * [sums001/Deepseek-API](https://github.com/sums001/Deepseek-API): Reverse engineered Deepseek chat into an OpenAI compatible API. Access V4 and R1 models through a simple REST interface without API keys or billing.
-* [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor): DeepTutor: Agent-native Personalized Tutoring. https://deeptutor.info/.
+* [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor): DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 * [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated): ACME client implemented as a simple shell-script – just add water
 * [dandavison/delta](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 * [Doc-Steve/dendritic-design-with-flake-parts](https://github.com/Doc-Steve/dendritic-design-with-flake-parts): A guide on how to structure your Nix code with Flake Parts using the Dendritic Pattern
@@ -335,7 +335,7 @@
 * [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop): 🛍️ Typescript E-commerce Platform
 * [varbhat/exatorrent](https://github.com/varbhat/exatorrent): 🧲 Easy to Use Torrent Client. Can be hosted in Cloud. Files can be streamed in Browser/Media Player.
 * [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw): Virtual whiteboard for sketching hand-drawn like diagrams
-* [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset): A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.
+* [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset): 1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.
 * [ukdtom/ExportTools.bundle](https://github.com/ukdtom/ExportTools.bundle): Export tools for Plex
 * [eza-community/eza](https://github.com/eza-community/eza): A modern alternative to ls
 * [playerkk/face-py-faster-rcnn](https://github.com/playerkk/face-py-faster-rcnn): Face Detection with the Faster R-CNN

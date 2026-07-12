@@ -813,7 +813,7 @@
 * [damian-krychowski/plikshare](https://github.com/damian-krychowski/plikshare): PlikShare - Self-hosted file sharing platform with unlimited users, flexible storage options (local disk or S3), and secure external collaboration features. Own your data, control your infrastructure.
 * [opnsense/plugins](https://github.com/opnsense/plugins): OPNsense plugin collection
 * [mstojek/pms5003-logger](https://github.com/mstojek/pms5003-logger): Simple python script to control a PMS5003 sensor
-* [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id): An easy-to-use OAuth 2.0 and OpenID Connect provider that lets users sign in to your services with their passkeys.
+* [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id): An easy-to-use OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
 * [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase): Open Source realtime backend in 1 file
 * [akhilrex/podgrab](https://github.com/akhilrex/podgrab): A self-hosted podcast manager/downloader/archiver tool to download podcast episodes as soon as they become live with an integrated player.
 * [aunefyren/poenskelisten](https://github.com/aunefyren/poenskelisten): A self-hosted application for sharing wishlists and collaborating on gifts and presents.

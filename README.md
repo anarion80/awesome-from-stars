@@ -483,7 +483,7 @@
 * [notoriousbdg/Home-AssistantConfig](https://github.com/notoriousbdg/Home-AssistantConfig): None
 * [xemle/home-gallery](https://github.com/xemle/home-gallery): Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
 * [lolouk44/homeassistant](https://github.com/lolouk44/homeassistant): My home-assistant.io config
-* [glasshome/homeassistant-addon](https://github.com/glasshome/homeassistant-addon): None
+* [glasshome/homeassistant-addon](https://github.com/glasshome/homeassistant-addon): Alternative Dashboard App for Home Assistant
 * [CiquattroFPV/Homeassistant-Example-Config](https://github.com/CiquattroFPV/Homeassistant-Example-Config): Home Assistant - Example - Config
 * [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc): Home Assistant Custom component to calculate estimated power consumption of lights and other appliances
 * [epoplavskis/homeassistant_salus](https://github.com/epoplavskis/homeassistant_salus): Home Assistant integration with Salus devices
@@ -927,7 +927,7 @@
 * [DBuit/sidebar-card](https://github.com/DBuit/sidebar-card): None
 * [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android): A private messenger for Android.
 * [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop): A private messenger for Windows, macOS, and Linux.
-* [SigNoz/signoz](https://github.com/SigNoz/signoz): SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
+* [SigNoz/signoz](https://github.com/SigNoz/signoz): SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) it helps you build more resilient apps.
 * [franciscofranco/Simple-Reboot-app](https://github.com/franciscofranco/Simple-Reboot-app): Source code for my free app Simple Reboot.
 * [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat): SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 * [godofredoninja/simply](https://github.com/godofredoninja/simply): Theme for Ghost inspired on Medium

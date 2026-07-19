@@ -1009,7 +1009,7 @@
 * [ravendevteam/talon](https://github.com/ravendevteam/talon): Debloat Windows in 2 clicks.
 * [arendst/Tasmota](https://github.com/arendst/Tasmota): Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
 * [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr): Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
-* [teableio/teable](https://github.com/teableio/teable): ✨ The Next Gen Airtable Alternative: No-Code Postgres
+* [teableio/teable](https://github.com/teableio/teable): ✨ AI Spreadsheet for Business
 * [svrooij/teams-monitor](https://github.com/svrooij/teams-monitor): Send your Teams Status to any webhook in realtime
 * [MichalKrasowski/tech-controllers](https://github.com/MichalKrasowski/tech-controllers): TECH Controllers integration for Home Assistant
 * [mariusz-ostoja-swierczynski/tech-controllers](https://github.com/mariusz-ostoja-swierczynski/tech-controllers): TECH Controllers integration for Home Assistant

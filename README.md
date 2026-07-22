@@ -388,9 +388,7 @@
 * [toddbirchard/gatsby-ghost-stockholm](https://github.com/toddbirchard/gatsby-ghost-stockholm): 🟣 👻 Blog theme exceeding the limitations of Ghost CMS with dynamic features, user accounts, and extended data model.
 * [BrianRuizy/gatsby-medium-blog](https://github.com/BrianRuizy/gatsby-medium-blog): 📝 Gatsby.js starter blog template using a Medium theme; with features like Algolia Search, post claps, Prism highlighting, contact form, dark mode, +more. 
 * [TryGhost/gatsby-starter-ghost](https://github.com/TryGhost/gatsby-starter-ghost): A starter template to build lightning fast websites with Ghost & Gatsby
-* [styxlab/gatsby-starter-try-ghost](https://github.com/styxlab/gatsby-starter-try-ghost): Publish flaring fast blogs with Gatsby and Ghost
 * [nehalist/gatsby-theme-nehalem](https://github.com/nehalist/gatsby-theme-nehalem): A Gatsby blog theme.
-* [styxlab/gatsby-theme-try-ghost](https://github.com/styxlab/gatsby-theme-try-ghost): A Gatsby theme to build flaring fast blogs from headless Ghost CMS
 * [TwiN/gatus](https://github.com/TwiN/gatus): Automated developer-oriented status page with alerting and incident support
 * [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook): The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 * [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): 21 Lessons, Get Started Building with Generative AI 

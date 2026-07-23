@@ -1439,6 +1439,9 @@
     "erkexzcx/valetudopng": [
         "Other"
     ],
+    "esengine/DeepSeek-Reasonix": [
+        "Other"
+    ],
     "espocrm/espocrm-docker": [
         "Other"
     ],
@@ -2508,6 +2511,9 @@
         "Other"
     ],
     "openscope/openscope": [
+        "Other"
+    ],
+    "opensoft/oh-my-opencode": [
         "Other"
     ],
     "opnsense/plugins": [

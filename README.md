@@ -188,6 +188,7 @@
 * [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10): A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 * [decaporg/decap-cms](https://github.com/decaporg/decap-cms): A Git-based CMS for Static Site Generators
 * [sums001/Deepseek-API](https://github.com/sums001/Deepseek-API): Reverse engineered Deepseek chat into an OpenAI compatible API. Access V4 and R1 models through a simple REST interface without API keys or billing.
+* [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix): DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 * [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor): DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 * [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated): ACME client implemented as a simple shell-script – just add water
 * [dandavison/delta](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
@@ -721,7 +722,7 @@
 * [dc-tec/nixos-config](https://github.com/dc-tec/nixos-config): NixOS Configuration Repository
 * [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config): General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
 * [JaKooLit/NixOS-Hyprland](https://github.com/JaKooLit/NixOS-Hyprland): To Automate Installation of Hyprland on NixOS using flakes. NOTE: Dot configs are not written in Nix.
-* [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia): A sleek and minimal desktop shell thoughtfully crafted for Wayland.
+* [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia): A sleek, customizable desktop shell crafted for Wayland.
 * [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices): ✅ The Node.js best practices list (July 2026)
 * [SylvanFranklin/nonsense](https://github.com/SylvanFranklin/nonsense): Nonsensical Math Paper Generator
 * [TriliumNext/Notes](https://github.com/TriliumNext/Notes): Build your personal knowledge base with TriliumNext Notes
@@ -738,6 +739,7 @@
 * [jneilliii/OctoPrint-BambuPrinter](https://github.com/jneilliii/OctoPrint-BambuPrinter): None
 * [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus): Self-hosted AI workspace. 
 * [treefarmstudio/odyssey-theme](https://github.com/treefarmstudio/odyssey-theme): A modern business marketing website theme/starter built with Astro 🚀
+* [opensoft/oh-my-opencode](https://github.com/opensoft/oh-my-opencode): #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
 * [JohnOberhauser/OkPanel](https://github.com/JohnOberhauser/OkPanel): A configurable panel for Hyprland, built with Ags
 * [OliveTin/OliveTin](https://github.com/OliveTin/OliveTin): OliveTin gives safe and simple access to predefined shell commands from a web interface. 
 * [yourcelf/olwidget](https://github.com/yourcelf/olwidget): Javascript library to replace textareas that contain WKT data with editable OpenLayers maps, and a django app using it for django forms and admin.

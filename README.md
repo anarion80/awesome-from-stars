@@ -639,7 +639,7 @@
 * [jjack-zz/media-landing-page](https://github.com/jjack-zz/media-landing-page): A little landing page for SABnzbd+, Sick Beard, CouchPotato, and Headphones
 * [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms): MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
 * [bonukai/MediaTracker](https://github.com/bonukai/MediaTracker): Self hosted media tracker for movies, tv shows, video games, books and audiobooks
-* [medusajs/medusa](https://github.com/medusajs/medusa): The world's most flexible commerce platform.
+* [medusajs/medusa](https://github.com/medusajs/medusa): The world's most flexible commerce platform for agents and developers
 * [aaronpk/Meetable](https://github.com/aaronpk/Meetable): an event listing website
 * [trapexit/mergerfs](https://github.com/trapexit/mergerfs): a featureful union filesystem
 * [metabase/metabase](https://github.com/metabase/metabase): The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:

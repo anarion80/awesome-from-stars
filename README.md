@@ -1006,7 +1006,7 @@
 * [TanStack/table](https://github.com/TanStack/table): 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 * [amidaware/tacticalrmm](https://github.com/amidaware/tacticalrmm): A remote monitoring & management tool, built with Django, Vue and Go.
 * [Kittyfisto/Tailviewer](https://github.com/Kittyfisto/Tailviewer): Open source log file viewer
-* [ravendevteam/talon](https://github.com/ravendevteam/talon): Debloat Windows in 2 clicks.
+* [ravendevteam/talon](https://github.com/ravendevteam/talon): Windows the way you want it, in 2 clicks.
 * [arendst/Tasmota](https://github.com/arendst/Tasmota): Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
 * [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr): Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 * [teableio/teable](https://github.com/teableio/teable): ✨ AI Spreadsheet for Business

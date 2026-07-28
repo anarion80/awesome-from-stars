@@ -132,7 +132,7 @@
 * [deiucanta/chatpad](https://github.com/deiucanta/chatpad): Not just another ChatGPT user-interface!
 * [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox): SoTA open-source TTS
 * [chubin/cheat.sh](https://github.com/chubin/cheat.sh): the only cheat sheet you need
-* [eh8/chenglab](https://github.com/eh8/chenglab): a straightforward NixOS setup for my homelab and personal computers
+* [eh8/chenglab](https://github.com/eh8/chenglab): NixOS setup for my homelab and personal computers
 * [haishanh/cherry](https://github.com/haishanh/cherry): Cherry is a self-hostable bookmark service
 * [namnlos-io/choc_keycaps](https://github.com/namnlos-io/choc_keycaps): Collected keycaps for Choc switches.
 * [sevmeyer/chrumm-keyboard](https://github.com/sevmeyer/chrumm-keyboard): Ergonomic monoblock keyboard

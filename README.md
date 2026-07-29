@@ -562,6 +562,7 @@
 * [INTI-CMNB/kicad_auto](https://github.com/INTI-CMNB/kicad_auto): Docker image for KiCad automation scripts suitable for CI/CD
 * [NemesisRE/kiosk-mode](https://github.com/NemesisRE/kiosk-mode): 🙈 Hides the Home Assistant header and/or sidebar
 * [maykar/kiosk-mode](https://github.com/maykar/kiosk-mode): 🙈 Hides the Home Assistant header and/or sidebar
+* [jxlarrea/kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite): Turn any Android tablet into a beautiful, voice-enabled Home Assistant kiosk. The official companion app for Voice Satellite.
 * [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS):  State-of-the-art TTS model under 25MB 😻 
 * [snsten/Klein](https://github.com/snsten/Klein): Klein keyboard is a 36 keys, columnar staggered, split ergo keyboard
 * [braindefender/KLP-Lame-Keycaps](https://github.com/braindefender/KLP-Lame-Keycaps): Sculpted and curved keycaps for Kailh Choc and MX switches
@@ -977,6 +978,7 @@
 * [mazkolain-zz/spotimc](https://github.com/mazkolain-zz/spotimc): None
 * [dabochen/spreadsheet-is-all-you-need](https://github.com/dabochen/spreadsheet-is-all-you-need): A nanoGPT pipeline packed in a spreadsheet
 * [SquirrelCorporation/SquirrelServersManager](https://github.com/SquirrelCorporation/SquirrelServersManager): A user friendly, UI/UX focus server & configuration management tool
+* [SmarakNayak/stability-matrix-nix](https://github.com/SmarakNayak/stability-matrix-nix): An auto updating nix flake for the StabilityMatrix AppImage, a multi-platform package manager for Stable Diffusion.  Currently supports x86_64-linux architectures
 * [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart): All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 * [jackyzy823/standardnotes-app-images](https://github.com/jackyzy823/standardnotes-app-images): Provide standardnotes/web docker image and android apk
 * [gyaneesh/standardnotes-extensions](https://github.com/gyaneesh/standardnotes-extensions): Self-host standard notes extensions repository.

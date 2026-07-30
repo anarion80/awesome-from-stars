@@ -28,6 +28,7 @@
 * [seanmorley15/AdventureLog](https://github.com/seanmorley15/AdventureLog): Self-hostable travel tracker and trip planner.
 * [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE): There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 * [uno-forge-hub/agency-landing-page-Astrojs](https://github.com/uno-forge-hub/agency-landing-page-Astrojs): A simple agency landing page made with astrojs and tailwindcss
+* [hubertlepicki/agile](https://github.com/hubertlepicki/agile): Makes your AI agent think and act like the 2000s agile developer. TDD, simplicity, embrace change, domain language.
 * [airsonic/airsonic](https://github.com/airsonic/airsonic):  :satellite: :cloud: :notes:Airsonic, a Free and Open Source community driven media server (fork of Subsonic and Libresonic)
 * [lspahija/AIUI](https://github.com/lspahija/AIUI): AIUI is a platform enabling seamless two-way verbal communication with AI.
 * [nielsfaber/alarmo](https://github.com/nielsfaber/alarmo): Easy to use alarm system integration for Home Assistant

@@ -895,6 +895,7 @@
 * [arakasi72/rtinst](https://github.com/arakasi72/rtinst): seedbox installation script for Ubuntu and Debian systems
 * [IgnisDa/ryot](https://github.com/IgnisDa/ryot): Roll your own tracker!
 * [saber-notes/saber](https://github.com/saber-notes/saber): The cross-platform open-source app built for handwriting
+* [sablierapp/sablier](https://github.com/sablierapp/sablier): Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode, Podman, Kubernetes and Proxmox LXC compatible.
 * [88lex/safire](https://github.com/88lex/safire): None
 * [soundmonster/samoklava](https://github.com/soundmonster/samoklava): Generated keyboard
 * [jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid): These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.)

@@ -298,7 +298,7 @@
 * [elliottminns/dotfiles](https://github.com/elliottminns/dotfiles): None
 * [felipecrs/dotfiles](https://github.com/felipecrs/dotfiles): Bootstrap your Ubuntu in a single command!
 * [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles): None
-* [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles): The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install from a Live ISO or with the Dotfiles Installer app with setup scripts for Arch Linux, Fedora and openSuse.
+* [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles): The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install for Arch Linux, Fedora and openSuse.
 * [omerxx/dotfiles](https://github.com/omerxx/dotfiles): My dotfiles synced from localhost and remote machines
 * [renemarc/dotfiles](https://github.com/renemarc/dotfiles): ~/. Cross-platform, cross-shell configuration files. ⚙️💻
 * [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles): My NixOS configuration flake that moggs yours in term of eval times
@@ -1056,7 +1056,7 @@
 * [al-kot/typst-preview.nvim](https://github.com/al-kot/typst-preview.nvim): Live typst preview directly in neovim
 * [seanboyce/ubiblio](https://github.com/seanboyce/ubiblio): A small web app to manage your personal library, designed for self-hosting
 * [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI): UI-Lovelace-Minimalist is a "theme" for HomeAssistant
-* [umami-software/umami](https://github.com/umami-software/umami): Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
+* [umami-software/umami](https://github.com/umami-software/umami): Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no tracking, self-hosted or in the cloud.
 * [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall): Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
 * [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything): Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 * [UnicornTranscoder/UnicornTranscoder](https://github.com/UnicornTranscoder/UnicornTranscoder): Remote transcoder for Plex

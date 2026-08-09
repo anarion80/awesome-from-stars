@@ -936,7 +936,7 @@
 * [godofredoninja/simply](https://github.com/godofredoninja/simply): Theme for Ghost inspired on Medium
 * [TECH7Fox/sipcore-hass-integration](https://github.com/TECH7Fox/sipcore-hass-integration): A SIP client inside home assistant!
 * [EightDoor/siyuan](https://github.com/EightDoor/siyuan): siyuan 去除更新提示、去除用户相关内容，可以云端同步
-* [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+* [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作
 * [hqweay/siyuan-hqweay-go](https://github.com/hqweay/siyuan-hqweay-go): 思源笔记插件：恐龙工具箱
 * [Zuoqiu-Yingyi/siyuan-packages-monorepo](https://github.com/Zuoqiu-Yingyi/siyuan-packages-monorepo): SiYuan Note community resources development | 思源笔记社区资源开发
 * [zuoez02/siyuan-plugin-card-link](https://github.com/zuoez02/siyuan-plugin-card-link): None

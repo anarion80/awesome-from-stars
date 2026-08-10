@@ -50,7 +50,7 @@
 * [appwrite/appwrite](https://github.com/appwrite/appwrite): Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 * [ansible-community/ara](https://github.com/ansible-community/ara): ARA Records Ansible and makes it easier to understand and troubleshoot.
 * [vercel/arg](https://github.com/vercel/arg): Simple argument parsing
-* [lcdyk0517/arkos4clone](https://github.com/lcdyk0517/arkos4clone): ArkOS for Unofficial Devices
+* [lcdyk0517/arkos4clone](https://github.com/lcdyk0517/arkos4clone): Bringing ArkOS and dArkOS porting to unsupported RK3326 handheld gaming devices.
 * [withastro/astro](https://github.com/withastro/astro): The web framework for content-driven websites. ⭐️ Star to support our work!
 * [koyopro/astro-cookie-session](https://github.com/koyopro/astro-cookie-session): Middleware for managing sessions using cookies on Astro.
 * [MicroWebStacks/astro-examples](https://github.com/MicroWebStacks/astro-examples): Astro design patterns examples, client-server state management, markdown, caching
@@ -563,7 +563,7 @@
 * [INTI-CMNB/kicad_auto](https://github.com/INTI-CMNB/kicad_auto): Docker image for KiCad automation scripts suitable for CI/CD
 * [NemesisRE/kiosk-mode](https://github.com/NemesisRE/kiosk-mode): 🙈 Hides the Home Assistant header and/or sidebar
 * [maykar/kiosk-mode](https://github.com/maykar/kiosk-mode): 🙈 Hides the Home Assistant header and/or sidebar
-* [jxlarrea/kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite): Turn any Android tablet into a beautiful, voice-enabled Home Assistant kiosk. The official companion app for Voice Satellite.
+* [jxlarrea/kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite): Turn any Android device into a dedicated, voice-enabled Home Assistant kiosk. The official companion app for Voice Satellite.
 * [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS):  State-of-the-art TTS model under 25MB 😻 
 * [snsten/Klein](https://github.com/snsten/Klein): Klein keyboard is a 36 keys, columnar staggered, split ergo keyboard
 * [braindefender/KLP-Lame-Keycaps](https://github.com/braindefender/KLP-Lame-Keycaps): Sculpted and curved keycaps for Kailh Choc and MX switches

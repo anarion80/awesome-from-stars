@@ -301,7 +301,6 @@
 * [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles): The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install for Arch Linux, Fedora and openSuse.
 * [omerxx/dotfiles](https://github.com/omerxx/dotfiles): My dotfiles synced from localhost and remote machines
 * [renemarc/dotfiles](https://github.com/renemarc/dotfiles): ~/. Cross-platform, cross-shell configuration files. ⚙️💻
-* [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles): My NixOS configuration flake that moggs yours in term of eval times
 * [twpayne/dotfiles](https://github.com/twpayne/dotfiles): My dotfiles, managed with https://chezmoi.io.
 * [linkarzu/dotfiles-latest](https://github.com/linkarzu/dotfiles-latest): My most up to date dotfiles
 * [jakowenko/double-take](https://github.com/jakowenko/double-take): Unified UI and API for processing and training images for facial recognition.
@@ -724,6 +723,7 @@
 * [dc-tec/nixos-config](https://github.com/dc-tec/nixos-config): NixOS Configuration Repository
 * [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config): General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
 * [JaKooLit/NixOS-Hyprland](https://github.com/JaKooLit/NixOS-Hyprland): To Automate Installation of Hyprland on NixOS using flakes. NOTE: Dot configs are not written in Nix.
+* [sioodmy/nixus](https://github.com/sioodmy/nixus): My NixOS configuration flake that moggs yours in term of eval times
 * [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia): A sleek, customizable desktop shell crafted for Wayland.
 * [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices): ✅ The Node.js best practices list (July 2026)
 * [SylvanFranklin/nonsense](https://github.com/SylvanFranklin/nonsense): Nonsensical Math Paper Generator

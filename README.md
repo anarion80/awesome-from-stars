@@ -377,7 +377,7 @@
 * [ChurchApps/FreeShow](https://github.com/ChurchApps/FreeShow): FreeShow is a free and open-source, user-friendly presenter software.
 * [eric-pierce/freshapi](https://github.com/eric-pierce/freshapi): A FreshRSS / Google Reader API Plugin for Tiny-Tiny RSS
 * [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate): NVR with realtime local object detection for IP cameras
-* [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template): Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+* [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template): Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
 * [0x2E/fusion](https://github.com/0x2E/fusion): A lightweight, self-hosted friendly RSS reader
 * [frangoteam/FUXA](https://github.com/frangoteam/FUXA): Web-based Process Visualization (SCADA/HMI/Dashboard) software
 * [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed): Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
@@ -1056,7 +1056,7 @@
 * [al-kot/typst-preview.nvim](https://github.com/al-kot/typst-preview.nvim): Live typst preview directly in neovim
 * [seanboyce/ubiblio](https://github.com/seanboyce/ubiblio): A small web app to manage your personal library, designed for self-hosting
 * [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI): UI-Lovelace-Minimalist is a "theme" for HomeAssistant
-* [umami-software/umami](https://github.com/umami-software/umami): Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no tracking, self-hosted or in the cloud.
+* [umami-software/umami](https://github.com/umami-software/umami): Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
 * [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall): Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
 * [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything): Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 * [UnicornTranscoder/UnicornTranscoder](https://github.com/UnicornTranscoder/UnicornTranscoder): Remote transcoder for Plex

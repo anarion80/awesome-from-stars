@@ -316,7 +316,7 @@
 * [dyad-sh/dyad](https://github.com/dyad-sh/dyad): Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 * [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui): A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 * [TryGhost/Editorial](https://github.com/TryGhost/Editorial): A free, open source theme for Ghost
-* [mayneyao/eidos](https://github.com/mayneyao/eidos): An extensible framework for Personal Data Management.
+* [mayneyao/eidos](https://github.com/mayneyao/eidos): A single-file relational spreadsheet for you and your agent.
 * [eldarion/eldarion-ajax](https://github.com/eldarion/eldarion-ajax): a library for adding declarative ajax functionality to your website
 * [emencia/emencia-django-newsletter](https://github.com/emencia/emencia-django-newsletter): An app for sending newsletter by email to a contact list.
 * [reizer231/emodul](https://github.com/reizer231/emodul): None

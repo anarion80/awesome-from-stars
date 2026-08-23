@@ -74,7 +74,7 @@
 * [sbmpost/AutoRaise](https://github.com/sbmpost/AutoRaise): AutoRaise (and focus) a window when hovering over it with the mouse
 * [Cloudbox/autoscan](https://github.com/Cloudbox/autoscan): Autoscan replaces the default Plex and Emby behaviour for picking up changes on the file system.
 * [denizsafak/AutoSubSync](https://github.com/denizsafak/AutoSubSync): Automatic subtitle synchronization tool.
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 * [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro): Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 * [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV): :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 * [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics): A curated list of awesome resources for Electronic Engineers and hobbyists
@@ -1039,7 +1039,7 @@
 * [crehmann/TPS42](https://github.com/crehmann/TPS42): An ergonomic split keyboard with TrackPoint support
 * [traefik/traefik](https://github.com/traefik/traefik): The Cloud Native Application Proxy
 * [thomseddon/traefik-forward-auth](https://github.com/thomseddon/traefik-forward-auth): Minimal forward authentication service that provides Google/OpenID oauth based login and authentication for the traefik reverse proxy
-* [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase): An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, and admin UI built on Rust, SQLite & Wasmtime.
+* [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase): An open, sub-millisecond, single-executable Firebase alternative with type-safe APIs, built-in WebAssembly runtime, realtime subscriptions, auth, MCP and admin UI built on Rust, SQLite (PG) & Wasmtime.
 * [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl): A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 * [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium): Build your personal knowledge base with Trilium Notes
 * [bmrf/tron](https://github.com/bmrf/tron): Tron

@@ -120,6 +120,7 @@
 * [custom-cards/button-card](https://github.com/custom-cards/button-card): ❇️ Lovelace button-card for home assistant
 * [crehmann/Buzzard](https://github.com/crehmann/Buzzard): Buzzard is a 40 keys ergonomic split keyboard
 * [e-tho/bzmenu](https://github.com/e-tho/bzmenu): Launcher-driven Bluetooth manager for Linux
+* [psdl76/caelestia-shell-installer](https://github.com/psdl76/caelestia-shell-installer): Unofficial Firefox WebApp manager for Hyprland with a Caelestia Shell-inspired interface
 * [calcom/cal.diy](https://github.com/calcom/cal.diy): Scheduling infrastructure for absolutely everyone.
 * [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated): Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
 * [miroslavpejic85/call-me](https://github.com/miroslavpejic85/call-me): 🟢 WebRTC click-to-call platform for instant real-time communication in a persistent shared room with unlimited participants where users can join and call each other instantly. No signup or setup required.
@@ -758,6 +759,7 @@
 * [TheAxelander/OpenBudgeteer](https://github.com/TheAxelander/OpenBudgeteer): OpenBudgeteer is a budgeting app based on the Bucket Budgeting Principle
 * [OpenELEC/OpenELEC.tv](https://github.com/OpenELEC/OpenELEC.tv): OpenELEC - The living room PC for everyone
 * [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap): Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
+* [arvids-unavailable/openGym](https://github.com/arvids-unavailable/openGym): https://github.com/DuarteSantos8/openGym
 * [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil): The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
 * [openrundev/openrun](https://github.com/openrundev/openrun): Deployment platform for teams to deploy internal tools. Deploy web apps declaratively, on a single-node or on Kubernetes, with OIDC/SAML auth and RBAC.
 * [openscope/openscope](https://github.com/openscope/openscope): openScope Air Traffic Control Simulator

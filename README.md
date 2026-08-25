@@ -842,7 +842,7 @@
 * [GetPublii/Publii](https://github.com/GetPublii/Publii): The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 * [wei/pull](https://github.com/wei/pull): 🤖 Keep your forks up-to-date via automated PRs
 * [jordanhillis/pvekclean](https://github.com/jordanhillis/pvekclean): Easily remove old/unused PVE kernels on your Proxmox VE system
-* [cloudinary/pycloudinary](https://github.com/cloudinary/pycloudinary): Python package for cloudinary
+* [cloudinary/pycloudinary](https://github.com/cloudinary/pycloudinary): Upload, transform, optimize, and manage images and videos with Cloudinary from Python or Django.
 * [michaelmior/pycloudinary](https://github.com/michaelmior/pycloudinary): Python package for cloudinary
 * [GadgetReactor/pyHS100](https://github.com/GadgetReactor/pyHS100): Python Library to control TPLink Switch (HS100 / HS110)
 * [pyload/pyload-bookmarklet](https://github.com/pyload/pyload-bookmarklet): A bookmarklet to send download links to pyLoad

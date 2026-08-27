@@ -484,7 +484,7 @@
 * [xemle/home-gallery](https://github.com/xemle/home-gallery): Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
 * [lolouk44/homeassistant](https://github.com/lolouk44/homeassistant): My home-assistant.io config
 * [glasshome/homeassistant-addon](https://github.com/glasshome/homeassistant-addon): Alternative Dashboard App for Home Assistant
-* [CiquattroFPV/Homeassistant-Example-Config](https://github.com/CiquattroFPV/Homeassistant-Example-Config): Home Assistant - Example - Config
+* [Will-0f-D/Homeassistant-Example-Config](https://github.com/Will-0f-D/Homeassistant-Example-Config): Home Assistant - Example - Config
 * [bramstroker/homeassistant-powercalc](https://github.com/bramstroker/homeassistant-powercalc): Home Assistant Custom component to calculate estimated power consumption of lights and other appliances
 * [epoplavskis/homeassistant_salus](https://github.com/epoplavskis/homeassistant_salus): Home Assistant integration with Salus devices
 * [konradb3/homeassistant_salus](https://github.com/konradb3/homeassistant_salus): Home Assistant integration with Salus thermostates

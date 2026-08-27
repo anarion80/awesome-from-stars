@@ -113,9 +113,6 @@
     "ChurchApps/FreeShow": [
         "Other"
     ],
-    "CiquattroFPV/Homeassistant-Example-Config": [
-        "Other"
-    ],
     "ClaperCo/Claper": [
         "Other"
     ],
@@ -705,6 +702,9 @@
         "Other"
     ],
     "WhiteHouse/wh-app-android": [
+        "Other"
+    ],
+    "Will-0f-D/Homeassistant-Example-Config": [
         "Other"
     ],
     "XDeadHackerX/NetRadar": [

@@ -123,7 +123,7 @@
 * [psdl76/caelestia-shell-installer](https://github.com/psdl76/caelestia-shell-installer): Unofficial Firefox WebApp manager for Hyprland with a Caelestia Shell-inspired interface
 * [calcom/cal.diy](https://github.com/calcom/cal.diy): Scheduling infrastructure for absolutely everyone.
 * [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated): Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
-* [miroslavpejic85/call-me](https://github.com/miroslavpejic85/call-me): 🟢 WebRTC click-to-call platform for instant real-time communication in a persistent shared room with unlimited participants where users can join and call each other instantly. No signup or setup required.
+* [miroslavpejic85/call-me](https://github.com/miroslavpejic85/call-me): 📞 Open-source, self-hosted WebRTC click-to-call solution for websites. Add a video Call-Me button and let visitors instantly connect with your team through browser-based video communication. Ideal for customer support, sales, consultations, and remote assistance.
 * [caprover/caprover](https://github.com/caprover/caprover): Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 * [cardigann/cardigann](https://github.com/cardigann/cardigann): A proxy server for adding new indexers to Sonarr, SickRage and other media managers
 * [casdoor/casdoor](https://github.com/casdoor/casdoor): An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD

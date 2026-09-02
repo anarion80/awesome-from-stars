@@ -1032,7 +1032,7 @@
 * [Taro-Hayashi/THQWGD001](https://github.com/Taro-Hayashi/THQWGD001): None
 * [f0nzie/tikz_favorites](https://github.com/f0nzie/tikz_favorites): collection of favorite TikZ graphics
 * [tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth): The tiniest OpenID Certified™ authorization and authentication server you have ever seen.
-* [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet): ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+* [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet): Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀
 * [richardelling/tools](https://github.com/richardelling/tools): tools for storage servers
 * [PeWu/topola-viewer](https://github.com/PeWu/topola-viewer): Topola Genealogy Viewer – interactive genealogy visualization
 * [touying-typ/touying](https://github.com/touying-typ/touying): Touying is a powerful package for creating presentation slides in Typst.

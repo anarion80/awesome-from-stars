@@ -797,7 +797,7 @@
 * [matomo-org/piwik-python-api](https://github.com/matomo-org/piwik-python-api): Piwik API for Python
 * [kyujin-cho/pixel-volte-patch](https://github.com/kyujin-cho/pixel-volte-patch): Pixel IMS: Rootless replacement for Tensor Pixel VoLTE patch
 * [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed): Photo Sharing. For Everyone.
-* [plankanban/planka](https://github.com/plankanban/planka): PLANKA is the Kanban-style project mastering tool for everyone
+* [plankanban/planka](https://github.com/plankanban/planka): Elegant open source project tracking. Self-hosted Kanban for teams — free Community edition, with PLANKA Pro for organisations.
 * [nix-community/plasma-manager](https://github.com/nix-community/plasma-manager): Manage KDE Plasma with Home Manager [maintainer=@HeitorAugustoLN] 
 * [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic): Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 * [hcengineering/platform](https://github.com/hcengineering/platform): Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)

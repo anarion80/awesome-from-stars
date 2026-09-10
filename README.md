@@ -603,6 +603,7 @@
 * [timothystewart6/littlelink-server](https://github.com/timothystewart6/littlelink-server): A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
 * [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt): A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 * [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix): Nix packages for AI coding agents and development tools. Automatically updated daily.
+* [mnfst/llm-gateway](https://github.com/mnfst/llm-gateway): Connect Your Agents And Harnesses With Any Provider 🦚
 * [lobehub/lobehub](https://github.com/lobehub/lobehub): 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 * [localsend/localsend](https://github.com/localsend/localsend): An open-source cross-platform alternative to AirDrop
 * [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya): local handling for Tuya devices
@@ -623,7 +624,6 @@
 * [mainsail-crew/mainsail](https://github.com/mainsail-crew/mainsail): Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.
 * [vimichael/make-windows-pretty](https://github.com/vimichael/make-windows-pretty): Some tools I used for making Windows 11 look nice.
 * [krateng/maloja](https://github.com/krateng/maloja): Self-hosted music scrobble database to create personal listening statistics and charts
-* [mnfst/manifest](https://github.com/mnfst/manifest): Connect Your Agents And Harnesses With Any Provider 🦚
 * [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch): Open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL.
 * [diogovalentte/mantium](https://github.com/diogovalentte/mantium): Mantium is a self-hosted cross-site manga tracker. It can track manga from source sites like Manga Plus, Mangadex, ComicK, etc.
 * [godofredoninja/Mapache](https://github.com/godofredoninja/Mapache): You can use the theme Mapache for ghost in: Blog - Magazine - Landing page - Personal page -  Photographers. and in many other things
@@ -735,7 +735,7 @@
 * [joric/nrfmicro](https://github.com/joric/nrfmicro): A Pro Micro alternative for wireless keyboards
 * [zendo/nsworld](https://github.com/zendo/nsworld): Welcome to NixOS world ❄️
 * [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch):  This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
-* [jdhao/nvim-config](https://github.com/jdhao/nvim-config): A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
+* [jdhao/nvim-config](https://github.com/jdhao/nvim-config): A modern Neovim configuration with full battery for Python, Lua, golang, Markdown, LaTeX, and more...
 * [theotherp/nzbhydra2](https://github.com/theotherp/nzbhydra2): Usenet meta search
 * [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy): A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 * [octelium/octelium](https://github.com/octelium/octelium): A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastructure.

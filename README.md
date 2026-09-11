@@ -186,7 +186,7 @@
 * [linuxserver/davos](https://github.com/linuxserver/davos): Web-based FTP automation for Linux servers.
 * [Freika/dawarich](https://github.com/Freika/dawarich): Your favorite self-hostable alternative to Google Timeline (Google Location History)
 * [dbgate/dbgate](https://github.com/dbgate/dbgate): Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
-* [hackthedev/dcts-shipping](https://github.com/hackthedev/dcts-shipping): A Chat Platform like Discord but self-hostable like TeamSpeak
+* [hackthedev/dcts-shipping](https://github.com/hackthedev/dcts-shipping): DCTS is an ambitious project with the goal to offer absolute independence through software with a no-bullshit mindset completely for free and with a heavy focus on self-hosting, decentralization and ease of use.
 * [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10): A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 * [decaporg/decap-cms](https://github.com/decaporg/decap-cms): A Git-based CMS for Static Site Generators
 * [sums001/Deepseek-API](https://github.com/sums001/Deepseek-API): Reverse engineered Deepseek chat into an OpenAI compatible API. Access V4 and R1 models through a simple REST interface without API keys or billing.

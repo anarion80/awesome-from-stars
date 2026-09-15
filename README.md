@@ -110,7 +110,7 @@
 * [twbs/bootstrap](https://github.com/twbs/bootstrap): The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 * [mdbootstrap/bootstrap-toggle-buttons](https://github.com/mdbootstrap/bootstrap-toggle-buttons): Bootstrap-toggle-buttons has moved to https://github.com/nostalgiaz/bootstrap-switch
 * [boto/boto](https://github.com/boto/boto): For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services
-* [boto/boto3](https://github.com/boto/boto3): Boto3, an AWS SDK for Python
+* [boto/boto3](https://github.com/boto/boto3): AWS SDK for Python (Boto3)
 * [sushaantu/boxento](https://github.com/sushaantu/boxento): Open-source customizable start page 
 * [afternoonlabs/BreezeKeyboard](https://github.com/afternoonlabs/BreezeKeyboard): Breeze is a split mechanical keyboard with a column-staggered layout. With a focus on productivity, Breeze features a full 6x4 alphanumeric layout, arrow keys, and an extra 6 key cluster for typing and coding.
 * [briefercloud/briefer](https://github.com/briefercloud/briefer): Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.

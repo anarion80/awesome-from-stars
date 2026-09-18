@@ -1748,6 +1748,9 @@
     "huginn/huginn": [
         "Other"
     ],
+    "hunter-read/grimoire": [
+        "Other"
+    ],
     "hyperknot/openfreemap": [
         "Other"
     ],
@@ -2097,6 +2100,9 @@
         "Other"
     ],
     "lobaro/restic-backup-docker": [
+        "Other"
+    ],
+    "lobehub/lobehub": [
         "Other"
     ],
     "localsend/localsend": [

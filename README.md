@@ -426,6 +426,7 @@
 * [BeryJu/gravity](https://github.com/BeryJu/gravity): Fully-replicated DNS and DHCP Server with ad-blocking powered by etcd
 * [garabik/grc](https://github.com/garabik/grc): generic colouriser
 * [goniszewski/grimoire](https://github.com/goniszewski/grimoire): Bookmark manager for the wizards 🧙
+* [hunter-read/grimoire](https://github.com/hunter-read/grimoire): Self-hosted organizer for your TTRPG content and campaigns
 * [gristlabs/grist-core](https://github.com/gristlabs/grist-core): Grist is the evolution of spreadsheets.
 * [boschkundendienst/guacamole-docker-compose](https://github.com/boschkundendienst/guacamole-docker-compose): Guacamole with docker-compose using PostgreSQL, nginx with SSL (self-signed)
 * [hazcod/Gunther](https://github.com/hazcod/Gunther): Easy web frontend for media streaming - Fork me! (NO LONGER MAINTAINED)
@@ -604,6 +605,7 @@
 * [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt): A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 * [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix): Nix packages for AI coding agents and development tools. Automatically updated daily.
 * [mnfst/llm-gateway](https://github.com/mnfst/llm-gateway): Connect Your Agents And Harnesses With Any Provider 🦚
+* [lobehub/lobehub](https://github.com/lobehub/lobehub): 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 * [localsend/localsend](https://github.com/localsend/localsend): An open-source cross-platform alternative to AirDrop
 * [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya): local handling for Tuya devices
 * [LodestoneHQ/lodestone](https://github.com/LodestoneHQ/lodestone): Personal Document Archiving (DMS, EDMS for Personal/Home Office use)

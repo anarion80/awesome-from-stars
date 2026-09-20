@@ -634,7 +634,7 @@
 * [google/material-design-icons](https://github.com/google/material-design-icons): Material Design icons by Google (Material Symbols)
 * [Materialious/Materialious](https://github.com/Materialious/Materialious): Materialious is a modern material design frontend for YouTube & Invidious, focused on a clean, privacy-friendly YouTube experience. It supports local video fallback when Invidious fails and is available on Web, Desktop, Android, and Android TV.
 * [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy): 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
-* [getmaxun/maxun](https://github.com/getmaxun/maxun): 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn websites into structured APIs in minutes 🔥 
+* [getmaxun/maxun](https://github.com/getmaxun/maxun): Turn any website into a structured API. Extract, automate, search and monitor the web.
 * [maybe-finance/maybe](https://github.com/maybe-finance/maybe): The personal finance app for everyone
 * [cantino/mcfly](https://github.com/cantino/mcfly): Fly through your shell history. Great Scott!
 * [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos): MCP-NixOS - Model Context Protocol Server for NixOS resources

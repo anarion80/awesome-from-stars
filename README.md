@@ -1081,6 +1081,7 @@
 * [ventoy/Ventoy](https://github.com/ventoy/Ventoy): A new bootable USB solution.
 * [vielang/vieshare](https://github.com/vielang/vieshare): VieShare eCommerce
 * [JakeWharton/ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator): Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock.
+* [JakobAIOdev/Vintrack-Vinted-Monitor](https://github.com/JakobAIOdev/Vintrack-Vinted-Monitor): Real-time Vinted monitor with instant Discord alerts, proxy rotation & a beautiful dashboard. Self-hosted with Docker. Built with Next.js 16 + Go.
 * [Beast-Viper/ViperDots-Hyprland](https://github.com/Beast-Viper/ViperDots-Hyprland): A repository for my Hyprland dotfiles.
 * [roflcoopter/viseron](https://github.com/roflcoopter/viseron): Self-hosted, local only NVR and AI Computer Vision software.  With features such as object detection, motion detection, face recognition and more, it gives you the power to keep an eye on your home, office or any other place you want to monitor.
 * [jamiepine/voicebox](https://github.com/jamiepine/voicebox): The open-source AI voice studio. Clone, dictate, create.

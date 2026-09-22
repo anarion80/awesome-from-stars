@@ -651,7 +651,7 @@
 * [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference): A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 * [EasyG0ing1/Migration](https://github.com/EasyG0ing1/Migration): Migration is a tool to assist with migrating your OPNsense DHCP static mappings over to the new Kea DHCP server that comes with version 24 of OPNsense.
 * [mindcraft-bots/mindcraft](https://github.com/mindcraft-bots/mindcraft): Minecraft AI with LLMs+Mineflayer
-* [mindroom-ai/mindroom](https://github.com/mindroom-ai/mindroom): Your AI is trapped in apps. We set it free.
+* [mindroom-ai/mindroom](https://github.com/mindroom-ai/mindroom): Your AI is trapped in apps. We set it free — Self-hostable AI stack for multi-user, multi-agent workflows on Matrix.
 * [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack): Miniature rack builds, for portable or compact Homelabs.
 * [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes): :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 * [svenstaro/miniserve](https://github.com/svenstaro/miniserve): 🌟 For when you really just want to serve some files over HTTP right now!

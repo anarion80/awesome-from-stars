@@ -114,7 +114,7 @@
 * [sushaantu/boxento](https://github.com/sushaantu/boxento): Open-source customizable start page 
 * [afternoonlabs/BreezeKeyboard](https://github.com/afternoonlabs/BreezeKeyboard): Breeze is a split mechanical keyboard with a column-staggered layout. With a focus on productivity, Breeze features a full 6x4 alphanumeric layout, arrow keys, and an extra 6 key cluster for typing and coding.
 * [briefercloud/briefer](https://github.com/briefercloud/briefer): Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
-* [t0mer/broadlinkmanager-docker](https://github.com/t0mer/broadlinkmanager-docker): Broadlink Manager is a python based project that allows you to contorol your broadlink devices. Discover, Leran and send command in a very easy way
+* [t0mer/broadlinkmanager-docker](https://github.com/t0mer/broadlinkmanager-docker): Self-hosted web app and Home Assistant add-on to discover Broadlink devices and learn, send, save and convert IR/RF codes
 * [jimmerricks/bugs](https://github.com/jimmerricks/bugs): Opinionated ergonomic keyboards.
 * [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react): 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications. 
 * [custom-cards/button-card](https://github.com/custom-cards/button-card): ❇️ Lovelace button-card for home assistant

@@ -190,7 +190,7 @@
 * [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10): A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 * [decaporg/decap-cms](https://github.com/decaporg/decap-cms): A Git-based CMS for Static Site Generators
 * [sums001/Deepseek-API](https://github.com/sums001/Deepseek-API): Reverse engineered Deepseek chat into an OpenAI compatible API. Access V4 and R1 models through a simple REST interface without API keys or billing.
-* [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix): DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
+* [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix): A reliable coding agent for complex software engineering tasks.
 * [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor): DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 * [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated): ACME client implemented as a simple shell-script – just add water
 * [dandavison/delta](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
@@ -824,7 +824,7 @@
 * [aunefyren/poenskelisten](https://github.com/aunefyren/poenskelisten): A self-hosted application for sharing wishlists and collaborating on gifts and presents.
 * [MajkiIT/polish-ads-filter](https://github.com/MajkiIT/polish-ads-filter): CertyficateIT - Oficjalne polskie filtry do Adblock, uBlock Origin, Adguard
 * [typeofweb/polish-plurals](https://github.com/typeofweb/polish-plurals): Package for generating correct plurals in Polish.
-* [lissy93/portainer-templates](https://github.com/lissy93/portainer-templates): 🚢 500+ 1-click Portainer app templates
+* [lissy93/portainer-templates](https://github.com/lissy93/portainer-templates): 🚢 800+ 1-click Portainer app templates
 * [safing/portmaster](https://github.com/safing/portmaster): 🏔 Love Freedom - ❌ Block Mass Surveillance
 * [microsoft/PowerToys](https://github.com/microsoft/PowerToys): Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 * [geek-cookbook/premix](https://github.com/geek-cookbook/premix): The "premix" for Funky Penguin's Geek Cookbook
@@ -1024,6 +1024,7 @@
 * [ckszabi/techReader](https://github.com/ckszabi/techReader): Code for Wemos D1 mini to read TECH controllers RS communication
 * [Schmidsfeld/TelegrafFritzBox](https://github.com/Schmidsfeld/TelegrafFritzBox): Telegraf collector help file for the FritzBox by AVM
 * [m4tt72/terminal](https://github.com/m4tt72/terminal): Terminal style website
+* [codr1/termium](https://github.com/codr1/termium): Chromium in your terminal. Vimium navigation, real tabs, Kitty and sixel graphics, and Mouse keys. Linux and macOS.
 * [hide-key/testamatta](https://github.com/hide-key/testamatta): None
 * [TeXlyre/texlyre](https://github.com/TeXlyre/texlyre): A local-first LaTeX & Typst web editor with real-time collaboration & offline support
 * [MilhouseVH/texturecache.py](https://github.com/MilhouseVH/texturecache.py): Utility script to manage the XBMC texture cache

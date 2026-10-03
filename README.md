@@ -565,7 +565,7 @@
 * [NemesisRE/kiosk-mode](https://github.com/NemesisRE/kiosk-mode): 🙈 Hides the Home Assistant header and/or sidebar
 * [maykar/kiosk-mode](https://github.com/maykar/kiosk-mode): 🙈 Hides the Home Assistant header and/or sidebar
 * [jxlarrea/kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite): Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.
-* [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS):  State-of-the-art TTS model under 25MB 😻 
+* [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS): Open-source State-of-the-art TTS model which runs on a CPU 😻 
 * [snsten/Klein](https://github.com/snsten/Klein): Klein keyboard is a 36 keys, columnar staggered, split ergo keyboard
 * [braindefender/KLP-Lame-Keycaps](https://github.com/braindefender/KLP-Lame-Keycaps): Sculpted and curved keycaps for Kailh Choc and MX switches
 * [minusfive/knucklehead](https://github.com/minusfive/knucklehead): Mnemonic, macOS-optimized ergonomic columnar layout for corne-style 42 key split keyboards, designed to ease the transition from Apple ANSI keyboards.

@@ -51,7 +51,7 @@
 * [ansible-community/ara](https://github.com/ansible-community/ara): ARA Records Ansible and makes it easier to understand and troubleshoot.
 * [vercel/arg](https://github.com/vercel/arg): Simple argument parsing
 * [lcdyk0517/arkos4clone](https://github.com/lcdyk0517/arkos4clone): Bringing ArkOS and dArkOS porting to unsupported RK3326 handheld gaming devices.
-* [withastro/astro](https://github.com/withastro/astro): The web framework for content-driven websites. ⭐️ Star to support our work!
+* [withastro/astro](https://github.com/withastro/astro): The web framework for content-driven websites.
 * [koyopro/astro-cookie-session](https://github.com/koyopro/astro-cookie-session): Middleware for managing sessions using cookies on Astro.
 * [MicroWebStacks/astro-examples](https://github.com/MicroWebStacks/astro-examples): Astro design patterns examples, client-server state management, markdown, caching
 * [natemoo-re/astro-icon](https://github.com/natemoo-re/astro-icon): Inline and sprite-based SVGs in Astro made easy!
@@ -640,7 +640,7 @@
 * [utensils/mcp-nixos](https://github.com/utensils/mcp-nixos): MCP-NixOS - Model Context Protocol Server for NixOS resources
 * [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard): DIY mechanical keyboard and where to find them
 * [jjack-zz/media-landing-page](https://github.com/jjack-zz/media-landing-page): A little landing page for SABnzbd+, Sick Beard, CouchPotato, and Headphones
-* [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms): MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.
+* [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms): MediaCMS is a modern, fully featured open source video and media CMS
 * [bonukai/MediaTracker](https://github.com/bonukai/MediaTracker): Self hosted media tracker for movies, tv shows, video games, books and audiobooks
 * [medusajs/medusa](https://github.com/medusajs/medusa): The world's most flexible commerce platform for agents and developers
 * [aaronpk/Meetable](https://github.com/aaronpk/Meetable): an event listing website
@@ -651,7 +651,7 @@
 * [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference): A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
 * [EasyG0ing1/Migration](https://github.com/EasyG0ing1/Migration): Migration is a tool to assist with migrating your OPNsense DHCP static mappings over to the new Kea DHCP server that comes with version 24 of OPNsense.
 * [mindcraft-bots/mindcraft](https://github.com/mindcraft-bots/mindcraft): Minecraft AI with LLMs+Mineflayer
-* [mindroom-ai/mindroom](https://github.com/mindroom-ai/mindroom): Your AI is trapped in apps. We set it free — Self-hostable AI stack for multi-user, multi-agent workflows on Matrix.
+* [mindroom-ai/mindroom](https://github.com/mindroom-ai/mindroom): AI agents that know you and your work, in a chat app anyone can use. Open source, any model, self-host or hosted.
 * [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack): Miniature rack builds, for portable or compact Homelabs.
 * [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes): :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 * [svenstaro/miniserve](https://github.com/svenstaro/miniserve): 🌟 For when you really just want to serve some files over HTTP right now!

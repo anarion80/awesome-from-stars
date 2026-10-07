@@ -923,9 +923,6 @@
     "awesome-selfhosted/awesome-selfhosted": [
         "Other"
     ],
-    "awesomestvi/navet": [
-        "Other"
-    ],
     "awinterstein/habitica-android": [
         "Other"
     ],
@@ -2405,6 +2402,9 @@
     "natemoo-re/astro-icon": [
         "Other"
     ],
+    "navet-app/navet": [
+        "Other"
+    ],
     "navidrome/navidrome": [
         "Other"
     ],
@@ -3255,9 +3255,6 @@
         "Other"
     ],
     "vercel/arg": [
-        "Other"
-    ],
-    "vielang/vieshare": [
         "Other"
     ],
     "vimichael/make-windows-pretty": [

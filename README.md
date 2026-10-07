@@ -674,7 +674,7 @@
 * [dlip/mushi](https://github.com/dlip/mushi): 36 key keyboard
 * [LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard): A system for automatically configuring mutt and isync with a simple interface and safe passwords
 * [mescon/Muximux](https://github.com/mescon/Muximux): A self-hosted homelab dashboard with an optional built-in reverse proxy that makes stubborn apps work in iframes
-* [muxy-app/muxy](https://github.com/muxy-app/muxy): Lightweight and Memory efficient terminal for Mac built with SwiftUI and libghostty
+* [muxy-app/muxy](https://github.com/muxy-app/muxy): Lightweight and Memory efficient terminal multiplexer
 * [ai03-2725/MX_V2](https://github.com/ai03-2725/MX_V2): Second generation KiCad Libraries of keyboard switch footprints
 * [mrlacey/my-config](https://github.com/mrlacey/my-config): None
 * [Wh1t3Rose/My-Home-Assistant](https://github.com/Wh1t3Rose/My-Home-Assistant): Where I store my Home Asistant configs. Many from my blog site: https://automateit.lol
@@ -686,7 +686,7 @@
 * [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM): Affordable, Multifunctional, Nano RISC-V IP-KVM
 * [cbh123/narrator](https://github.com/cbh123/narrator): David Attenborough narrates your life
 * [wolfwood/navcaps](https://github.com/wolfwood/navcaps): 3D printable keycaps and MX-compatible mounts for directional navigation switches, along with trackpoint extension stems
-* [awesomestvi/navet](https://github.com/awesomestvi/navet): Navet is a provider-neutral smart home dashboard with intuitive editing, a polished touch-first UI, and support for Home Assistant, Homey, and openHAB.
+* [navet-app/navet](https://github.com/navet-app/navet): Navet is a provider-neutral smart home dashboard with intuitive editing, a polished touch-first UI, and support for Home Assistant, Homey, and openHAB.
 * [navidrome/navidrome](https://github.com/navidrome/navidrome): 🎧 Your Personal Streaming Service 
 * [nbs-system/naxsi](https://github.com/nbs-system/naxsi): NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX
 * [m1k1o/neko](https://github.com/m1k1o/neko): A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -1080,7 +1080,6 @@
 * [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden): Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 * [vendurehq/vendure](https://github.com/vendurehq/vendure): Open-source headless commerce platform built with TypeScript, NestJS, React, and GraphQL
 * [ventoy/Ventoy](https://github.com/ventoy/Ventoy): A new bootable USB solution.
-* [vielang/vieshare](https://github.com/vielang/vieshare): VieShare eCommerce
 * [JakeWharton/ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator): Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock.
 * [JakobAIOdev/Vintrack-Vinted-Monitor](https://github.com/JakobAIOdev/Vintrack-Vinted-Monitor): Real-time Vinted monitor with instant Discord alerts, proxy rotation & a beautiful dashboard. Self-hosted with Docker. Built with Next.js 16 + Go.
 * [Beast-Viper/ViperDots-Hyprland](https://github.com/Beast-Viper/ViperDots-Hyprland): A repository for my Hyprland dotfiles.

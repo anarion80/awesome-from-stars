@@ -47,7 +47,7 @@
 * [bertvv/ansible-role-samba](https://github.com/bertvv/ansible-role-samba): Ansible role for managing Samba as a file server on RedHat- and Debian-based linux distros.
 * [engonzal/ansible_role_proxmox](https://github.com/engonzal/ansible_role_proxmox): Ansible role to provision containers in Proxmox VE virtualization
 * [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy): Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
-* [appwrite/appwrite](https://github.com/appwrite/appwrite): Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+* [appwrite/appwrite](https://github.com/appwrite/appwrite): The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 * [ansible-community/ara](https://github.com/ansible-community/ara): ARA Records Ansible and makes it easier to understand and troubleshoot.
 * [vercel/arg](https://github.com/vercel/arg): Simple argument parsing
 * [lcdyk0517/arkos4clone](https://github.com/lcdyk0517/arkos4clone): Bringing ArkOS and dArkOS porting to unsupported RK3326 handheld gaming devices.
@@ -605,7 +605,7 @@
 * [timothystewart6/littlelink-server](https://github.com/timothystewart6/littlelink-server): A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
 * [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt): A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 * [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix): Nix packages for AI coding agents and development tools. Automatically updated daily.
-* [mnfst/llm-gateway](https://github.com/mnfst/llm-gateway): Connect Your Agents And Harnesses With Any Provider 🦚
+* [mnfst/llm-gateway](https://github.com/mnfst/llm-gateway): Open Source LLM Gateway 🦚
 * [lobehub/lobehub](https://github.com/lobehub/lobehub): 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 * [localsend/localsend](https://github.com/localsend/localsend): An open-source cross-platform alternative to AirDrop
 * [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya): local handling for Tuya devices

@@ -593,7 +593,7 @@
 * [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum): The Librum client application
 * [Librum-Reader/Librum-Server](https://github.com/Librum-Reader/Librum-Server): The Librum server
 * [TheWicklowWolf/LidaTube](https://github.com/TheWicklowWolf/LidaTube): Find and download missing Lidarr albums via yt-dlp.
-* [storytold/lightcraft](https://github.com/storytold/lightcraft): An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.
+* [storytold/lightcraft](https://github.com/storytold/lightcraft): LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust
 * [sissbruecker/linkding](https://github.com/sissbruecker/linkding): Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 * [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 * [trylinky/linky](https://github.com/trylinky/linky): The dynamic personal homepage builder
@@ -787,7 +787,7 @@
 * [siyuan-note/petal](https://github.com/siyuan-note/petal): SiYuan Plugin API
 * [pgina/pgina](https://github.com/pgina/pgina): pGina: Open Source Windows Authentication
 * [d8ahazard/Phlex](https://github.com/d8ahazard/Phlex): A super-sexy voice interface for the Plex HTPC
-* [storytold/photocraft](https://github.com/storytold/photocraft): An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+* [storytold/photocraft](https://github.com/storytold/photocraft): PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 * [SmilyOrg/photofield](https://github.com/SmilyOrg/photofield):  A self-hosted non-invasive single-binary photo gallery with a focus on speed and simplicity.
 * [photoview/photoview](https://github.com/photoview/photoview): Photo gallery for self-hosted personal servers
 * [FabianBeiner/PHP-IMDB-Grabber](https://github.com/FabianBeiner/PHP-IMDB-Grabber): This PHP library enables you to scrape data from IMDB.com.
@@ -1080,6 +1080,7 @@
 * [erkexzcx/valetudopng](https://github.com/erkexzcx/valetudopng): A Valetudo map renderer (ex Hypfer/ICantBelieveItsNotValetudo) for Home Assistant.
 * [Boerderij/Varken](https://github.com/Boerderij/Varken): Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana as a frontend
 * [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden): Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+* [PimpinPumpkin/Vela](https://github.com/PimpinPumpkin/Vela): Maps and turn-by-turn navigation for Android without Google Play Services: the best of open map data, with Google lookups by choice. Runs on degoogled phones and can avoid Flock cameras
 * [vendurehq/vendure](https://github.com/vendurehq/vendure): Open-source headless commerce platform built with TypeScript, NestJS, React, and GraphQL
 * [ventoy/Ventoy](https://github.com/ventoy/Ventoy): A new bootable USB solution.
 * [JakeWharton/ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator): Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock.

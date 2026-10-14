@@ -1877,9 +1877,6 @@
     "jazzband/django-tinymce": [
         "Other"
     ],
-    "jazzband/sorl-thumbnail": [
-        "Other"
-    ],
     "jbesw/aws-serverless-form-handler": [
         "Other"
     ],
@@ -2193,6 +2190,9 @@
         "Other"
     ],
     "marcherschel/UpdateTool": [
+        "Other"
+    ],
+    "mariocesar/sorl-thumbnail": [
         "Other"
     ],
     "mariusz-ostoja-swierczynski/tech-controllers": [

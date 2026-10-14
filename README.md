@@ -971,7 +971,7 @@
 * [jpetazzo/solr-on-dotcloud](https://github.com/jpetazzo/solr-on-dotcloud): None
 * [ekwek1/soprano](https://github.com/ekwek1/soprano): Soprano: Instant, Ultra-Realistic Text-to-Speech
 * [pfassina/sopswarden](https://github.com/pfassina/sopswarden): SOPS secrets management integrated with Bitwarden for NixOS
-* [jazzband/sorl-thumbnail](https://github.com/jazzband/sorl-thumbnail): Thumbnails for Django
+* [mariocesar/sorl-thumbnail](https://github.com/mariocesar/sorl-thumbnail): Thumbnails for Django
 * [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB): Development at the speed of light
 * [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness): SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.
 * [ulid/spec](https://github.com/ulid/spec): The canonical spec for ulid

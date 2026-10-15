@@ -874,6 +874,7 @@
 * [lukevella/rallly](https://github.com/lukevella/rallly): Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.
 * [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code): Autonomous AI development loop for Claude Code with intelligent exit detection
 * [librats/rats-search](https://github.com/librats/rats-search): rats-search: BitTorrent P2P multi-platform search engine for Desktop and Web servers with integrated torrent client
+* [morluto/rea](https://github.com/morluto/rea): Reverse engineer anything with agents, from app behavior down to native binaries.
 * [serpent213/reactor-ca](https://github.com/serpent213/reactor-ca): Homelab/SOHO Certificate Authority with age encryption and deployment
 * [Readarr/Readarr](https://github.com/Readarr/Readarr): Book Manager and Automation (Sonarr for Ebooks)
 * [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes): Application for managing recipes, planning meals, building shopping lists and much much more!

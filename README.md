@@ -394,6 +394,10 @@
 * [TwiN/gatus](https://github.com/TwiN/gatus): Automated developer-oriented status page with alerting and incident support
 * [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook): The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 * [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): 21 Lessons, Get Started Building with Generative AI 
+* [goh2407-cyber/genogram](https://github.com/goh2407-cyber/genogram): None
+* [sydlexius/genogram](https://github.com/sydlexius/genogram): Modern, mobile-friendly genogram editor using McGoldrick-Gerson notation. React + TypeScript + Supabase.
+* [liang96-ai/genogram-app](https://github.com/liang96-ai/genogram-app): Genogram tool PWA for social workers
+* [maialona/genogram-editor](https://github.com/maialona/genogram-editor): None
 * [intra-sh/ghost-on-heroku](https://github.com/intra-sh/ghost-on-heroku): One-button Heroku deploy for the Ghost 4.x.y blogging platform.
 * [growblog/ghost-purge-images](https://github.com/growblog/ghost-purge-images): CLI tool to display & purge the uploaded images, video and audio files that currently are not used in any post, page or meta data
 * [eexit/ghost-storage-cloudinary](https://github.com/eexit/ghost-storage-cloudinary): :rocket: A fully-featured and deeply tested Cloudinary Ghost storage adapter
@@ -540,7 +544,7 @@
 * [ehynds/jquery-notify](https://github.com/ehynds/jquery-notify): A growl/ubuntu-like notification system written on top of the UI widget factory
 * [mkschreder/juci](https://github.com/mkschreder/juci): JUCI JavaScript Webgui for embedded devices running OpenWRT
 * [jurica/juriform36](https://github.com/jurica/juriform36): The juriform36 keyboard
-* [justdoinc/justdo](https://github.com/justdoinc/justdo): A source-available, agent coding ready, project management platform
+* [justdoinc/justdo](https://github.com/justdoinc/justdo): Enterprise project and portfolio management. Official product information, demos and resources.
 * [k3s-io/k3s](https://github.com/k3s-io/k3s): Lightweight Kubernetes
 * [DifuseHQ/Kalmia](https://github.com/DifuseHQ/Kalmia): A documentation CMS written in go
 * [kanidm/kanidm](https://github.com/kanidm/kanidm): Kanidm: A simple, secure, and fast identity management platform
@@ -963,7 +967,7 @@
 * [SirRamEsq/SmartShape2D](https://github.com/SirRamEsq/SmartShape2D): A 2D Terrain Tool for Godot
 * [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube): Browse media content with your own rules on Android TV
 * [Smashing/smashing](https://github.com/Smashing/smashing): The exceptionally handsome dashboard framework in Ruby and Coffeescript.
-* [1N3/Sn1per](https://github.com/1N3/Sn1per): Automated penetration testing & attack surface management platform. Recon, scan, exploit, report — 600+ exploits, 90+ integrations, 10K+ detections.
+* [1N3/Sn1per](https://github.com/1N3/Sn1per): Automated penetration testing & attack surface management platform. Recon, scan, exploit, report - 600+ exploits, 90+ integrations, 10K+ detections.
 * [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop): A Progressive Web App for local file sharing 
 * [amadvance/snapraid](https://github.com/amadvance/snapraid): A backup program for disk arrays. It stores parity information of your data and it recovers from up to six disk failures
 * [grokability/snipe-it](https://github.com/grokability/snipe-it): A free open source IT asset/license management system

@@ -804,6 +804,7 @@
 * [matomo-org/piwik-python-api](https://github.com/matomo-org/piwik-python-api): Piwik API for Python
 * [kyujin-cho/pixel-volte-patch](https://github.com/kyujin-cho/pixel-volte-patch): Pixel IMS: Rootless replacement for Tensor Pixel VoLTE patch
 * [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed): Photo Sharing. For Everyone.
+* [karatektus/pl_mail](https://github.com/karatektus/pl_mail): Self-hosted, Gmail-style mail client. Multi-account IMAP, threaded conversations, real-time push via IMAP IDLE + Mercure. Built with Symfony, FrankenPHP, Hotwire Turbo. Clone and docker compose up.
 * [plankanban/planka](https://github.com/plankanban/planka): Elegant open source project tracking. Self-hosted Kanban for teams — free Community edition, with PLANKA Pro for organisations.
 * [nix-community/plasma-manager](https://github.com/nix-community/plasma-manager): Manage KDE Plasma with Home Manager [maintainer=@HeitorAugustoLN] 
 * [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic): Visual builder for React. Build apps, websites, and content. Integrate with your codebase.

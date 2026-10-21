@@ -180,7 +180,6 @@
 * [rianadon/dactyl-configurator](https://github.com/rianadon/dactyl-configurator): Generate Dactyl keyboard designs from your browser.
 * [joshreve/dactyl-keyboard](https://github.com/joshreve/dactyl-keyboard): Dactyl-ManuForm, a parameterized ergonomic keyboard translated into Python including a cadquery / Open CASCADE implementation.
 * [kissetfall/dactyl-keyboard](https://github.com/kissetfall/dactyl-keyboard): Dactyl-ManuForm, a parameterized ergonomic keyboard translated into Python including a cadquery / Open CASCADE implementation.
-* [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell): Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 * [darktable-org/darktable](https://github.com/darktable-org/darktable): darktable is an open source photography workflow application and raw developer
 * [jtleek/datasharing](https://github.com/jtleek/datasharing): The Leek group guide to data sharing 
 * [linuxserver/davos](https://github.com/linuxserver/davos): Web-based FTP automation for Linux servers.
@@ -313,6 +312,7 @@
 * [zzeneg/duet](https://github.com/zzeneg/duet): Wireless unibody/unsplit keyboard
 * [muesli/duf](https://github.com/muesli/duf): Disk Usage/Free Utility - a better 'df' alternative
 * [sigoden/dufs](https://github.com/sigoden/dufs): A file server that supports static serving, uploading, searching, accessing control, webdav...
+* [duxlabs-dev/dux-shell](https://github.com/duxlabs-dev/dux-shell): Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 * [dwainscheeren/dwains-lovelace-dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard): An fully auto generating Home Assistant UI dashboard for desktop, tablet and mobile by Dwains for desktop, tablet, mobile
 * [dyad-sh/dyad](https://github.com/dyad-sh/dyad): Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 * [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui): A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.

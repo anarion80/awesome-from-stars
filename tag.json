@@ -56,9 +56,6 @@
     "Athou/commafeed": [
         "Other"
     ],
-    "AvengeMedia/DankMaterialShell": [
-        "Other"
-    ],
     "Axenide/Ax-Shell": [
         "Other"
     ],
@@ -1380,6 +1377,9 @@
         "Other"
     ],
     "dusty-phillips/dotfiles": [
+        "Other"
+    ],
+    "duxlabs-dev/dux-shell": [
         "Other"
     ],
     "dwainscheeren/dwains-lovelace-dashboard": [

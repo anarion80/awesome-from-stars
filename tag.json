@@ -1310,6 +1310,9 @@
     "django-blog-zinnia/zinnia-theme-bootstrap": [
         "Other"
     ],
+    "django-commons/django-constance": [
+        "Other"
+    ],
     "django-crispy-forms/django-crispy-forms": [
         "Other"
     ],
@@ -1757,6 +1760,9 @@
     "huginn/huginn": [
         "Other"
     ],
+    "humblemuzzu/dumbtv": [
+        "Other"
+    ],
     "hunter-read/grimoire": [
         "Other"
     ],
@@ -1857,9 +1863,6 @@
         "Other"
     ],
     "jazzband/django-configurations": [
-        "Other"
-    ],
-    "jazzband/django-constance": [
         "Other"
     ],
     "jazzband/django-floppyforms": [
@@ -3036,9 +3039,6 @@
         "Other"
     ],
     "t184256/nix-configs": [
-        "Other"
-    ],
-    "t7h-dots/cli": [
         "Other"
     ],
     "tamanishi/Pinky3": [

@@ -143,7 +143,6 @@
 * [linuxserver/Clarkson](https://github.com/linuxserver/Clarkson): Web-based fuel logging dashboard
 * [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide): Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks from beginner to power user!
 * [ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase): Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows
-* [t7h-dots/cli](https://github.com/t7h-dots/cli): Customized version of the caelestia cli by soramanew
 * [daenny/climate_group](https://github.com/daenny/climate_group): Home Assistant Climate Group
 * [Cloudbox/Cloudbox](https://github.com/Cloudbox/Cloudbox): Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 * [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared): Cloudflare Tunnel client
@@ -220,7 +219,7 @@
 * [dyve/django-bootstrap-toolkit](https://github.com/dyve/django-bootstrap-toolkit): Bootstrap support for Django projects
 * [md-mq/django-calendar](https://github.com/md-mq/django-calendar): A simple calendar/events app with django
 * [jazzband/django-configurations](https://github.com/jazzband/django-configurations): A helper for organizing Django project settings by relying on well established programming patterns.
-* [jazzband/django-constance](https://github.com/jazzband/django-constance): Dynamic Django settings.
+* [django-commons/django-constance](https://github.com/django-commons/django-constance): Dynamic Django settings.
 * [django-crispy-forms/django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms): The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.
 * [jorgebastida/django-dajaxice](https://github.com/jorgebastida/django-dajaxice): Easy to use AJAX library for django. dajaxice mains goal is to trivialize the asynchronous communication within the django server side code and your js code. It's an "agnostic JS framework" approach and focus on decoupling the presentation logic.
 * [dcramer/django-devserver](https://github.com/dcramer/django-devserver): A drop-in replacement for Django's runserver.
@@ -312,6 +311,7 @@
 * [zzeneg/duet](https://github.com/zzeneg/duet): Wireless unibody/unsplit keyboard
 * [muesli/duf](https://github.com/muesli/duf): Disk Usage/Free Utility - a better 'df' alternative
 * [sigoden/dufs](https://github.com/sigoden/dufs): A file server that supports static serving, uploading, searching, accessing control, webdav...
+* [humblemuzzu/dumbtv](https://github.com/humblemuzzu/dumbtv): None
 * [duxlabs-dev/dux-shell](https://github.com/duxlabs-dev/dux-shell): Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 * [dwainscheeren/dwains-lovelace-dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard): An fully auto generating Home Assistant UI dashboard for desktop, tablet and mobile by Dwains for desktop, tablet, mobile
 * [dyad-sh/dyad](https://github.com/dyad-sh/dyad): Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!

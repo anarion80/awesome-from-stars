@@ -311,7 +311,7 @@
 * [zzeneg/duet](https://github.com/zzeneg/duet): Wireless unibody/unsplit keyboard
 * [muesli/duf](https://github.com/muesli/duf): Disk Usage/Free Utility - a better 'df' alternative
 * [sigoden/dufs](https://github.com/sigoden/dufs): A file server that supports static serving, uploading, searching, accessing control, webdav...
-* [humblemuzzu/dumbtv](https://github.com/humblemuzzu/dumbtv): None
+* [humblemuzzu/dumbtv](https://github.com/humblemuzzu/dumbtv): Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.
 * [duxlabs-dev/dux-shell](https://github.com/duxlabs-dev/dux-shell): Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 * [dwainscheeren/dwains-lovelace-dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard): An fully auto generating Home Assistant UI dashboard for desktop, tablet and mobile by Dwains for desktop, tablet, mobile
 * [dyad-sh/dyad](https://github.com/dyad-sh/dyad): Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
@@ -1068,7 +1068,7 @@
 * [al-kot/typst-preview.nvim](https://github.com/al-kot/typst-preview.nvim): Live typst preview directly in neovim
 * [seanboyce/ubiblio](https://github.com/seanboyce/ubiblio): A small web app to manage your personal library, designed for self-hosting
 * [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI): UI-Lovelace-Minimalist is a "theme" for HomeAssistant
-* [umami-software/umami](https://github.com/umami-software/umami): Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no surveillance, self-hosted or in the cloud.
+* [umami-software/umami](https://github.com/umami-software/umami): Umami is a privacy-first web and product analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place. No cookies, no surveillance, self-hosted or in the cloud.
 * [memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall): Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
 * [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything): Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 * [UnicornTranscoder/UnicornTranscoder](https://github.com/UnicornTranscoder/UnicornTranscoder): Remote transcoder for Plex

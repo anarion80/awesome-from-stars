@@ -1313,6 +1313,9 @@
     "django-commons/django-constance": [
         "Other"
     ],
+    "django-commons/django-smart-selects": [
+        "Other"
+    ],
     "django-crispy-forms/django-crispy-forms": [
         "Other"
     ],
@@ -1875,9 +1878,6 @@
         "Other"
     ],
     "jazzband/django-robots": [
-        "Other"
-    ],
-    "jazzband/django-smart-selects": [
         "Other"
     ],
     "jazzband/django-tinymce": [

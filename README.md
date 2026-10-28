@@ -263,7 +263,7 @@
 * [RyanBalfanz/django-sendgrid](https://github.com/RyanBalfanz/django-sendgrid): SendGrid for Django
 * [django-ses/django-ses](https://github.com/django-ses/django-ses): A Django email backend for Amazon's Simple Email Service
 * [jqb/django-settings](https://github.com/jqb/django-settings): Application to keep simple settings in database. Based on the contenttype framework.
-* [jazzband/django-smart-selects](https://github.com/jazzband/django-smart-selects): chained and grouped selects for django forms
+* [django-commons/django-smart-selects](https://github.com/django-commons/django-smart-selects): chained and grouped selects for django forms
 * [adieu/django-template-bootstrap](https://github.com/adieu/django-template-bootstrap): A django template based on twitter's bootstrap project.
 * [mattaustin/django-thummer](https://github.com/mattaustin/django-thummer): Generate webpage screenshots / capture a webpage as in image / show a thumbnail of a website in Django.
 * [jazzband/django-tinymce](https://github.com/jazzband/django-tinymce): TinyMCE integration for Django
@@ -906,7 +906,7 @@
 * [arakasi72/rtinst](https://github.com/arakasi72/rtinst): seedbox installation script for Ubuntu and Debian systems
 * [IgnisDa/ryot](https://github.com/IgnisDa/ryot): Roll your own tracker!
 * [saber-notes/saber](https://github.com/saber-notes/saber): The cross-platform open-source app built for handwriting
-* [sablierapp/sablier](https://github.com/sablierapp/sablier): Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode, Podman, Kubernetes and Proxmox LXC compatible.
+* [sablierapp/sablier](https://github.com/sablierapp/sablier): Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode, Podman, Kubernetes, Proxmox LXC, SystemD, AWS ECS and Nomad compatible.
 * [88lex/safire](https://github.com/88lex/safire): None
 * [soundmonster/samoklava](https://github.com/soundmonster/samoklava): Generated keyboard
 * [jimsalterjrs/sanoid](https://github.com/jimsalterjrs/sanoid): These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.)

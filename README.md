@@ -855,7 +855,7 @@
 * [GadgetReactor/pyHS100](https://github.com/GadgetReactor/pyHS100): Python Library to control TPLink Switch (HS100 / HS110)
 * [pyload/pyload-bookmarklet](https://github.com/pyload/pyload-bookmarklet): A bookmarklet to send download links to pyLoad
 * [denpamusic/PyPlumIO](https://github.com/denpamusic/PyPlumIO): PyPlumIO is a native ecoNET library for Plum ecoMAX controllers.
-* [facebook/pyre-check](https://github.com/facebook/pyre-check): Performant type-checking for python.
+* [meta/pyre-check](https://github.com/meta/pyre-check): Performant type-checking for python.
 * [arthurio/pysolr](https://github.com/arthurio/pysolr): Pysolr 2.0.15. The official source.
 * [mjg59/python-broadlink](https://github.com/mjg59/python-broadlink): Python module for controlling Broadlink RM2/3 (Pro) remote controls, A1 sensor platforms and SP2/3 smartplugs
 * [alok/python-conceal](https://github.com/alok/python-conceal): Vim plugin for concise Python display using Unicode for subscripts and math notation

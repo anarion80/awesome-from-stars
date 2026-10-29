@@ -1487,9 +1487,6 @@
     "f0nzie/tikz_favorites": [
         "Other"
     ],
-    "facebook/pyre-check": [
-        "Other"
-    ],
     "faif/python-patterns": [
         "Other"
     ],
@@ -2292,6 +2289,9 @@
         "Other"
     ],
     "mescon/Muximux": [
+        "Other"
+    ],
+    "meta/pyre-check": [
         "Other"
     ],
     "metabase/metabase": [

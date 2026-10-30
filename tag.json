@@ -1313,6 +1313,9 @@
     "django-commons/django-constance": [
         "Other"
     ],
+    "django-commons/django-robots": [
+        "Other"
+    ],
     "django-commons/django-smart-selects": [
         "Other"
     ],
@@ -1872,9 +1875,6 @@
         "Other"
     ],
     "jazzband/django-queued-storage": [
-        "Other"
-    ],
-    "jazzband/django-robots": [
         "Other"
     ],
     "jazzband/django-tinymce": [

@@ -256,7 +256,7 @@
 * [edoburu/django-project-template](https://github.com/edoburu/django-project-template): Django project layout to quickly start build fantastic websites! (included npm, libsass, frontend setup and base Django apps)
 * [nabucosound/django-propaganda](https://github.com/nabucosound/django-propaganda): Management of simple newsletters
 * [jazzband/django-queued-storage](https://github.com/jazzband/django-queued-storage): Provides a proxy for Django storage backends that allows you to upload files locally and eventually serve them remotely
-* [jazzband/django-robots](https://github.com/jazzband/django-robots): A Django app for managing robots.txt files following the robots exclusion protocol
+* [django-commons/django-robots](https://github.com/django-commons/django-robots): A Django app for managing robots.txt files following the robots exclusion protocol
 * [jamstooks/django-s3-folder-storage](https://github.com/jamstooks/django-s3-folder-storage): Quick extension of django-storages' S3BotoStorage to allow separate media and static folders within a bucket.
 * [boskee/django-schedule](https://github.com/boskee/django-schedule): Development fork of django-schedule
 * [Fantomas42/django-sekh](https://github.com/Fantomas42/django-sekh): Highlight the keywords of a page if a visitor is coming from a search engine.
@@ -456,7 +456,7 @@
 * [akasma74/Hass-Custom-Alarm](https://github.com/akasma74/Hass-Custom-Alarm): It is a fork of "Yet another take on a home assistant custom alarm" that will exist until its author is back to our Earth
 * [arallsopp/hass-hue-icons](https://github.com/arallsopp/hass-hue-icons): Additional vector icons for home assistant to model Philips  Hue bulbs and fixtures. 
 * [meloos/hass-integration-tech-controllers](https://github.com/meloos/hass-integration-tech-controllers): Tech Controllers Home Assistant Integration
-* [twrecked/hass-momentary](https://github.com/twrecked/hass-momentary): Momentary Switch Component for Home Assistant
+* [twrecked/hass-momentary](https://github.com/twrecked/hass-momentary): Momentary switches for Home Assistant. Create virtual switches that automatically reset after a configurable duration, with a visual device editor. Available in HACS.
 * [sleevezipper/hass-workstation-service](https://github.com/sleevezipper/hass-workstation-service): Provide useful sensors and services from your workstation to Home Assistant. 
 * [Johboh/hassalarm](https://github.com/Johboh/hassalarm): Android app for integration with Hass.io as a sensor for the next scheduled alarm on the device
 * [mcfrojd/hassio_lovelace_multiremote](https://github.com/mcfrojd/hassio_lovelace_multiremote): Made a new repository that can be updated from my dev machine.

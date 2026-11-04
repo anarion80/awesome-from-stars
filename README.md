@@ -288,6 +288,7 @@
 * [Doctor-One/doctor-dok](https://github.com/Doctor-One/doctor-dok): Doctor Dok is an AI based medical data framework and patient's med vault. Parse any health related PDF/Image to JSON and then use Chat GPT / LLama to discuss it! WARNING: Don't decide on your health based on AI Chat - it's just for Research purposes.
 * [amerkurev/doku](https://github.com/amerkurev/doku): 💽 Doku - Docker disk usage dashboard
 * [maelgangloff/domain-watchdog](https://github.com/maelgangloff/domain-watchdog): 🔍 An app that monitors domain names using RDAP, tracks their history, and helps you acquire them when they expire
+* [shaongitbd/doory](https://github.com/shaongitbd/doory): Open source canva alternative
 * [TophC7/dot.nix](https://github.com/TophC7/dot.nix): Nix config for Homelab and PCs
 * [anishathalye/dotbot](https://github.com/anishathalye/dotbot): A tool that bootstraps your dotfiles ⚡️
 * [TLSingh1/dotfiles](https://github.com/TLSingh1/dotfiles): None

@@ -83,9 +83,6 @@
     "BrianRuizy/gatsby-medium-blog": [
         "Other"
     ],
-    "BtbN/FFmpeg-Builds": [
-        "Other"
-    ],
     "BurntSushi/ripgrep": [
         "Other"
     ],
@@ -180,6 +177,9 @@
         "Other"
     ],
     "EricTheMagician/DriveFS": [
+        "Other"
+    ],
+    "FFmpeg-Builds/FFmpeg-Builds": [
         "Other"
     ],
     "FabianBeiner/PHP-IMDB-Grabber": [

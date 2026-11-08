@@ -352,7 +352,7 @@
 * [twentyhq/favicon](https://github.com/twentyhq/favicon): 100% free and open-source favicon provider
 * [webysther/favicon](https://github.com/webysther/favicon): 100% free and open-source favicon provider
 * [sharkdp/fd](https://github.com/sharkdp/fd): A simple, fast and user-friendly alternative to 'find'
-* [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds): None
+* [FFmpeg-Builds/FFmpeg-Builds](https://github.com/FFmpeg-Builds/FFmpeg-Builds): None
 * [filegator/filegator](https://github.com/filegator/filegator): Powerful Multi-User File Manager
 * [sadekbaroudi/fingerpunch](https://github.com/sadekbaroudi/fingerpunch): None
 * [axboe/fio](https://github.com/axboe/fio): Flexible I/O Tester

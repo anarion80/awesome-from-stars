@@ -766,7 +766,6 @@
 * [TheAxelander/OpenBudgeteer](https://github.com/TheAxelander/OpenBudgeteer): OpenBudgeteer is a budgeting app based on the Bucket Budgeting Principle
 * [OpenELEC/OpenELEC.tv](https://github.com/OpenELEC/OpenELEC.tv): OpenELEC - The living room PC for everyone
 * [hyperknot/openfreemap](https://github.com/hyperknot/openfreemap): Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data
-* [arvids-unavailable/openGym](https://github.com/arvids-unavailable/openGym): https://github.com/DuarteSantos8/openGym
 * [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil): The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
 * [openrundev/openrun](https://github.com/openrundev/openrun): Deployment platform for teams to deploy internal tools. Deploy web apps declaratively, on a single-node or on Kubernetes, with OIDC/SAML auth and RBAC.
 * [openscope/openscope](https://github.com/openscope/openscope): openScope Air Traffic Control Simulator

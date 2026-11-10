@@ -598,7 +598,7 @@
 * [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum): The Librum client application
 * [Librum-Reader/Librum-Server](https://github.com/Librum-Reader/Librum-Server): The Librum server
 * [TheWicklowWolf/LidaTube](https://github.com/TheWicklowWolf/LidaTube): Find and download missing Lidarr albums via yt-dlp.
-* [storytold/lightcraft](https://github.com/storytold/lightcraft): LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust
+* [storytold/lightcraft](https://github.com/storytold/lightcraft): LightCraft: An open-source non-destructive photo editor written from scratch in pure Rust
 * [sissbruecker/linkding](https://github.com/sissbruecker/linkding): Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 * [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 * [trylinky/linky](https://github.com/trylinky/linky): The dynamic personal homepage builder
@@ -791,7 +791,7 @@
 * [siyuan-note/petal](https://github.com/siyuan-note/petal): SiYuan Plugin API
 * [pgina/pgina](https://github.com/pgina/pgina): pGina: Open Source Windows Authentication
 * [d8ahazard/Phlex](https://github.com/d8ahazard/Phlex): A super-sexy voice interface for the Plex HTPC
-* [storytold/photocraft](https://github.com/storytold/photocraft): PhotoCraft: An open-source, photo editor written by scratch in pure Rust
+* [storytold/photocraft](https://github.com/storytold/photocraft): PhotoCraft: An open-source photo editor written from scratch in pure Rust
 * [SmilyOrg/photofield](https://github.com/SmilyOrg/photofield):  A self-hosted non-invasive single-binary photo gallery with a focus on speed and simplicity.
 * [photoview/photoview](https://github.com/photoview/photoview): Photo gallery for self-hosted personal servers
 * [FabianBeiner/PHP-IMDB-Grabber](https://github.com/FabianBeiner/PHP-IMDB-Grabber): This PHP library enables you to scrape data from IMDB.com.

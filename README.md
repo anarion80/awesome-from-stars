@@ -1005,7 +1005,7 @@
 * [stumpapp/stump](https://github.com/stumpapp/stump): A free and open source comics, manga and digital book server with OPDS support
 * [robzr/sub2rbl](https://github.com/robzr/sub2rbl): OpenWRT utility that syncs online RBLs to iptables via ipset sets.
 * [SuiteCRM/SuiteCRM](https://github.com/SuiteCRM/SuiteCRM): SuiteCRM - Open source CRM for the world
-* [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine): Self-hosted game stream host for Moonlight.
+* [SunshineStream/Sunshine](https://github.com/SunshineStream/Sunshine): Self-hosted game stream host for Moonlight.
 * [supabase/supabase](https://github.com/supabase/supabase): The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 * [coussej/svelte-twitter-widgets](https://github.com/coussej/svelte-twitter-widgets): Svelte components for the official twitter widgets.
 * [spences10/sveltekit-embed](https://github.com/spences10/sveltekit-embed): SvelteKit embed components

@@ -353,9 +353,6 @@
     "LiveHelperChat/docker-standalone": [
         "Other"
     ],
-    "LizardByte/Sunshine": [
-        "Other"
-    ],
     "LodestoneHQ/lodestone": [
         "Other"
     ],
@@ -606,6 +603,9 @@
         "Other"
     ],
     "SuiteCRM/SuiteCRM": [
+        "Other"
+    ],
+    "SunshineStream/Sunshine": [
         "Other"
     ],
     "Sygil-Dev/sygil-webui": [

@@ -34,7 +34,7 @@
 * [nielsfaber/alarmo](https://github.com/nielsfaber/alarmo): Easy to use alarm system integration for Home Assistant
 * [jcooper-korg/AlarmPanel](https://github.com/jcooper-korg/AlarmPanel): A custom alarm panel card for home assistant
 * [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one): 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
-* [Dingmatt/AMSA](https://github.com/Dingmatt/AMSA): A Plex anime agent using TVDB and AniDB data
+* [Dingmatt/AMSA](https://github.com/Dingmatt/AMSA): Plex metadata agent for anime: combines AniDB, TheTVDB, AniList, MyAnimeList and Kitsu into standard Plex TV shows, with season mapping, artwork checks and AniDB-safe throttling.
 * [plausible/analytics](https://github.com/plausible/analytics): Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.
 * [daemonza/Android---Navigation-Drawer-example](https://github.com/daemonza/Android---Navigation-Drawer-example): Android - Navigation Drawer example
 * [chrisbanes/Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh): DEPRECATED
@@ -567,6 +567,7 @@
 * [INTI-CMNB/KiBot](https://github.com/INTI-CMNB/KiBot): KiCad automation utility
 * [torik42/kicad-to-ergogen](https://github.com/torik42/kicad-to-ergogen): None
 * [INTI-CMNB/kicad_auto](https://github.com/INTI-CMNB/kicad_auto): Docker image for KiCad automation scripts suitable for CI/CD
+* [SeniorMatt/kinoklip](https://github.com/SeniorMatt/kinoklip): Kinoklip — fast, GPU-accelerated non-linear video editor for Linux (Qt 6 + FFmpeg)
 * [NemesisRE/kiosk-mode](https://github.com/NemesisRE/kiosk-mode): 🙈 Hides the Home Assistant header and/or sidebar
 * [maykar/kiosk-mode](https://github.com/maykar/kiosk-mode): 🙈 Hides the Home Assistant header and/or sidebar
 * [jxlarrea/kiosk-satellite](https://github.com/jxlarrea/kiosk-satellite): Turn any Android device into a beautiful, dedicated Home Assistant kiosk. Purpose-built for Home Assistant from the ground up.

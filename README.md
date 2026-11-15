@@ -498,7 +498,7 @@
 * [TehloWasTaken/HomeDashboard](https://github.com/TehloWasTaken/HomeDashboard): A requested Github Repo for my Grafana Home Dashboard
 * [loganmarchione/homelab-svg-assets](https://github.com/loganmarchione/homelab-svg-assets): Full-color SVG icons of homelab-related software, products, and brands
 * [gethomepage/homepage](https://github.com/gethomepage/homepage): A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-* [bastienwirtz/homer](https://github.com/bastienwirtz/homer): A very simple static homepage for your server.
+* [homer-dashboard/homer](https://github.com/homer-dashboard/homer): A very simple static homepage for your server.
 * [andsens/homeshick](https://github.com/andsens/homeshick): git dotfiles synchronizer written in bash
 * [Sian-Lee-SA/honeycomb-menu](https://github.com/Sian-Lee-SA/honeycomb-menu): Honeycomb menu is a Home Assistant module (not a card) that can be applied to any lovelace card. When activated by the defined action on said card, the module will display a 'rounded' list of honeycomb buttons with an optional XY pad to make interfacing with lovelace more fluent
 * [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch): Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia

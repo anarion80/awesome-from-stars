@@ -372,7 +372,7 @@
 * [forem/forem](https://github.com/forem/forem): For empowering community 🌱
 * [aormsby/Fork-Sync-With-Upstream-action](https://github.com/aormsby/Fork-Sync-With-Upstream-action): An action to automatically update your fork with new commits from the upstream repo
 * [FormBee/FormBee](https://github.com/FormBee/FormBee): The open-source form backend for data privacy conscious developers.
-* [formbricks/formbricks](https://github.com/formbricks/formbricks): Open Source Qualtrics Alternative
+* [formbricks/formbricks](https://github.com/formbricks/formbricks): The Open Source Qualtrics Alternative
 * [jaredpalmer/formik](https://github.com/jaredpalmer/formik): Build forms in React, without the tears 😭 
 * [formio/formio](https://github.com/formio/formio): A Form and Data Management Platform for Progressive Web Applications.
 * [plutov/formulosity](https://github.com/plutov/formulosity): Self-hosted Surveys as Code platform.
@@ -701,7 +701,7 @@
 * [QYLexpired/Neo](https://github.com/QYLexpired/Neo): Neo
 * [AlexSciFier/neonlink](https://github.com/AlexSciFier/neonlink): Simple self-hosted bookmark service.
 * [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts): Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-* [netdata/netdata](https://github.com/netdata/netdata): The fastest path to AI-powered full stack observability, even for lean teams.
+* [netdata/netdata](https://github.com/netdata/netdata): Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish · 800+ integrations
 * [ktbyers/netmiko](https://github.com/ktbyers/netmiko): Multi-vendor library to simplify Paramiko SSH connections to network devices
 * [XDeadHackerX/NetRadar](https://github.com/XDeadHackerX/NetRadar): NetRadar is a Networking tool focused on mapping local and WiFi networks. It provides detailed information about connected devices, open ports, servers and automated scans for WiFi networks.NetRadar es una herramienta de Networking centrada en el mapeo de redes locales y WiFi. Proporciona información detallada sobre dispositivos conectados, puert..
 * [sthierolf/network-automation-scripts](https://github.com/sthierolf/network-automation-scripts): Examples for "Custom Links" in Netbox to other applications by API calls

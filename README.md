@@ -191,7 +191,7 @@
 * [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix): A reliable coding agent for complex software engineering tasks.
 * [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor): DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 * [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated): ACME client implemented as a simple shell-script – just add water
-* [dandavison/delta](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+* [dandavison/delta](https://github.com/dandavison/delta): A syntax-highlighting interface for git, diff, blame, and grep/ripgrep
 * [Doc-Steve/dendritic-design-with-flake-parts](https://github.com/Doc-Steve/dendritic-design-with-flake-parts): A guide on how to structure your Nix code with Flake Parts using the Dendritic Pattern
 * [yunfachi/denix](https://github.com/yunfachi/denix): Extensible Nix library for creating scalable NixOS, Home Manager, and Nix-Darwin configurations with modules, hosts, and rices
 * [hrvach/deskhop](https://github.com/hrvach/deskhop): Fast Desktop Switching Device
@@ -1013,7 +1013,7 @@
 * [spences10/sveltekit-embed](https://github.com/spences10/sveltekit-embed): SvelteKit embed components
 * [fayez-nazzal/sveltekit-tweet](https://github.com/fayez-nazzal/sveltekit-tweet): The best way to embed tweets in your SvelteKit app, supporting both SSR and static prerendering modes.
 * [badgeek/svg2shenzhen](https://github.com/badgeek/svg2shenzhen): Convert Inkscape SVG drawings to KiCad PCB and footprint modules
-* [pqpxo/SWAKES_hassio](https://github.com/pqpxo/SWAKES_hassio): Home Assistant
+* [pqpxo/SWAKES_hassio](https://github.com/pqpxo/SWAKES_hassio): My Home Assistant dashboards, guides, themes and config, shared so you can borrow ideas for your own setup.
 * [sadekbaroudi/sweep36](https://github.com/sadekbaroudi/sweep36): None
 * [ankri/SwitchCompatLibrary](https://github.com/ankri/SwitchCompatLibrary): I backported the ICS Switch (api level 14+) to Froyo (api level 8)
 * [Sygil-Dev/sygil-webui](https://github.com/Sygil-Dev/sygil-webui): Stable Diffusion web UI

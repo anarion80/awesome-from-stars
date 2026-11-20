@@ -186,7 +186,7 @@
 * [dbgate/dbgate](https://github.com/dbgate/dbgate): Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 * [hackthedev/dcts-shipping](https://github.com/hackthedev/dcts-shipping): DCTS is an ambitious project with the goal to offer absolute independence through software with a no-bullshit mindset completely for free and with a heavy focus on self-hosting, decentralization and ease of use.
 * [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10): A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
-* [decaporg/decap-cms](https://github.com/decaporg/decap-cms): A Git-based CMS for Static Site Generators
+* [decaporg/decap-cms](https://github.com/decaporg/decap-cms): A Git-based CMS for static site generators (formerly Netlify CMS)
 * [sums001/Deepseek-API](https://github.com/sums001/Deepseek-API): Reverse engineered Deepseek chat into an OpenAI compatible API. Access V4 and R1 models through a simple REST interface without API keys or billing.
 * [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix): A reliable coding agent for complex software engineering tasks.
 * [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor): DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
@@ -701,7 +701,7 @@
 * [QYLexpired/Neo](https://github.com/QYLexpired/Neo): Neo
 * [AlexSciFier/neonlink](https://github.com/AlexSciFier/neonlink): Simple self-hosted bookmark service.
 * [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts): Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-* [netdata/netdata](https://github.com/netdata/netdata): Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish · 800+ integrations
+* [netdata/netdata](https://github.com/netdata/netdata): Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI SRE · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish · 2000+ integrations
 * [ktbyers/netmiko](https://github.com/ktbyers/netmiko): Multi-vendor library to simplify Paramiko SSH connections to network devices
 * [XDeadHackerX/NetRadar](https://github.com/XDeadHackerX/NetRadar): NetRadar is a Networking tool focused on mapping local and WiFi networks. It provides detailed information about connected devices, open ports, servers and automated scans for WiFi networks.NetRadar es una herramienta de Networking centrada en el mapeo de redes locales y WiFi. Proporciona información detallada sobre dispositivos conectados, puert..
 * [sthierolf/network-automation-scripts](https://github.com/sthierolf/network-automation-scripts): Examples for "Custom Links" in Netbox to other applications by API calls

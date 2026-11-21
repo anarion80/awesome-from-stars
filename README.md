@@ -278,7 +278,7 @@
 * [crazy-max/docker-fail2ban](https://github.com/crazy-max/docker-fail2ban): Fail2ban Docker image
 * [SamR1/docker-fittrackee](https://github.com/SamR1/docker-fittrackee): None
 * [crazy-max/docker-flarum](https://github.com/crazy-max/docker-flarum): Flarum Docker image
-* [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver): Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+* [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver): Production-ready fullstack but simple mail server running inside a container.
 * [linuxserver/docker-obsidian](https://github.com/linuxserver/docker-obsidian): None
 * [LiveHelperChat/docker-standalone](https://github.com/LiveHelperChat/docker-standalone): Docker repository with instructions how to setup standalone app with nodejs, cobrowsing, php-resque, cronjobs services.
 * [docmost/docmost](https://github.com/docmost/docmost): Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.

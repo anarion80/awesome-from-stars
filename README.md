@@ -187,7 +187,7 @@
 * [hackthedev/dcts-shipping](https://github.com/hackthedev/dcts-shipping): DCTS is an ambitious project with the goal to offer absolute independence through software with a no-bullshit mindset completely for free and with a heavy focus on self-hosting, decentralization and ease of use.
 * [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10): A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 * [decaporg/decap-cms](https://github.com/decaporg/decap-cms): A Git-based CMS for static site generators (formerly Netlify CMS)
-* [sums001/Deepseek-API](https://github.com/sums001/Deepseek-API): Reverse engineered Deepseek chat into an OpenAI compatible API. Access V4 and R1 models through a simple REST interface without API keys or billing.
+* [sums001/Deepseek-API](https://github.com/sums001/Deepseek-API): Unofficial OpenAI-compatible proxy for the DeepSeek chat web interface. Lets you point existing OpenAI clients at DeepSeek chat through a standard /v1/chat/completions endpoint.
 * [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix): A reliable coding agent for complex software engineering tasks.
 * [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor): DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.
 * [dehydrated-io/dehydrated](https://github.com/dehydrated-io/dehydrated): ACME client implemented as a simple shell-script – just add water

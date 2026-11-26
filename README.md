@@ -825,7 +825,7 @@
 * [mrworf/plexupdate](https://github.com/mrworf/plexupdate): Plex Update script to simplify the life of Linux Plex Media Server users.
 * [damian-krychowski/plikshare](https://github.com/damian-krychowski/plikshare): PlikShare - Self-hosted file sharing platform with unlimited users, flexible storage options (local disk or S3), and secure external collaboration features. Own your data, control your infrastructure.
 * [opnsense/plugins](https://github.com/opnsense/plugins): OPNsense plugin collection
-* [plxnative/plx-native](https://github.com/plxnative/plx-native): Fast, unofficial Plex client for LG webOS TVs — native 60 fps UI, 4K HEVC/Dolby Vision, no Chromium or WebView.
+* [plxnative/plx-native](https://github.com/plxnative/plx-native): Fast, unofficial Plex client for LG webOS TVs (Samsung Tizen in early alpha) — native 60 fps UI, 4K HEVC/Dolby Vision, no Chromium or WebView.
 * [mstojek/pms5003-logger](https://github.com/mstojek/pms5003-logger): Simple python script to control a PMS5003 sensor
 * [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id): The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
 * [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase): Open Source realtime backend in 1 file
